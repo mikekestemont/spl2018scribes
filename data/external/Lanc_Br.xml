@@ -1,0 +1,421 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i466"><teiHeader><fileDesc><titleStmt><title>Roman van Lancelot</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Roman van Lancelot</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K47">Brussel, Koninklijke Bibliotheek, II 115,3 (fragm.)</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>396 verzen</OMVANG>
+<BRON.OPM>E&eacute;n blad, waarvan de bovenmarge grotendeels is afgesneden; ook een driehoekig stuk perkament, dat op de rechterbenedenhoek was aangebracht, is verloren gegaan. Per bladzijde 3 kolommen en per kolom 66 regels. Waarschijnlijk is het blad uit dezelfde codex afkomstig als het Haagse fragment van de Roman van Lancelot (fragment 's-Gravenhage, Koninklijke Bibliotheek, 75 H 58).</BRON.OPM>
+<EDITIE>C.P. Serrure: 'De ridder met de kar. Fragment'. In: Vaderlandsch Museum 4 (1861), 309-323 (313-323).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>1299.31</BRONMNW>
+<BRONNEN>De Roman van Lancelot is gedeeltelijk overgeleverd in de zogenaamde Haagse Lancelot-codex. Verder zijn er van de tekst twee fragmenten overgeleverd, die mogelijk tot hetzelfde handschrift behoord hebben. Van deze twee fragmenten blijft het hiervoor reeds genoemde Haagse fragment buiten beschouwing, omdat de tekst overeenkomt met Bk. II, vs. 27338-27733 in de Haagse Lancelot-codex (volgens de uitgave Jonckbloet (1846-1849)). De signaturen van de Haagse Lancelot-codex en het andere fragment, waarvan de tekst wel wordt aangeboden, zijn achtereenvolgens: - <x nr=K46>'s-Gravenhage, Koninklijke Bibliotheek, 129 A 10, fol. 1-99</x>
+ - <x nr=K47>Brussel, Koninklijke Bibliotheek, II 115,3 (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="313"/><milestone unit="fol" n="ra"/><scribe id="B"/> Die vader seide: "Laetse varen,"</l>
+<l>dattie sone dede sonder sparen;</l>
+<l>maer hi seide doe alsoe houde,</l>
+<l>dat hi iegen hem vechten soude.</l>
+<l n="5">Die vader seide: "Gine sult niet!"</l>
+<l>ende als hijt dor hem nine liet,</l>
+<l>traken di vader weder achter waerd</l>
+<l>twewerf oft drie, al ongespaet;</l>
+<l>nochtan wildi embertoe</l>
+<l n="10">Lancelote op lopen, ende doe</l>
+<l>dedine vaen ende binden daer,</l>
+<l>ende seide tote hem daer naer:</l>
+<l>"Du als nu moten houden stille</l>
+<l>ende dijns ondancs doen minen wille;</l>
+<l n="15">du sals hem laten die ioncfrouwe nu,</l>
+<l>ende wi selen hem volgen, ic ende du,</l>
+<l>heden ende oec morgen mede,</l>
+<l>hi mach sijn van sulker vromechede.</l>
+<l>Du suls vanden stride swigen bi dien,</l>
+<l n="20">ende du moges selc dinc an hem sien,</l>
+<l>du suls dan al te tide</l>
+<l>iegen hem mogen comen te stride."</l>
+<l><edition n="314"/>Die gode man dede hem daer of</l>
+<l>sijns ondancs doen sijn belof.</l>
+<l n="25">Ende hi ende sijn sone daertoe</l>
+<l>volgeden Lancelote beide alsoe</l>
+<l>ende der ioncfrouwe, die Lanceloet dede</l>
+<l>savons herbergen tere stede,</l>
+<l>daer si beide waren wel ontfaen,</l>
+<l n="30">in een religioen. Ende also saen</l>
+<l>alsi liede gebet waren,</l>
+<l>quam die riddere daer gevaren</l>
+<l>met sinen geselscepe, die daer was</l>
+<l>eerlike ontfaen, sijt seker das;</l>
+<l n="35">want sine vorders iest begonsten</l>
+<l>die stede stichten met groter onsten.</l>
+<l>Des ander dages Lanceloet horde</l>
+<l>messe, die den dage toe horde,</l>
+<l>van den Heilegen Geeste, ende daer naer</l>
+<l n="40">sprac een begeven man an hem daer</l>
+<l>ende seide: "Here, mi donct, dat gi</l>
+<l>in dit lant sijt comen bedi,</l>
+<l>dat gi die gene, di met gewouden</l>
+<l>in dit lant liegen gehouden,</l>
+<l n="45">gerne te livereret." Doe sedi:</l>
+<l>"Wilder onse Here toe hulpen mi,</l>
+<l>ic souder gerne pine doen toe."</l>
+<l>"Ic segt bedi," seide di gode man doe,</l>
+<l>"hier is ene prove nu binnen,</l>
+<l n="50">daer men wale ane mach kinnen</l>
+<l>wie vanden aventuren al,</l>
+<l>dire in sijn, die ere hebben sal."</l>
+<l>"Ic souder nu gerne proven an,"</l>
+<l>seide Lancaloet. Do sprac die goede man:</l>
+<l n="55">"Wi selent u togen alte handen."</l>
+<l>Lanceloet was altoten handen</l>
+<l>ende toten hoefde gewapent daer.</l>
+<l>Die goede man leidene daer naer</l>
+<l>in enen camere, daer te samen</l>
+<l n="60">lagen herde vele lichamen,</l>
+<l>die gode liede hadden gesijn doe</l>
+<l>iegen Gode ende di werelt alsoe.</l>
+<l><edition n="315"/>Hi sach op enen kerchof van diren</l>
+<l>ende van riken tommen vele maniren;</l>
+<l n="65">maer si sagen daer ene rike</l>
+<l>soe sonderlinge ende sonder gelike;</l>
+<l><milestone unit="fol" n="rb"/> ende die tomme was besegelt doe</l>
+<l>met lode ende met chimente toe;</l>
+<l>dat decsel, dat op di tomme lach,</l>
+<l n="70">was herde rike, daer hijt besach.</l>
+<l>Doe seide tot hem di gode man:</l>
+<l>"Wildi, gi moget u proven daer an;</l>
+<l>die dit decsel op hebt, hi sal</l>
+<l>inden daventuren, di gi soect al."</l>
+<l n="75">Lanceloet slogere an die hant,</l>
+<l>ende hieft boven sijns hoefs rant;</l>
+<l>bi sachi inwaerd, ende hi vant daer</l>
+<l>enen doden lichamen, daer naer,</l>
+<l>van enen doden riddere gewapent doe,</l>
+<l n="80">ende enen scilt, op hem licgende toe,</l>
+<l>van goude met enen cruce roet;</l>
+<l>ende sijn swaerd lach bi hem al bloet</l>
+<l>also scone ende also claer,</l>
+<l>alst wast doement leide daer,</l>
+<l n="85">ende halsberch ende coussen, met allen,</l>
+<l>also wit alse een snee gevallen,</l>
+<l>ende op sinen helm haddi scone</l>
+<l>van goude ene dire crone.</l>
+<l>Het was costume in dien iaren,</l>
+<l n="90">dat ridders al gewapent waren</l>
+<l>rikelike met groter waerde,</l>
+<l>alsmense leide in die aerde.</l>
+<l>Hi vant daer letteren, daermen in las,</l>
+<l>daer aldus in gescreven was:</l>
+<l n="95">Hier leget die hoge coninc</l>
+<l>Galaad in, in warre dinc,</l>
+<l>van Gales, ende die goene</l>
+<l>was Ioseps van Aramatien sone.</l>
+<l><edition n="316"/>Dese Galaad, alsict vernam,</l>
+<l n="100">was verwonnen, als dat Grael quam</l>
+<l>in Bertangen, ende daer ombe es</l>
+<l>hem die name gegeven Gales,</l>
+<l>dat vor dien tiden, alsict las,</l>
+<l>bi namen Celyte geheten was.</l>
+<l>l05 Lanceloet hilt lange dat decsel daer</l>
+<l>boven sinen hoefde, ende daer naer</l>
+<l>leidijt weder neder te hant</l>
+<l>in dier maniren dat hijt vant;</l>
+<l>ende alle die gene, di sagen toe,</l>
+<l n="110">scoffirden hem daer af alsoe.</l>
+<l>Doe seide die goede man saen:</l>
+<l>"Gi hebt dese aventure gedaen,</l>
+<l>en ic ne gelove nembermere</l>
+<l>ane dat te gesciene es, here,</l>
+<l n="115">en werden niet verloest bi u,</l>
+<l>die hier in ellenden sijn nu."</l>
+<l>Die gode man leide daer naer</l>
+<l>Lancelote in ene kerke daer,</l>
+<l>omdat hi soude loven</l>
+<l n="120">onsen Here daer af hier boven.</l>
+<l>Ende Lanceloet sach doe scire</l>
+<l>ene groete vlamme van vire</l>
+<l>tere vensteren, die, alsi vernam,</l>
+<l>ut enen hole onder deerde quam,</l>
+<l n="125">ende hi vragede wat dat ware.</l>
+<l>Die goede man seide daer nare:</l>
+<l>"Tote her es ene wel sere</l>
+<l>wonderliken aventure, here,</l>
+<l>bedie men seget, sijt seker des,</l>
+<l n="130">dat daer binnen ene tomme es,</l>
+<l>dattie gene, die decsel van hare</l>
+<l>op heffen mach, hi sal hir nare</l>
+<l><milestone unit="fol" n="rc"/> int sitten vander Tavelronden</l>
+<l>sitten, alst tijt comt ende stonden,</l>
+<l n="135">daer noit riddere in ne sat;</l>
+<l><pb n="317"/> hem ne moeste mesfallen om dat,</l>
+<l>ende hi sal inden altemale</l>
+<l>die hoge queste vanden Grale."</l>
+<l>Ende Lanceloet antwerde na dien:</l>
+<l n="140">"Here, die tomme willic sien,</l>
+<l>"Gi mogetse sien," seide di gode man,</l>
+<l>"ne mare ne comter niet an,</l>
+<l>want die aventure u nine es;</l>
+<l>want een man allene, sijt seker des,</l>
+<l n="145">en mach die aventure, des besiet,</l>
+<l>beide te hovede bringen niet."</l>
+<l>"Ic salse proven," seide hi,</l>
+<l>"watter af staet te comene mi;</l>
+<l>wiest mi welc ic derwaerd sal gaen."</l>
+<l n="150">Die gode man wiesdene saen.</l>
+<l>Doe ginc Lanceloet neder ter vard</l>
+<l>enen stegere ten hole ward;</l>
+<l>daer vant hi ene tomme tijn tiden,</l>
+<l>die bernede in allen siden,</l>
+<l n="155">daer di vlamme eens scachs hoech,</l>
+<l>met groter hitten, ut opwaerd vloech.</l>
+<l>Als hi dat sach, hi hilt hem das</l>
+<l>te dulre, dat hi daer comen was;</l>
+<l>want hi sine hant nine mochte</l>
+<l n="160">daer an gedaen, alse hem dochte,</l>
+<l>sine moeste bernen ter vart.</l>
+<l>Doe keerdi weder op wart:</l>
+<l>alsi ter derder trappen quam, bleef hi</l>
+<l>staende, ende seide: "Ay mi!</l>
+<l n="165">wat scaden es mi gesciet, God, here!"</l>
+<l>ende hi sette hem ten kere,</l>
+<l>die ene hant in die ander slaende,</l>
+<l>ende weende sere neder ward gaende,</l>
+<l>ende vlokede die wile doe,</l>
+<l n="170">dat hi was geboren ende levede toe.</l>
+<l><edition n="318"/>Doe horde Lanceloet enen luut,</l>
+<l>dat dus sprac iegen hem ter tommen uut:</l>
+<l>"Ne com niet vord! wat si es gesciet,</l>
+<l>dese aventure en es dijn niet!"</l>
+<l n="175">Lanceloet hadde wonder van dien,</l>
+<l>want hi daer niet ne conste gesien,</l>
+<l>ende seide thant: "Wie es daer?"</l>
+<l>Dat luut, seide tot hem daer naer:</l>
+<l>"Du moets mi eer berechten des,</l>
+<l n="180">wat rouwen ende scanden dat es,</l>
+<l>dattu niet ne best goetlike</l>
+<l>die beste riddere van ertrike,</l>
+<l>ende ne geen goet ridder hevet</l>
+<l>vrese, die ter werelt levet."</l>
+<l n="185">"Nu verstant" seide dat luut doe:</l>
+<l>"du seits beide, wel ende quaet toe,</l>
+<l>indien dattu seits: Ay! God, here;</l>
+<l>wat scaden, seitstu, wel sere,</l>
+<l>dat was te secgene, dattu</l>
+<l n="190">di beste riddere nine waers nu</l>
+<l>vander werelt; ne ware, dan nes</l>
+<l>gene scade, sijt seker des;</l>
+<l>maer die gene, die na desen</l>
+<l>beter riddere dan du salt wesen,</l>
+<l n="195">sal so gode poente hebben dan</l>
+<l>over hem, dat hem geen man</l>
+<l>ne sal mogen te sulken sake,</l>
+<l>als over hem sijn, mogen genaken.</l>
+<l><milestone unit="fol" n="va"/> Ende als hi den voet hier in setten sal,</l>
+<l n="200">daer het dus es ontsteken al,</l>
+<l>ende hi dat vier, dat nu bernet, sal sien,</l>
+<l>het sal altehant bluscen bidien,</l>
+<l>omdat noit geen vier van luxuren</l>
+<l>in hem ne quam te gere uren.</l>
+<l n="205">Nien bedi, ic ne wille daer bi</l>
+<l>niet daer ombe veronwerden di</l>
+<l>van ridderscepe ende van vromecheden</l>
+<l>bestu so bewarrent den dach heden,</l>
+<l>dattu weerder best dan ieman el;</l>
+<l n="210">ende ic kinne di harde wel:</l>
+<l><edition n="319"/>wi sijn, onder mi ende di,</l>
+<l>van enen geslechte, ende oec hi,</l>
+<l>die mi sal van deser stede</l>
+<l>verloessen, sal min maech sijn mede;</l>
+<l n="215">ende hi sal di alse na bestaen,</l>
+<l>alse man mach anderen, sonder waen;</l>
+<l>ende si seker, dat hi wesen sal</l>
+<l>blome van ridderscepe overal,</l>
+<l>ende du sals wel, nu ter cure,</l>
+<l n="220">inden al die aventuren;</l>
+<l>maer dattues heefs hier te voren</l>
+<l>bi dire groter hitten al verloren</l>
+<l>vander luxurien, die in di es,</l>
+<l>dattu nine best werdech des</l>
+<l n="225">te indene vanden Heilegen Grale</l>
+<l>die aventuren altemale,</l>
+<l>om die vule sonden van luxuren,</l>
+<l>daer du in best, nu ter uren,</l>
+<l>mede gevenijnt, ende om ene sonde</l>
+<l n="230">die dijn vader dede tere stonde</l>
+<l>met dat hi dede iontrouwe</l>
+<l>dire moder, dat hi met ere ioncfrouwe</l>
+<l>hem besondechde dorperlike</l>
+<l>binnen sinen huwelike;</l>
+<l n="235">hier bi eest een groet deel comen nu</l>
+<l>van dinen mesfalle. Ende du</l>
+<l>ne waers niet, daer men doepte di,</l>
+<l>Lanceloet geheten, ende daer bi,</l>
+<l>Galaad was dijn name daer,</l>
+<l n="240">ende dijn vader hiet di daer naer</l>
+<l>Lanceloet, om dat sijn vader also hiet.</l>
+<l>Nu vare wech, dune moges niet</l>
+<l>dese aventuren niet inden meer</l>
+<l>bidien dat di seide eer."</l>
+<l n="245">Ende Lanceloet was herde blide das,</l>
+<l>als hem vertellet was,</l>
+<l>dat sijn moder levede doe;</l>
+<l>ende hi sprac den gonen toe,</l>
+<l>die iegen hem sprac daer nare:</l>
+<l n="250">{320"/> hi vrachdem hoe sijn name ware,</l>
+<l>ende hoe datmenne daer in sloech,</l>
+<l>ende oft hi levende was oft doet.</l>
+<l>Hi antwerde hem: "In sal u</l>
+<l>van al desen berechten nu.</l>
+<l n="255">Ic was Ioseps van Aramatien,</l>
+<l>die Ihesus, den sone Marien,</l>
+<l>wilen vanden cruce dede,</l>
+<l>ende dat Heyle-Grael mede</l>
+<l>in dit lant bracht; ende nu testonden</l>
+<l n="260">gedogic dit om enen sonden,</l>
+<l>die ic ende min sone daden,</l>
+<l>dese grote ongenaden</l>
+<l>ende dese anguisse; ende min soene,</l>
+<l>Fesyman geheten, entie gone</l>
+<l n="265"><milestone unit="fol" n="vb"/> leget in die vresselijcste plage nu</l>
+<l>van alder werelt, secgic u,</l>
+<l>daer menech vernoy gesciet es</l>
+<l>wandelenden ridders, sijt seker des;</l>
+<l>ende en hadde niet gedaen</l>
+<l n="270">mijns oems bedinge, sonder [waen],</l>
+<l>wi waren verdoemt te samen,</l>
+<l>beide van zielen ende lichamen;</l>
+<l>ne mare, om die bede,</l>
+<l>die min oem over ons dede,</l>
+<l n="275">hebben onse zielen genade;</l>
+<l>ende over onse mesdaden</l>
+<l>mote wi in desen rouwe sijn al,</l>
+<l>tote dat di gene comen sal,</l>
+<l>die ons te levereren sal van desen,</l>
+<l n="280">ende dat sal binnen .xxx. iaren wesen.</l>
+<l>Nu sech mi, live neve, wattu</l>
+<l>hier af mickes te done nu?"</l>
+<l>"Ic saels ember proven," seidi.</l>
+<l>Hi seide: "Soe doet dat ic rade di:</l>
+<l n="285">heef hier onder i steen op, ende daer naer</l>
+<l>vanden watere, dattu vins daer,</l>
+<l><edition n="321"/>benette dijn ansichte, ende dan</l>
+<l>en sal di dit vier niet comen an.</l>
+<l>Hets dwater, daer di pape met pleecht,</l>
+<l n="290">tijn tiden dat hi messe seecht,</l>
+<l>sijn hande met te dwane, als hi</l>
+<l>onsen Here nuttet; ende doe di</l>
+<l>dit in enege andere maniren,</l>
+<l>gi sulter ombe sterven sciren."</l>
+<l n="295">Lanceloet dede alsoe, ende daer naer</l>
+<l>ginc hi ter tommen, ende was daer</l>
+<l>alse lange als hijt mochte geduren.</l>
+<l>Doe ginc hi ten lieden, die tier uren</l>
+<l>daer buten na hem ontbeide doe,</l>
+<l n="300">ende hi seide hem lieden alsoe,</l>
+<l>dat hi niet ne hadde gedaen.</l>
+<l>Die gode man seide tot hem saen,</l>
+<l>die hem gram dochte wesen:</l>
+<l>"Here, en sijt niet gram van desen,</l>
+<l n="305">want geen man die nu levet,</l>
+<l>dit macht te indene hevet.</l>
+<l>Gi hebt sulke ere daer of,</l>
+<l>dat gi gedaen hebt int kerchof,</l>
+<l>dat gi di alre beste riddere sijt,</l>
+<l n="310">die hier ooit in quam vor desen tijt,</l>
+<l>nochtan hebbere gesijn, wies wondert,</l>
+<l>hier binnen meer dan vc.</l>
+<l>"Die gene sal sijn" seide Lanceloet,</l>
+<l>"goet ridder, wetic wel, sonder genoet,</l>
+<l n="315">die inden sal die aventure."</l>
+<l>Daer quamen te hem tire ure</l>
+<l>vele begevenre liede, dien daer</l>
+<l>ene leitire volgede naer;</l>
+<l>ende die begeven liede baden</l>
+<l n="320">dien van daer binnen, bi staden,</l>
+<l>om Galaad, die ut sire tommen was.</l>
+<l>Si vrageden weder den anderen das,</l>
+<l>waer si gevreisten, dat hi</l>
+<l>uter tommen was. Doe seitsi,</l>
+<l n="325">dat enen man van Galles van den done</l>
+<l><edition n="322"/>te voren quam in sinen visione,</l>
+<l>daer te voren over .ix. dage,</l>
+<l>datmen den naesten dach bi lage</l>
+<l>na Assencie vinden soude alsoe.</l>
+<l n="330">Lanceloet hiven op die orsbare doe;</l>
+<l><milestone unit="fol" n="vc"/> ende si vordene met hem in haer warde,</l>
+<l>ende Lanceloet voer sine varde.</l>
+<l>Die vanesor, die gode man,</l>
+<l>sprac daer na sinen sone an:</l>
+<l n="335">"Wat soustu hebben gewonnen</l>
+<l>oftu te vechtene hads begonnen</l>
+<l>iegen dese riddere, die es</l>
+<l>die beste van den goeden, sijt seker des;</l>
+<l>ne haddi niet vrome riddere gewesen,</l>
+<l n="340">hine hadde niet bestaen van desen."</l>
+<l>Ende die ioncfrouwe gebrochte daer</l>
+<l>Lancelote, ende seide daer naer:</l>
+<l>"Ic hebbe u lange gevolget mede</l>
+<l>om te siene uwe vromechede,</l>
+<l n="345">ende ic hebbe so vele gedaen,</l>
+<l>dat ic uwen name weet, sonder waen.</l>
+<l>Nu willic varen, op dat gi mi</l>
+<l>orlof wilt geven." Doe seide hi:</l>
+<l>"Hoe gewetti minen name dan?"</l>
+<l n="350">Si seide: "Daer u die voes sprac an</l>
+<l>int hol, hordic wel dat si</l>
+<l>u Lanceloet hiet mede daer bi."</l>
+<l>"Ende Lanceloet seide: "Nu biddic u,</l>
+<l>om dies live die gi meest mint nu,</l>
+<l n="355">dat gi hier af nimane niet</l>
+<l>ne gesect, vor dat gi siet</l>
+<l>hoe mi mine queste sal vergaen;</l>
+<l>want vanden mesfalle, sonder waen,</l>
+<l>dat mi gesciet es, hebbic scame groet."</l>
+<l n="360">Doe seide die ioncfrouwe: "Lanceloet,</l>
+<l>in saelt secgen mar tere</l>
+<l><edition n="323"/>steden, ende daermen uwe ere</l>
+<l>wachten sal, alse wel alse gi</l>
+<l>selve sout willen wachten." Ende daer bi</l>
+<l n="365">deetsi hare hem te kinne daer,</l>
+<l>ende seide hoe si hem volgede naer.</l>
+<l>Ende daerna scieden si daer doe,</l>
+<l>ende hi reet tot tirthetide toe.</l>
+<l>Hi quam tenen foreeste, daer hi sach</l>
+<l n="370">dat een nauwe pat dore lach.</l>
+<l>Doe werd hi .ij. ridders geware,</l>
+<l>die den inganc hoeden dare;</l>
+<l>want costume daer int lant was,</l>
+<l>weltijt datmen geware werd das,</l>
+<l n="375">dat vremde ridders quamen int lant,</l>
+<l>datmen die passe hoedde te hant.</l>
+<l>Ende alsi bat naer quam, worden si</l>
+<l>anden scilt geware, dat hi</l>
+<l>hadde gereden op di karre.</l>
+<l n="380">Doe ontbodense hem, al erre,</l>
+<l>bi enen sciltknecht, also houde,</l>
+<l>dat hi weder keren soude;</l>
+<l>want soe onteert man, als hi was,</l>
+<l>ne ware hem niet sculdech das</l>
+<l n="385">tonderwindene tenegen tiden,</l>
+<l>dat hi dore soude willen liden,</l>
+<l>daer die goede liede, inden dagen,</l>
+<l>menech werf te lidene plagen.</l>
+<l>Lanceloet en andwerder niet toe</l>
+<l n="390">wat hem die scilt seide doe;</l>
+<l>ende als hi bat naer quam den gone,</l>
+<l>ripen si op hem: Putensoene!</l>
+<l>quaet gelovech Karretier!"</l>
+<l>Lanceloet was een deel int horen fier,</l>
+<l n="395">ende seide tot hem selven daer nare,</l>
+<l>dat gene so goet ridder ne ware.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

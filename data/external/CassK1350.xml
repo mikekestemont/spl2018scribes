@@ -1,0 +1,1918 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i59"><teiHeader><fileDesc><titleStmt><title>Roman van Cassamus (verkorte versie)</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Roman van Cassamus (verkorte versie)</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K17">'s-Gravenhage, Koninklijke Bibliotheek, Bruikleen Koninklijke Akademie van Wetenschappen, XXIV</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>1890 verzen</OMVANG>
+<BRON.OPM>De codex bevat in totaal 77 folia en per bladzijde 2 kolommen van 53 regels. In de codex komen naast de Roman van Cassamus (verkorte versie) (fol. 68v-77v) de volgende teksten voor: de Rose (fol. 1-68v) en de Frenesie (fol. 77v). Doordat het laatste blad uit het handschrift is gescheurd, is de laatste tekst niet volledig overgeleverd.</BRON.OPM>
+<EDITIE>E. Verwijs (ed.): Roman van Cassamus. (Fragment). Groningen, 1869 (1-71).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>164</BRONMNW>
+<BRONMNW>165 (andere versie)</BRONMNW>
+<BRONNEN>Van de Roman van Cassamus is zowel een verkorte als een slechts fragmentarisch overgeleverde lange versie bekend. De verkorte versie van de tekst is bewaard in &eacute;&eacute;n handschrift: - <x nr=K17>'s-Gravenhage, Koninklijke Bibliotheek, Bruikleen Koninklijke Akademie van Wetenschappen, XXIV</x>
+ De fragmenten worden bewaard te Leiden en Brussel: - <x nr=K18>Leiden, Bibliotheek der Rijksuniversiteit, Ltk. 1195 (fragm.)</x>
+ - <x nr=K19>Brussel, Koninklijke Bibliotheek, 18228 (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><scribe id="A"/>ALEXANDER.</l>
+<l><pb n="1"/><milestone unit="fol" n="68c"/> Na dien dattie edele man</l>
+<l>Alexander Dedefur wan,</l>
+<l>Die stat, die vast was ende groet,</l>
+<l>Ende hi Messise sloech te doet;</l>
+<l n="5">Den hertoge van soe hogen prise,</l>
+<l>Ende hi met heme vorde Darise,</l>
+<l>Ende dat gehuwet was Floridas,</l>
+<l>Daer die brulucht groet af was,</l>
+<l>Voer hi te Tarsen met bliden sinne</l>
+<l n="10">Sien die scone coninginne</l>
+<l>Candacen, die hi met trouwen</l>
+<l>Minde boven allen vrouwen.</l>
+<l>In sinen wege dat hi vant</l>
+<l>Staende ene stat op een eilant,</l>
+<l n="15">Daer ene riviere al omme liep,</l>
+<l>Die harde groet was ende diep:</l>
+<l>- Bat en was en gene geseten, -</l>
+<l><edition n="2"/>Arine soe was soe geheten.</l>
+<l>Fanuel hi wasser af here,</l>
+<l n="20">Die Alexandersse dede groet ere;</l>
+<l>Want hi sine stat van hem ontfinc,</l>
+<l><milestone unit="fol" n="68d"/> Daer toesach menich jongelinc,</l>
+<l>Ende wart sijn man van sinen lande,</l>
+<l>Dat hi houdende was in hande.</l>
+<l n="25">Drie dage bleef die coninc daer</l>
+<l>Al stille liggende, dat was waer.</l>
+<l>Sderts dages soe was opgestaen</l>
+<l>Die coninc allene ende quam gegaen</l>
+<l>Buten sinen paeuwelgone,</l>
+<l n="30">Alse hi bi uren was gewone,</l>
+<l>Ende ginc so verre dat hi quam</l>
+<l>An enen berch, daer hi vernam</l>
+<l>Comen gaende enen ouden man,</l>
+<l>Die droech swerte cleder an</l>
+<l n="35">Na den sede van Caldee.</l>
+<l>Sijn haer was wit alse die snee,</l>
+<l>Oec sceen hi out van vele jaren;</l>
+<l>Mar starc ende groet sceen hi tewaren,</l>
+<l>Ende brachte enen staf gedragen</l>
+<l n="40">Met ysere onder wel beslagen.</l>
+<l>Die coninc vragede hem, waer hi woude.</l>
+<l>"Ic wille," seit hi, "in genen woude</l>
+<l>Gaen, daer Marcus temple staet,</l>
+<l>Daer menich mensche bedevart gaet,</l>
+<l n="45"><pb n="3"/> Beide wullin ende sonder scoen:</l>
+<l>Daer gaic mine sacrificie doen</l>
+<l>Vore minen bruder, die bleef doet</l>
+<l>Te Gadres in die bataelge groet,</l>
+<l>Doe Alexanders sine liede daer sende,</l>
+<l n="50">Die voderinge daden met genende</l>
+<l>Op die van Gadres, daer Sanset bleef</l>
+<l>Verslagen, daermen rouwe om dreef,</l>
+<l>Ende oec Piron die edele man."</l>
+<l>"Segt, wie was u bruder dan?"</l>
+<l n="55">"Dat was," seit hi, "Gadefeer</l>
+<l>Van Larijs, daer men meer</l>
+<l>Groeter duecht af seggen mach</l>
+<l>Dan van iemenne op desen dach,</l>
+<l>Sonder van Alexanderse dien here,</l>
+<l n="60">Die van dien Goeden heeft die ere,</l>
+<l>Dat princhen en ghene hem geliken,</l>
+<l>Sine moeten hem van doegeden wiken;</l>
+<l>Niet daer omme, Nature en hadde gegeven</l>
+<l>Minen bruder al sijn leven</l>
+<l n="65">Al dat goeden man toehort:</l>
+<l>Hi was behoedt in al sine wort,</l>
+<l>Getrouwe, milde ende goet,</l>
+<l><edition n="4"/>Ende ten wapinen stout ende goet.</l>
+<l>"Here goet man," sprac die coninc doe,</l>
+<l n="70">"Ic wilt met mi stoede alsoe</l>
+<l>Van duegeden ende van allen saken,</l>
+<l>Gelijc gi segt met uwer spraken,</l>
+<l>Ende ic u half dat lant moeste geven,</l>
+<l>Dat ic gewonnen hebbe mijn leven.</l>
+<l n="75"><milestone unit="fol" n="69a"/> Van Gadefers uwes broeder doet</l>
+<l>So draget mijn herte rouwe groet,</l>
+<l>Ende van Sansette ende van Pirone:</l>
+<l>Ic hadse liever in haren doene</l>
+<l>Bi mi levende ende gesont,</l>
+<l n="80">Dan van goude x pont."</l>
+<l>Doene die gode man spreken horde,</l>
+<l>Kindi ane die fiere worde,</l>
+<l>Dat Alexanders was, die here.</l>
+<l>Sine herte verwandelde hem so sere,</l>
+<l n="85">Dat hijs daer wrake hadde gedaen,</l>
+<l>Haddijs levende wanen ontgaen.</l>
+<l>Die coninc mercte wel ende kinde,</l>
+<l>Dat hine van herten lettel minde.</l>
+<l>Al lachende seidi hovesscelike:</l>
+<l n="90">"Goet man, weet dat sekerlike,</l>
+<l>Us bruder doet es mi leet,</l>
+<l><edition n="5"/>Ende u te beterne bem ic gereet,</l>
+<l>Ende daer met pais ende sone maken</l>
+<l>Na us selfs wille van allen saken.</l>
+<l n="95">Wildi mijns lants, ic saelt u geven</l>
+<l>So vele, gi sulter met eren op leven.</l>
+<l>Begerdi oec die hulpe van mi,</l>
+<l>Ic sal u staen met trouwen bi</l>
+<l>Met algader mire heirecracht,</l>
+<l n="100">So dat gi hebben sult die macht</l>
+<l>Over u viande te nemene wrake."</l>
+<l>Doe die goede man horde die sprake,</l>
+<l>Weendi ende suchte sere,</l>
+<l>Ende knielde neder voer dien here,</l>
+<l n="105">Ende woude cussen sinen voet,</l>
+<l>Alse een die soeken wilt oemoet;</l>
+<l>Macr die coninc en liet gescien,</l>
+<l>Ende hieffene haestelike op mettien,</l>
+<l>Ende seide: "Goet man, nu sijt vroe,</l>
+<l n="110">Ende segt mi, ic bids u, hoe</l>
+<l>Datmen u heet ende oec die sake,</l>
+<l>Daer gi omme sijt tongemake.</l>
+<l>Es iemenne die u onrecht doet,</l>
+<l>Ic doet u betren, opdat ik moet</l>
+<l n="115">Leven enen corten tijt."</l>
+<l>"Here", seit hi, "gebenedijt</l>
+<l>So moetti sijn van Apolline,</l>
+<l>Van Jupiterre ende van Jovine,</l>
+<l><edition n="6"/>Ende oec Mars onse hogeste god</l>
+<l n="120">Moet u lonen dit gebod,</l>
+<l>Ende moet u geven ere ende spoet.</l>
+<l>Ende eist, here, dat gi dit doet,</l>
+<l>So dede noit coninc van so hogen done</l>
+<l>Armen man alselke sone.</l>
+<l n="125">Here, mine name mogedi wel weten:</l>
+<l>Cassamus bem ic geheten,</l>
+<l>Van Larijs die oude vieliart.</l>
+<l><milestone unit="fol" n="69b"/> Dat scijnt wel ane minen baert,</l>
+<l>Dat ic bem out ende sere verlegen,</l>
+<l n="130">Maer ic moet nu der wapinen plegen.</l>
+<l>Gadifeer hi was mijn bruder,</l>
+<l>Mijns vader kint ende mire moeder:</l>
+<l>Dien sloech doet Emenedoen</l>
+<l>Sonder enich ockesoen.</l>
+<l n="135">Woude die Goede noch orloven,</l>
+<l>Dat ic sijns noch quame te boven,</l>
+<l>Hine mochte mi dat goet gegeven,</l>
+<l>Dat hi ontdragen soude tleven.</l>
+<l>Doe sprac die coninc ende seide:</l>
+<l n="140"><pb n="7"/> "Goet man, penst om dedelheide,</l>
+<l>Die den bataelgen toebehoren.</l>
+<l>Elc goet man doet hem daer te voren,</l>
+<l>Daer hi ere mach bejagen;</l>
+<l>Het es een spel sonder verdragen.</l>
+<l n="145">Alsoe moetic met eren leven,</l>
+<l>Soudic vontnesse hier af geven,</l>
+<l>Ic soude dode vore doden setten,</l>
+<l>Sonder mi ende u besmetten;</l>
+<l>Ende oec soe eist costume ende sede:</l>
+<l n="150">Die sone maect ende pais daer mede</l>
+<l>Jegen den here met goeden minnen,</l>
+<l>Hets recht datter sine liede sijn binnen".</l>
+<l>"Here," seit hi, die goede man,</l>
+<l>"Gi spreect mi soe goeleke an</l>
+<l n="155">Met so hovesscer, wiser talen,</l>
+<l>Dat ic wille van altemalen</l>
+<l>In u bliven ende al vergeven,</l>
+<l>Ende houden pais ende sone mijn leven.</l>
+<l>Gi selt wesen een goet here</l>
+<l n="160">Minen neven, die tonder sere</l>
+<l>Sijn, alse ic u seggen mach."</l>
+<l>Cassamus die niene ontsach</l>
+<l>Voer enen prinche te sprekene tale,</l>
+<l>Want hijt lange hadde geconnen wale,</l>
+<l n="165"><pb n="8"/> "Here," seit hi, "van minen bruder</l>
+<l>Sijn kinder bleven, die iet vruder</l>
+<l>Noch scoenre en mochten wesen niet:</l>
+<l>Dat seide elc man diese siet,</l>
+<l>Datse iemenne lettel soude versconen.</l>
+<l n="170">Het esser drie, die twee sijn sonen,</l>
+<l>Terde dats die scoenste maget,</l>
+<l>Die in die werelt binnen daget.</l>
+<l>Claris van Indie, die grote here,</l>
+<l>Mintse so utermaten sere,</l>
+<l n="175">Dat hise hebben wilt te wive</l>
+<l>Ende wesen here van haren live;</l>
+<l>Maer sins en weltse geensens niet,</l>
+<l>So wat hare daer na gesciet;</l>
+<l>Want hi es fel ende groniart,</l>
+<l n="180">Ende daertoe een out vieliart,</l>
+<l><milestone unit="fol" n="69c"/> Ende met die quaetste diemen vint.</l>
+<l>Nu es het tijt dat gi bekint</l>
+<l>Der kinder name ende hare doen:</l>
+<l>Doudste heet Gadifeer van Pheson,</l>
+<l n="185">Dat es ene stat scone ende goet,</l>
+<l>Daer menich diere torre in stoet</l>
+<l>Van uten gronde hoghe verheven:</l>
+<l>Die es hem van haren vader bleven.</l>
+<l>Die joncste bruder so heet Bertrijs.</l>
+<l n="190">Hi slacht bet in alre wijs</l>
+<l><edition n="9"/>Dien vader in alle vromechede</l>
+<l>Dan die oudste bruder dede.</l>
+<l>Claerrijs van Indie heeft die stat</l>
+<l>Vaste belegen, ende swert dat,</l>
+<l n="195">Dat hise emmer strueren sal,</l>
+<l>Ende die kinder onterven al</l>
+<l>Van goede, dat hen es bleven.</l>
+<l>Here, ontfarme u mire neven,</l>
+<l>Ende wilt hem in staeden staen:</l>
+<l n="200">Si sullen boven hulpen saen."</l>
+<l>"Cassamus," seide die couinc doe,</l>
+<l>"Hier en behort nemmeer talen toe.</l>
+<l>Magic Pharon die riviere</l>
+<l>Liden, ic sal daer wesen sciere,</l>
+<l n="205">Ende wille daer sonder enich vieren</l>
+<l>Jegen Claerwise varen tornieren,</l>
+<l>So dat hi rumen sal dat lant,</l>
+<l>Ende laten daer alselken pant</l>
+<l>Die hem wesen sal te swaer;</l>
+<l n="210"><pb n="10"/> Ende ic wille calengieren daer</l>
+<l>Die rike stat van Pheson.</l>
+<l>U neven sullen mi manscepe doen</l>
+<l>Vander stat alse haren here.</l>
+<l>Hen es hem lachter noch onnere,</l>
+<l n="215">Dat si hare stat van mi outfaen:</l>
+<l>Mi es soe menich onderdaen."</l>
+<l>Bennen desen dat si dus spraken</l>
+<l>Onder hem beiden van desen saken</l>
+<l>Soe quam daer Emenidoen</l>
+<l n="220">Ende met hem menich hoge baroen:</l>
+<l>Philete, Perdicas ende Cliton,</l>
+<l>Liganor, Daris ende Floridon.</l>
+<l>Doese die coninc hadde versien,</l>
+<l>Loech hem therte, ende mettien</l>
+<l n="225">Riep hi te hem Emenidoene</l>
+<l>Ende Liganor dien riddre cone.</l>
+<l>"Emenydoen," seit hi, "lieve vrient,</l>
+<l>Gi hebt mi dicke wel gedient,</l>
+<l>Hets recht dat ic u eren an.</l>
+<l n="230">Siet, ane desen goeden man</l>
+<l>So hebbic gemaect uwe sone</l>
+<l>Van Gadifers doet, dien riddre cone,</l>
+<l>Want si waren twee gebrodere,</l>
+<l><milestone unit="fol" n="69d"/> Beide van vadre ende van modre.</l>
+<l n="235">Nu sijn van Gadifere bleven</l>
+<l>Twee sonen, die ic hore geven</l>
+<l><edition n="11"/>Lof ende prijs, waermenre gewaegt,</l>
+<l>Ende ene die alre scoenste maegt,</l>
+<l>Die de werelt heft binnen,</l>
+<l n="240">Die Claerwijs wilt met crachte winnen</l>
+<l>Ende voeren met hem te lande wart;</l>
+<l>Mare die maegt, die sijns niene gert,</l>
+<l>En willes gestaeden noch gedoegen:</l>
+<l>Dies es hi vore Pheson getogen,</l>
+<l n="245">Ende heeft sine tenten daer geslegen,</l>
+<l>Ende die kindre so vaste belegen,</l>
+<l>Dat si met sorgen sijn bevaen.</l>
+<l>Ic hebbe mijn belof gedaen,</l>
+<l>Dat ic hen secorsen sal,</l>
+<l n="250">En doe kenlic ongeval".</l>
+<l>Doe sprac die hertoge Emenidon:</l>
+<l>"Here, daer sal mijn goffanon</l>
+<l>Ende mijn scilt van roden goude</l>
+<l>Gedragen wesen jegen die houde</l>
+<l n="255">Vanden kindren ende der maegt:</l>
+<l>Ic houde mi selven daer gedaegt.</l>
+<l>Grote ere sal hi daer bejagen,</l>
+<l>Die daer dient van groten slagen".</l>
+<l>"Cassamus," seit die coninc, "hort,</l>
+<l n="260">Hebdi verstaen tsertogen wort,</l>
+<l>Ende tgelof ende tgode beheet,</l>
+<l>Daer hi toe es al gereet?"</l>
+<l>"Here," seit hi, die vieliart, doe:</l>
+<l><edition n="12"/>"Onse sijn hem spade ende vroe</l>
+<l n="265">Hout van herten sonder begeven,</l>
+<l>Ende hebben hem doverste gichte gegeven</l>
+<l>Beide van paise ende van bataelgen;</l>
+<l>Ende hovessce meltheit sonder faelgen,</l>
+<l>Die in hem es becleven wel,</l>
+<l n="270">Deelt hem over al sijn spel".</l>
+<l>Doe seide Emenidoen: "Vrient, hebdi</l>
+<l>U bolgenscap al vergeven mi,</l>
+<l>Die gi te mi hebt lange gedragen?"</l>
+<l>"Ine wilre nemmermeer gewagen,"</l>
+<l n="275">Sprac Cassamus, "si al vergeven.</l>
+<l>Ic wille houden al mijn leven</l>
+<l>Den pais, want uwe hovesschede</l>
+<l>Heft al gesacht mine serichede".</l>
+<l>Dus wart daer gemaect die sone</l>
+<l n="280">Van Cassamuse ende van Emenidone.</l>
+<l>Alexanders dede doe gebieden</l>
+<l>Overal int here sinen lieden,</l>
+<l>Dat si opbraken ende varen</l>
+<l>Te Physon wart al sonder sparen.</l>
+<l n="285">Her Cassamus geleidde daer</l>
+<l>Alt here, dat hem volgede naer,</l>
+<l>Want hi wel die wege daer conste.</l>
+<l><milestone unit="fol" n="70a"/> Doen ten avonde neken begonste,</l>
+<l>Logeerde there op ene riviere,</l>
+<l n="290"><pb n="13"/> Ende ginc die tenten rechten sciere,</l>
+<l>Ende die logen maken ter vart.</l>
+<l>Sine waren mar ene halve dachvart</l>
+<l>Van Pheson diere goeder stat.</l>
+<l>Deus! wisten die kindre dat,</l>
+<l n="295">Dat Alexanders Macedo</l>
+<l>Hem te hulpen quame alsoe</l>
+<l>Met selken riddren uutgelesen,</l>
+<l>Si soudens harde blide wesen!</l>
+<l>Smargens, doe hem die dach verbarde</l>
+<l n="300">Ende die sonne hare verclaerde,</l>
+<l>Dede die coninc int here craieren,</l>
+<l>Datmen ginge torsen sonder vieren.</l>
+<l>Tholomeuse, Anthigonuse ende Clitone,</l>
+<l>Dese drie riddren stout ende cone,</l>
+<l n="305">Riep hi te hem al sonder sparen,</l>
+<l>Ende seide: "Hets tijt dat wi varen.</l>
+<l>Wine sijn niet verre van Pheson,</l>
+<l>Hets goet dat wi onse wapine andoen</l>
+<l>Ende jegen Clerwise varen tornieren.</l>
+<l n="310">Men mochte wel te lange doen vieren</l>
+<l>Den lichame ende oec verdragen:</l>
+<l>Elc soude in sinen jongen dagen</l>
+<l><edition n="14"/>Travellieren sinen lichame,</l>
+<l>Om te hogene sinen name</l>
+<l n="315">In duechgeden ende in vromicheden,</l>
+<l>So datmen in hovessceden</l>
+<l>Ende in eren sijns moge gewagen,</l>
+<l>Also hi quame tsinen ouden dagen.</l>
+<l>Groet dinc legt ane goet man,</l>
+<l n="320">Die hem in doegeden hebben can.</l>
+<l>Sine mage sijnre alle bi geeert</l>
+<l>Ende biden quaden sere gonneert".</l>
+<l>Antigonus, die dese tale</l>
+<l>Hadde verstaen wel altemale,</l>
+<l n="325">Seide: "Gi heren, nu mogedi horen</l>
+<l>Dien besten coninc, die noit geboren</l>
+<l>Was ten wapinen in erterike,</l>
+<l>Ende daer toe milde sonder gelike,</l>
+<l>Ende mede hovesch ende vroet.</l>
+<l n="330">Hi hadde gekeert al sinen moet</l>
+<l>Te sinen rechten xii jaren,</l>
+<l>Hoe hi comen mochte te waren</l>
+<l>In eren ende hem selven hogen.</l>
+<l>Hine woude langer niet gedogen,</l>
+<l n="335">Doe hi hadde sine xv jaer,</l>
+<l>Hine droech wapine, dat es waer.</l>
+<l>Der hoger lieden kinder hi ontboet,</l>
+<l>Ende die andre heren groet</l>
+<l>Dedi sinen lichame hoeden;</l>
+<l n="340"><pb n="15"/> Ende vriende ende mage, die hem bestoeden,</l>
+<l><milestone unit="fol" n="70b"/> Die conste hi houden vriendelike</l>
+<l>Ende tsins geven meldelike.</l>
+<l>Hi onderfder nemmer een,</l>
+<l>Mar gaf hem borge ende leen;</l>
+<l n="345">Ende die here, die dus doet,</l>
+<l>Mach wel hebben stouten moet,</l>
+<l>Wanter hondert beter es</l>
+<l>Danre es twee, geloeft mi des,</l>
+<l>Die ute allen lande comen:</l>
+<l n="350">Dit heftmen dickent waer vernomen.</l>
+<l>Die here hi soude hem doen minnen</l>
+<l>Die gene van sinen lande binnen:</l>
+<l>Al leechtment ane hem, men heeft weder,</l>
+<l>Ende die here hi wart neder</l>
+<l n="355">Geset, die sine liede haten."</l>
+<l>Cassamus, die wel te maten</l>
+<l>Spreken conste, seide: "Coninc here,</l>
+<l>Die sonne si rijst op wel sere,</l>
+<l>Hets tijt datmen porre ende vare,</l>
+<l n="360">Eer hem die dach tsere openbare.</l>
+<l>Hier op den berch een tempel staet</l>
+<l>Van Marse: het ware wel mijn raet,</l>
+<l>Dat gi vart daer hem anebeden,</l>
+<l>Ende hi u segge doer sine geneden,</l>
+<l n="365">Hoet u ten stride sal vergaen."</l>
+<l><edition n="16"/>"Dit dunct mi," seit hi, "wel gedaen."</l>
+<l>Die coninc dede sine parde gereiden,</l>
+<l>Ende sat op al sonder beiden,</l>
+<l>Ende met hem sine xii barone,</l>
+<l n="370">Die herten hadden alse lyone.</l>
+<l>Cassamus, die oude vieliart,</l>
+<l>Leiddese recht ten temple wart.</l>
+<l>Doe die coninc daer was comen,</l>
+<l>Al witte cleder heeft hi genomen,</l>
+<l n="375">Ende heefse hem selven anegedaen,</l>
+<l>Ende es al baerrevoet gegaen</l>
+<l>Inden tempel al moederene,</l>
+<l>Dat hem en volgede groet no clene.</l>
+<l>Alse hi was binnen der dore,</l>
+<l n="380">Sloet hise na hem ende ginc vore</l>
+<l>Mars outare oetmoedelike staen,</l>
+<l>Ende heft sine cleder al uutgedaen.</l>
+<l>Olie ende honich soe goet hi daer</l>
+<l>Ende suete melc op dien outaer;</l>
+<l n="385">Daerna soe sette hi iiii swerde</l>
+<l>Op die viere hornecke, die horde opwerde.</l>
+<l>Tusscen die viere so ginc</l>
+<l>Liggen gestrect die coninc,</l>
+<l>Ende thoeft te orienten wert.</l>
+<l n="390">Mars den god hi sere beswert,</l>
+<l>Ende bidt dat hi hem doe verstaen,</l>
+<l>Hoet hem ten stride sal vergaen</l>
+<l>Jegen Clarewise den here:</l>
+<l><milestone unit="fol" n="70c"/> Dit bat hi hem met herten sere;</l>
+<l n="395">Ende doe hi hadde gedaen sine bede,</l>
+<l>Doe ontsliep hi daer ter stede.</l>
+<l><edition n="17"/>Ene stemme riep doe: "Coninc goet,</l>
+<l>Ic sal u seggen wat gi doet:</l>
+<l>Staet op ende vart te Pheson wart,</l>
+<l n="400">Daer sal Clarewijs die vieliart</l>
+<l>Comen jegen u ten stride.</l>
+<l>Nu weest in hogen ende blide,</l>
+<l>Want hi salre bliven doet;</l>
+<l>Maer hi sal u scade doen groet</l>
+<l n="405">Ane u liede, geloves mi."</l>
+<l>Met desen worde so ontspranc hi,</l>
+<l>Ende pensede vele om dese sake.</l>
+<l>Doe ginc hi neder met gemake</l>
+<l>Van den outre tote vore die dore,</l>
+<l n="410">Die hi ontsloet; daer vant hi vore</l>
+<l>Sine liede, die sijns wachten daer,</l>
+<l>Die hem trocken alle naer,</l>
+<l>Om te wetene goede mare.</l>
+<l>Aristotiles vragede hem hoet ware.</l>
+<l n="415">"Meester," seit hi, "harde wale,"</l>
+<l>Ende vertelde hem altemale</l>
+<l>Van sinen drome dat vision,</l>
+<l>Hoet varen soude vor Pheson.</l>
+<l>Doe Cassamus dit hadde verstaen,</l>
+<l n="420">Was hi blide ende quam gegaen</l>
+<l>Vore den coninc ende seide: "Here,</l>
+<l>Ic neme orlof ende danke u sere.</l>
+<l>Ic wille te Pheson hene varen,</l>
+<l>Ende bringe daer dese goede maren:</l>
+<l n="425">Het sal therte doen verlichten</l>
+<l>Minen neven ende mire nichten."</l>
+<l>"Nu vart hene," seide die coninc,</l>
+<l>"Ende verneemt ons al die dinc</l>
+<l><edition n="18"/>Die gi mocht ob ander side,</l>
+<l n="430">Ende coemt weder ons te tide."</l>
+<l>"Here, dat wart niet gespart",</l>
+<l>Sprac Cassamus, die oude vieliart.</l>
+<l>Doe dedi hem sijn ors vort bringen,</l>
+<l>Dat grote spronge conste springen,</l>
+<l n="435">Ende sat op met haesticheiden,</l>
+<l>Ende reet henen sonder beiden;</l>
+<l>Ende alse hi quam op die riviere,</l>
+<l>Beette hi van den orse sciere,</l>
+<l>Ende ginc die trappen neder te waren,</l>
+<l n="440">Die in die roke gehouwen waren,</l>
+<l>Diere wel xl hondert was,</l>
+<l>Alsic in dien Walsce las,</l>
+<l>Ende elc was breet vierdalven voet.</l>
+<l>Ander passage daer en stoet</l>
+<l n="445">Om te comene in die stat,</l>
+<l>Dan allene dien selven pat,</l>
+<l><milestone unit="fol" n="70d"/> Ende een scep al moeder ene,</l>
+<l>Ende dat selve was so clene,</l>
+<l>En hadde xx riddren moegen</l>
+<l n="450">Dragen, en hadde in gront gevloegen.</l>
+<l>Doe Cassamus was die trappen leden</l>
+<l>Ende op die riviere quam beneden,</l>
+<l>Riep hi lude met groten gere,</l>
+<l>Ende die scepman quam ter vere,</l>
+<l n="455">Die Cassamuse kinde saen,</l>
+<l><edition n="19"/>Ende seide: "Here, wi sijn bevaen</l>
+<l>Met rouwen ende met groten sere,</l>
+<l>Dies wi Gadifere onsen here,</l>
+<l>Uwen broeder, hebben verloren.</l>
+<l n="460">Ons doet Claerwijs groeten toren</l>
+<l>Ende groet verdriet ende groet onraste,</l>
+<l>Want hi ons heeft belegen vaste:</l>
+<l>Gi moecht sien van hier dat here;</l>
+<l>Ende hi ontboet oec gistren, here,</l>
+<l n="465">Uwen neven, dat hi sal</l>
+<l>Comen die stat verbernen al,</l>
+<l>Eer die viere dage sullen liden."</l>
+<l>"Vrient, nu doet uwe herte verbliden,"</l>
+<l>Sprac Cassamus, die oude vieliart,</l>
+<l n="470">"Want Alexanders coemt harewart</l>
+<l>Ons te helpene wat hi mach.</l>
+<l>Gi seltene morgen eer middach</l>
+<l>Sien ende logieren hier</l>
+<l>Met x dusent riddren fier."</l>
+<l n="475">"Here," seide die vereman, "laet ons varen</l>
+<l>Uwen neven seggen dese goede mare,</l>
+<l>Ende haerre suster Phisenien,</l>
+<l>Die onse Goede benedien</l>
+<l>Vore die scoenste maegt die leeft,</l>
+<l n="480">Die de werelt binnen heeft,</l>
+<l>Ende Edea ende Ydoruse, die wel</l>
+<l><edition n="20"/>Connen vontnesse in dat spel</l>
+<l>Van wapinen ende van minnen geven,</l>
+<l>Bat dan enichge die nu leven."</l>
+<l n="485">Doe ginc die scepman hene roien</l>
+<l>Wat hi mochte sonder vernoien,</l>
+<l>Want hine was trage no lat,</l>
+<l>Tote dat hi quam vore ane die stat,</l>
+<l>Daer Cassamus ontscepte saen,</l>
+<l n="490">Ende es boven in die sale gegaen,</l>
+<l>Daer hi vant sinen neve binnen,</l>
+<l>Diene ontfinc met groten minnen,</l>
+<l>Ende vraechden hem, wat hem hadde gewert,</l>
+<l>Dat hi so lange hadde gemert.</l>
+<l n="495">"Kinder," seit hi, "nu sijt vroe:</l>
+<l>Ic hebt ons begaet alsoe,</l>
+<l>Dat Alexanders coemt margen here</l>
+<l>Getogen met al sinen here.</l>
+<l>Op die roke van Pharon</l>
+<l n="500">Sal hi sine lieden logieren doen."</l>
+<l><milestone unit="fol" n="71a"/> "Lieve oem," seide Gadifeer doe,</l>
+<l>"Cleinen troest hebbic hier toe,</l>
+<l>Want onder Pharon loept die riviere</l>
+<l><edition n="21"/>Diep ende stuer ende ongehiere.</l>
+<l n="505">Die roke es hoge ende alte swaer,</l>
+<l>Ende in c milen hier naer</l>
+<l>Sone steet brugge no gewat".</l>
+<l>"Neve, si sullen dien ingen pat</l>
+<l>Vanden trappen den wech bestaen,</l>
+<l n="510">Ende twee ende twee te gadre gaen,</l>
+<l>Ende mettien scepe overvaren."</l>
+<l>"Oem," seide doe Bettijs, "tewaren,</l>
+<l>Ic wille mi houden ane uwe tale.</l>
+<l>Ic hebbe enen helm van brunen stale,</l>
+<l n="515">Ende ors ende scilt ende wapine goet,</l>
+<l>Ende daertoe therte ende den moet,</l>
+<l>Dat ic met minen lichame sal</l>
+<l>Dien tornoi verwinnen al,</l>
+<l>Ende daer selke slage slaen,</l>
+<l n="520">Dat Alexanders sal verstaen</l>
+<l>Ane dobbeleren van minen slagen,</l>
+<l>Dat ic hoge minne drage."</l>
+<l>"Neve," seit hi doe, Cassamus,</l>
+<l>"Jonge lieden en souden dus</l>
+<l n="525">Hen selven so sere beromen niet,</l>
+<l>Want hets misselic wat gesciet."</l>
+<l>"Oem," seit hi, "dien goeden wille,</l>
+<l>Dien ic hebbe, en liet mi stille</l>
+<l>Swigen, ine moesten oppenbaren.</l>
+<l n="530">Laet ons margen daer buten varen,</l>
+<l><edition n="22"/>Ende onse viande leren kinnen,</l>
+<l>Wi mochten hare vitaelle winnen</l>
+<l>Ocht iet els vanden haren:</l>
+<l>Dan suldi tAlexanderse varen,</l>
+<l n="535">Ende hem doen aldus verstaen."</l>
+<l>"Nove," seit hi, "ic wilt anegaen,</l>
+<l>Want die herte vercoent al mi.</l>
+<l>Dat ic van wapinen hore spreken di;</l>
+<l>Want dies es leden menichgen dach,</l>
+<l n="540">Dat ic der wapinen niene plach;</l>
+<l>Want ic hebbe lange hermite gelegen:</l>
+<l>Nu willic der wapinen plegen.</l>
+<l>Margen vroech in die dageraet,</l>
+<l>Vordien dat die sonne opgaet,</l>
+<l n="545">Willic datwi dese rese bestaen".</l>
+<l>Doe Gadifier dit hadde verstaen,</l>
+<l>Soe loech sine herte ende seide: "Oem,</l>
+<l>Dat gi segt dat es al droem;</l>
+<l>Laet jonge lieden dese rese varen,</l>
+<l n="550">Gi sijt tout saermeer, tuwaren".</l>
+<l><edition n="23"/>Doe Cassamus dese wort verstoet,</l>
+<l>Wart hi gram in sinen moet,</l>
+<l>Ende seide: "Quaet horen sone, groniart,</l>
+<l><milestone unit="fol" n="71b"/> U heft Claerwijs die oude vieliart</l>
+<l n="555">Belegen, gine dorst noit bestaen,</l>
+<l>Dat gi hadt poingis gedaen</l>
+<l>Jegen hem ende utegevaren:</l>
+<l>Gi selt u selven lange sparen.</l>
+<l>Dies ic bem out ende sere verpijnt</l>
+<l n="560">Alse wel ane minen lichame scijnt,</l>
+<l>Wildi mi daer omme verbieden</l>
+<l>Tornieren metten andren lieden?</l>
+<l>Bi Gode, haddic mine wapine an,</l>
+<l>Gi sout mijns node ontbeiden dan;</l>
+<l n="565">Gine wart noit mijns bruder kint."</l>
+<l>Die knape loech, en achtes twent,</l>
+<l>Ende al lachende hem omkeerde.</l>
+<l>Phisonie die wel geleerde</l>
+<l>Seide: "Lieve oem, laet dit varen;</l>
+<l n="570">Hi seit al in spele te waren,</l>
+<l>Ende van groter vrientscap mede;</l>
+<l>Hi kint wel u vromichede,</l>
+<l>Ende dat gi wart sijt alre eren."</l>
+<l>"Nichte, gi connet wel ommekeren:</l>
+<l n="575">Woudi Claerwise den here minnen,</l>
+<l><edition n="24"/>Soe mochten wi alle pais gewinnen."</l>
+<l>"Oem", seit si, "bi uwen rade</l>
+<l>Willic doen vroech ende spade</l>
+<l>Ende bi minen bruderen beide,</l>
+<l n="580">Dien ic dine engeen ontseide.</l>
+<l>Wat gi gebiedt willic bestaen,</l>
+<l>Nochtan so soudic eer anegaen</l>
+<l>Datmen mi sloge af dat hoeft,</l>
+<l>Dan ickene name, des geloeft."</l>
+<l n="585">Doe Cassamus hare wort verstoet,</l>
+<l>Van jamerre vielen hem opden voet</l>
+<l>Die tranen ute beide sijn ogen,</l>
+<l>Ende seide: "Nichte, weset in hogen,</l>
+<l>Ic salre eer om laten tleven,</l>
+<l n="590">Eer gi Claerwise wert gegeven.</l>
+<l>Margen so coemt u hulpe groet,</l>
+<l>Want Alexanders ende sijn conroet</l>
+<l>Coemt hier gevaren ende Caulus,</l>
+<l>Ende van Archade Emenydus."</l>
+<l n="595">"Oem", seit si, "es dat waerheide</l>
+<l>Van Alexanderse [ende] sekerheide,</l>
+<l>Dat hi hier margen wesen sal,</l>
+<l>Ende met hem sine riddren al?"</l>
+<l>"Jaet, nichte, want hi es leden</l>
+<l n="600">In toe dat wout van haesticheden."</l>
+<l>"Lieve oem, es hi selc here</l>
+<l>Als menne loeft ende prijst sere?"</l>
+<l>"Ja hi, nichte, noch alse goet:</l>
+<l>Hi es hovesch, jonc ende vroet,</l>
+<l n="605">Ende wel gemaect van allen leden,</l>
+<l>Simpel ende van goeden seden,</l>
+<l><milestone unit="fol" n="71c"/><pb n="25"/> Ende melde boven alle dinc:</l>
+<l>Hem en geleec noit coninc.</l>
+<l>Hi es stout alse een lyoen</l>
+<l n="610">Ende vorsienich in al sijn doen.</l>
+<l>Al archeit es van hem gegaen,</l>
+<l>Ende heft alle duecht ontfaen."</l>
+<l>Doe seide die maegt uutvercoren:</l>
+<l>"Ter goeder tijt wart hi geboren."</l>
+<l n="615">Mettien es Gadifier daer comen</l>
+<l>Ende heeft haren raet benomen.</l>
+<l>"Oem," seide die jonchere,</l>
+<l>Gi sijt op mi verbolgen sere."</l>
+<l>"Ic ben niet," seidi, Cassamus,</l>
+<l n="620">"Al liepti mi op met talen dus.</l>
+<l>Ic weet wel, ic bem van c jaren,</l>
+<l>Nochtan hebbic selke cracht, tewaren,</l>
+<l>Die gi margen selt moegen sien,</l>
+<l>Alse wi te velde sullen tien,</l>
+<l n="625">Ende ontwapent es tsciltwachte,</l>
+<l>Die hare niene ontsiet bi nachte,</l>
+<l>Die wi dan selen met onminnen</l>
+<l>Assaellieren in allen sinnen".</l>
+<l>Ende mettien so sciet die sprake,</l>
+<l n="630">Ende elc ginc slapen om die sake,</l>
+<l>Dat sijs te vroeger wouden opstaen,</l>
+<l><edition n="26"/>Om dat sijs tsciltwachte wouden bestaen.</l>
+<l>Smargens doe hem verbarde die dach,</l>
+<l>Ende men die sonne risen sach,</l>
+<l n="635">Cassamus, Gadifier ende Bettijs,</l>
+<l>Die gerne bejageden ere ende prijs,</l>
+<l>Daden hem hare wapine bringen</l>
+<l>Ende die orse, die sere springen.</l>
+<l>Phesonie, Edea, dese twee joncfrouwen</l>
+<l n="640">Wapenden Cassamuse met trouwen,</l>
+<l>Die sine wapine noch wel vermach;</l>
+<l>Ende alse hi hem gewapent sach,</l>
+<l>Van joien loech hem therte binnen.</l>
+<l>"Edea," seit hi, "ic doe u kinnen,</l>
+<l n="645">Dat ic wille sijn u lief gestade</l>
+<l>Ende u vrient, vroech ende spade."</l>
+<l>Edea sprac ende seide: "Here,</l>
+<l>Danc hebt, dat gi mi doet dese ere;</l>
+<l>Ic en onthoude u ende wese met sinne</l>
+<l n="650">Emmer uwe getrouwe vriendinne,</l>
+<l>Ende geve u dit vingerlin,</l>
+<l>Dat ic altoes vrient wille sijn."</l>
+<l>"Oem," seit hi doe, Bettijs,</l>
+<l>"Onse God geve u ere ende prijs,</l>
+<l n="655">Ende moet u laten goet gescien:</l>
+<l>Gi sijt te rechte wel versien.</l>
+<l>Hadde alse vele selke joncfrouwe</l>
+<l>Van minnen geseit te mi op trouwe,</l>
+<l>Die ic lief hebbe ende wert,</l>
+<l n="660"><milestone unit="fol" n="71d"/><pb n="27"/> Men souts te meer ontsien mijn swert."</l>
+<l>Doe loech met herten die vieliart,</l>
+<l>Ende set met haesten op sijn part,</l>
+<l>Ende oec alle dandre mede,</l>
+<l>Sonder die hoeden die stede.</l>
+<l n="665">Die porten waren opgedaen,</l>
+<l>Daer si buten reden saen</l>
+<l>So si alre heimelicts mochten,</l>
+<l>Dore die boengarde, daer si sochten</l>
+<l>Die pade, datmense niene soude sien.</l>
+<l n="670">Daer soude node iemenne achtertien</l>
+<l>Van dien genen die daer waren,</l>
+<l>Dier ve was te waren.</l>
+<l>Hare spieren haddense voren gesent,</l>
+<l>Om te wetene alt covent</l>
+<l n="675">Van den here, hoet daer stoede,</l>
+<l>Ende ochte si iet lagen op hare hoede:</l>
+<l>Die spiere brochten goede mare</l>
+<l>Ende seiden, dat sciltwachteren comen waren,</l>
+<l>Ende hadden hare wapine uutgedaen,</l>
+<l n="680">Ende waren rusten alle gegaen.</l>
+<l>Doe reden si heimelike int here,</l>
+<l>Dat si vonden sonder were,</l>
+<l>Ende Gadifier hi sloech met sporen</l>
+<l><edition n="28"/>Vore alle dandre verre te voren,</l>
+<l n="685">Helm up thoeft ende swert getogen,</l>
+<l>- Sijn ors sceen ocht hadde gevlogen -</l>
+<l>Ende riep "Torton," sijn tieken dus,</l>
+<l>Dat hem gaf die oude Calcus.</l>
+<l>Daer waert geruchte harde groet,</l>
+<l n="690">Ende daer so bleef menich doet</l>
+<l>Eer si hem gewapenen conden.</l>
+<l>Daer lieper vele met groten wonden</l>
+<l>Tote vore Claerwijs pawelione,</l>
+<l>Die vore hem jageden die van Phisone.</l>
+<l n="695">Doe Claerwijs dese mere vernam,</l>
+<l>Wart hi tornich ende gram,</l>
+<l>Ende dede an sine wapine sciere,</l>
+<l>Ende swoer bi sinen Goeden diere,</l>
+<l>Dat hi Gadifere hangen soude,</l>
+<l n="700">Ende die maget, die sijns niene woude,</l>
+<l>Ane haren danc nu hebben sal,</l>
+<l>Henne doe kenlic ongeval.</l>
+<l>Doe brochtemen hem een ors lieart,</l>
+<l>Daer hi met haesten op sat ter vart,</l>
+<l n="705">Ende vragede waer sine drie kinder waren.</l>
+<l>Doe seidemen hem, dat si gevaren</l>
+<l>Waren inden woude jagen:</l>
+<l><edition n="29"/>Dat soe consti qualic verdragen.</l>
+<l>"Hoe," seit hi, "sijnse jageren dan?</l>
+<l n="710">Hen steet engenen goeden man</l>
+<l>Jagen te vaerne in den woude</l>
+<l>Die wile dat hi orlogen soude."</l>
+<l><milestone unit="fol" n="72a"/> Doe seide daer een here: "Wilt verdragen,</l>
+<l>Dat u kinder sijn varen jagen;</l>
+<l n="715">Si en waenden niet mesdoen,</l>
+<l>Om dat der gere van Pheson</l>
+<l>Soe lettel es, sine souden durren</l>
+<l>Met haren lieden tonswart porren."</l>
+<l>Claerwijs seide: "Hets dickent vertogen,</l>
+<l n="720">Dat menich wert bi wane bedroegen.</l>
+<l>Men vant noit waenre vrai no vroet.</l>
+<l>Al es haerre lieden luttel goet,</l>
+<l>Si sijn stout, vroet van orlogen,</l>
+<l>Ende hebben harde vele geplogen.</l>
+<l n="725">Het esser een luttel beter, te waren,</l>
+<l>Die getrouwe haren here waren,</l>
+<l>Dan vierwarf meer in allen doene,</l>
+<l>Alse den here haten sine barone</l>
+<l>Ende sine gemeine lieden daer met.</l>
+<l n="730">Hets wonder hine blive gelet</l>
+<l><edition n="30"/>Van sire eren, alse hijs heeft noet.</l>
+<l>Al ware hi starker ende noch alse groet</l>
+<l>Dan iemenne diemen vinden can,</l>
+<l>Doch en waer hi waer een man,</l>
+<l n="735">Hine si van sinen lieden gedragen;</l>
+<l>Want alsoe saen soe es verslagen</l>
+<l>Een coninc ocht een mechtich grave</l>
+<l>Alse een daermen luttel om gave."</l>
+<l>Doe sloech hi dat ors met sporen,</l>
+<l n="740">Dat hi wart hadde ende vercoren,</l>
+<l>Ende deckede heme metten scilde.</l>
+<l>Gadiefier, die niet en wilde</l>
+<l>Letten alse hine comen sach,</l>
+<l>Reet jegen heme wat hi mach.</l>
+<l n="745">Daer mochtemen sien een fier ontmoet.</l>
+<l>Die orse, die beide waren goet,</l>
+<l>Sturten met crachten daer te neder;</l>
+<l>Maer die heren sprongen op weder</l>
+<l>Alle beide alse hilden cone,</l>
+<l n="750">Die herten hadden alse lyone.</l>
+<l>Elc so trac ter vart sijn swert,</l>
+<l>Ende deen den andren sere begert</l>
+<l>Onder te done wat hi mach.</l>
+<l>Gadifier die gaf enen slach</l>
+<l n="755"><pb n="31"/> Claerwise met so willichger hant,</l>
+<l>Dat hi vanden helme den rant</l>
+<l>Dede afspringen, daer in stoet</l>
+<l>Menich steen diere ende goet,</l>
+<l>Dies hem Claerwijs balch wel sere;</l>
+<l n="760">Maer Claerwijs die kintsce here</l>
+<l>Liep hem op met groten slagen,</l>
+<l>Die hi niet en woude verdragen.</l>
+<l>Daer wart die bataelge groet,</l>
+<l>Alse die partien ende hare conroet</l>
+<l n="765">Vergadert waren van beiden siden;</l>
+<l><milestone unit="fol" n="72b"/> Daer mochtemen sien scone met swerden striden,</l>
+<l>Om elc te helpene sinen here:</l>
+<l>Die van Inden vochten sere.</l>
+<l>Betis quam daer toegereden</l>
+<l n="770">Verbolgen ende met haesticheden,</l>
+<l>Ende sloech in die meeste porse,</l>
+<l>Ende stac enen vanden orse,</l>
+<l>Ende dore den lichame een gelachte,</l>
+<l>Ende hermonteerden daer met crachten</l>
+<l n="775">Sinen brueder Gadifere;</l>
+<l>Ende Claerwijs, die grote here,</l>
+<l>Was hermontert vanden sinen.</l>
+<l>Daer liet Cassamus wel scinen,</l>
+<l>Dat hi van prise was riddre goet;</l>
+<l n="780">Want hise vor hem bugen doet</l>
+<l><edition n="32"/>Met sinen groeten rusten slagen,</l>
+<l>Die haer engeen en conste verdragen,</l>
+<l>Sine moesten alle vor hem vlien;</l>
+<l>Ende Betis sprac te hem mettien:</l>
+<l n="785">"Oem, ic bem die u vermane,</l>
+<l>Dat gi omme die welgedane</l>
+<l>Edea penst ende gelt hare,</l>
+<l>Dat gi hare gistren openbare</l>
+<l>Gelovet, doe si u wapine anedede."</l>
+<l n="790">"Neve, gi segt hovesscede:</l>
+<l>God laetes mi die macht gewinnen."</l>
+<l>Ende sijn herte ontstac hem binnen,</l>
+<l>Dies hi van sinen lieve hort spreken.</l>
+<l>Die bataelie voer hi dorebreken,</l>
+<l n="795">Ties hi quam ten groten here</l>
+<l>Claerwise, dien hi begerde sere.</l>
+<l>Hi riep van verren: "Here Claeruus!</l>
+<l>Ic bem die vieliart Cassamus,</l>
+<l>Ende gi sijt tidich oec van jaren.</l>
+<l n="800">Men seit dat gi mint te waren</l>
+<l>Ene wel geraecte, hovesch ende scone</l>
+<l>Maer dat es te eranken lone;</l>
+<l><edition n="33"/>Want daer gi die minne begert,</l>
+<l>En heeft men u noch lief noch wert,</l>
+<l n="805">Noch men acht op u een twent;</l>
+<l>Maer ic minne ende bem gemint</l>
+<l>Van ere maegt, daer ic dore sal</l>
+<l>Dien tornnoi verwinnen al,</l>
+<l>Die mi gaf dit vingerlijn</l>
+<l n="810">Te dragene anden vinger mijn;</l>
+<l>Ende gi wilt met crachte winnen</l>
+<l>Joie ende spel van ure minnen,</l>
+<l>Ende hebse vaste belegen,</l>
+<l>Dies ic selden hebbe gesien plegen,</l>
+<l n="815">Datmen orlogede die joncfrouwe,</l>
+<l>Diemen minnen wilt met trouwen.</l>
+<l>U mochts noch berouwen wel,</l>
+<l>Want orloge dat es een spel,</l>
+<l><milestone unit="fol" n="72c"/> Dat sere ter avonture staet</l>
+<l n="820">Ende dat dicwile omslaet."</l>
+<l>Dese tale seide hem aldus</l>
+<l>Die oude vieliart Cassamus,</l>
+<l>Soe dat al dat volc wel horde.</l>
+<l>Een Persant, die dese worde</l>
+<l n="825">Hadde gehort, hi quam gereden</l>
+<l>Op Cassamus met haesticheden,</l>
+<l>Mar sijn spere droech hi te hoge;</l>
+<l>Ende Cassamus, die int orloge</l>
+<l>Van wapenen conste groet vordeel,</l>
+<l n="830"><pb n="34"/> Stac hem tspere ende tpennoncheel</l>
+<l>Dore die herte, dat hi viel doet.</l>
+<l>Hi nam tors, [dat] scone ende groet</l>
+<l>Was ende utermaten snel;</l>
+<l>Tenen, dien hi kinde wel,</l>
+<l n="835">Seide hi: "Vart te Pheson na,</l>
+<l>Ende geefter der scoenre Edea</l>
+<l>Dit ors: het es te rechte hare.</l>
+<l>Nu sit op ende vare</l>
+<l>Sonder enichge lange beide".</l>
+<l n="840">Die knape hi spranc int gereide,</l>
+<l>Die en was no trage no lat,</l>
+<l>Ende voer te Pheson die stat,</l>
+<l>Daer hi vant die scone smale,</l>
+<l>Ende dede sine boedscap harde wale</l>
+<l n="845">Ende gaf hare tors metten gesmide</l>
+<l>Van Cassamus wege, dies si was blide,</l>
+<l>Ende dankede hem utermaten sere,</l>
+<l>Dat hi om hare pensede, die here,</l>
+<l>Daer hi was in selker noet,</l>
+<l n="850">Doe hi den riddre stac te doet.</l>
+<l>Doe die knape sijn present</l>
+<l>Hadde gedaen, hine lette twent,</l>
+<l>Ende heeft orlof an hare genomen,</l>
+<l>Ende es weder ten stride comen,</l>
+<l n="855">Daer hi Betise ende Gadifere</l>
+<l>Sach striden utermaten sere.</l>
+<l>Daer was die bataelge groet,</l>
+<l><edition n="35"/>Ende daer liep menich ors al bloet</l>
+<l>Sonder sinen here harentare.</l>
+<l n="860">Cassamus sach ende wart geware</l>
+<l>Al there gewapent, ende wart geware</l>
+<l>Te hen wart met groten scaren.</l>
+<l>Hi riep te hem doe Gadifere</l>
+<l>Ende Betise den kintschen here.</l>
+<l n="865">"Kinder," seit hi, "ic hebbe vernomen</l>
+<l>Dit groet here al tonswaert comen</l>
+<l>Met bogen ende met gaveloten:</l>
+<l>Si hadden onse orse saen doet gescoten.</l>
+<l>Daeromme radic dat wi keren:</l>
+<l n="870">Wi moegent doen met groten eren;</l>
+<l>Want hare lieden es met getale</l>
+<l><milestone unit="fol" n="72d"/> Hondert dusent, weet ic wale,</l>
+<l>Ende onser en es na onse getal</l>
+<l>Maer Vc overal.</l>
+<l n="875">Laet ons varen met onser proien,</l>
+<l>- Het sal ons comen meer te joien, -</l>
+<l>Tote binnen lytchen van Phesone.</l>
+<l>Daer sullen wi beiden alse riddren cone</l>
+<l>Claerwijs dien here, coemt hire gevaren</l>
+<l n="880">Met harde menegen groten scaren,</l>
+<l>Met arenborste ende met speren:</l>
+<l><edition n="36"/>Hier en mochten wi ons niet verweren,</l>
+<l>So vele volcs volcht hem na."</l>
+<l>Doe quam hem van Edea</l>
+<l n="885">Een gepens al daer ter stede,</l>
+<l>Dat hem sine herte verwandelen dede,</l>
+<l>Soe dat hi set den helm in thoet,</l>
+<l>Ende nam een spere starc ende groet,</l>
+<l>Ende decte hem met sinen scilde,</l>
+<l n="890">Als ocht hi joesteren wilde,</l>
+<l>Ende sloech durs met sporen,</l>
+<l>Dat allen ursen liep te voren.</l>
+<l>Doe hi den here Claerwise versach,</l>
+<l>Riep hi van verren dat hi mach</l>
+<l n="895">Met enen verbolgenliken sinne:</l>
+<l>Gi selt becopen diere die minne,</l>
+<l>Die gi te Phisonie draegt:</l>
+<l>U es ongereet alselke ene maegt.</l>
+<l>Beter dan gi salse gewinnen,</l>
+<l n="900">Dats diegene, die hem doet kinnen</l>
+<l>Boven al te sine een here.</l>
+<l>Eer haer die sonne int donker kere,</l>
+<l>Soe soudi willen in die wesen"</l>
+<l>Claerruus die wert erre van desen</l>
+<l n="905">Worden, die hi te hem wart seide,</l>
+<l><edition n="37"/>Ende reet hem jegen sonder beide.</l>
+<l>Cassamus stac den Inscen here</l>
+<l>Doer den scilt ende quetstene sere,</l>
+<l>Ende Claerus brac sijn spere ende leet.</l>
+<l n="910">Dat hine niene quetste dat was hem leet.</l>
+<l>In rampone seide hi dit wart:</l>
+<l>"Gi hebt gejaecht, here oude vieliart,</l>
+<l>Us selfs doet al desen dach.</l>
+<l>Waendi dat mi verdriven mach</l>
+<l n="915">Alexanders, al coemt hi here</l>
+<l>U te helpen met al sinen here?</l>
+<l>Nu sal Porrus gewroken sijn</l>
+<l>Van dien, dat vore Pantapolijn</l>
+<l>Die vule bastart hem lachter dede.</l>
+<l n="920">Hine creech van mi pais no vrede:</l>
+<l>Om dusentich pont van goude roet</l>
+<l>Sone liet ict niet, ine sloegene doet".</l>
+<l>Cassamus, die dit verstoet,</l>
+<l>Hi seide: "Het cost u lijf ende goet,</l>
+<l n="925">[...............]</l>
+<l><milestone unit="fol" n="73a"/> Dat gi blameert dien groten here</l>
+<l>Alexanderse ende mi daer mede.</l>
+<l>Gi doet u selven dorperhede</l>
+<l><edition n="38"/>Ende luttel eren ende baten;</l>
+<l n="930">Want alse wel doet hem een haten</l>
+<l>Met talen dicke alse metter daet.</l>
+<l>Elc soude hem hoeden te sprekene quaet,</l>
+<l>Ware hi prinche ochte gnoet,</l>
+<l>Lachter te seggene cleine och groet</l>
+<l n="935">Enegen man, want een groet here,</l>
+<l>Die quaet spreect, es te scuwene sere."</l>
+<l>Cassamus, dies niet verdragen</l>
+<l>En woude, liep hem op met slagen,</l>
+<l>Ende hi hem weder sonder verden.</l>
+<l n="940">Haddemen hem beiden laten gewerden,</l>
+<l>Ic segge u dat bi mire trouwen,</l>
+<l>Het soude den enen sijn berouwen;</l>
+<l>Maer daer quamen toegeslogen</l>
+<l>Die van Indie van allen wegen,</l>
+<l n="945">Ende dadense sceden an haren wille.</l>
+<l>Betijs, die niet en hilt stille,</l>
+<l>Voer daer hijs te doene sach meest,</l>
+<l>Alse ocht hi ware enen tempeest.</l>
+<l>Hi sloech ors ende man te neder,</l>
+<l n="950">Die meer op en stoeden weder,</l>
+<l><edition n="39"/>Alse die donder doet den boem,</l>
+<l>Om te bescuddene sinen oem.</l>
+<l>Alse hi gedaen hadde sinen oemoet,</l>
+<l>Soe seidi: "Oem, mi dunket goet,</l>
+<l n="955">Dat wi weder keren achter.</l>
+<l>Wine moeges hebben en genen lachter,</l>
+<l>Want wine sijn hier maer ons twee,</l>
+<l>Ende al dat here es ons gevee."</l>
+<l>Cassamus ende Betis keren</l>
+<l n="960">Op haren breidel, alse twee heren</l>
+<l>Die menege scone joeste daeden,</l>
+<l>Alse wise lieden ende wel beraeden,</l>
+<l>Thies si vore Phesone quamen,</l>
+<l>Daer si hare gesellen vernamen.</l>
+<l n="965">"Oem," seit hi doe, Gadifier,</l>
+<l>"Gi daedt ons keren heden hier,</l>
+<l>Ende hiet ons varen in ons behout.</l>
+<l>Ic sach u sint wel menichfout</l>
+<l>Hustineren in den stride,</l>
+<l n="970">Daer ic omme was onblide;</l>
+<l>Want mi dochte selc wile te waren,</l>
+<l><edition n="40"/>Dat gijs niet en sout ontfaren".</l>
+<l>"Gadifeer, neve nu verstaet,</l>
+<l>Die minne si geeft corten raet</l>
+<l n="975">Dat hebbie dicke geweten wale.</l>
+<l>Mi dede Edea die scone smale</l>
+<l>Bondoneren lijf ende leven.</l>
+<l>Hets recht, si heft mi gegeven</l>
+<l><milestone unit="fol" n="73b"/> Die minne van hare op hovesscede</l>
+<l n="980">Mettien vingerline, dat si dede</l>
+<l>Uut haren vingere ende gaeft mi."</l>
+<l>Aldus al sprekende reden si</l>
+<l>Ter porten van Far, toter vesten,</l>
+<l>Daer si helden ende hem bewesten,</l>
+<l n="985">Om te doene grote were</l>
+<l>Jegen des conincs Claerwijs here,</l>
+<l>Die hen volgeden op den voet.</l>
+<l>Daer mochtemen sien menich ontmoet</l>
+<l>Vore die porten, diese assellierden,</l>
+<l n="990">Ende die van binnen niene faellierden.</l>
+<l>Si lieten vallen balken groet,</l>
+<l>Daer menich man bleef onder doet.</l>
+<l>Die van binnen weerden soe wale</l>
+<l>Hare porte, dat sise doe te male</l>
+<l n="995">Wel een boenre achterdaeden,</l>
+<l>Te hare lachtre ende te haerre scaden.</l>
+<l>Clarvus, die sine liede dus siet</l>
+<l><edition n="41"/>Tachterdoen, hads groet verdriet,</l>
+<l>Ende seide: "Casseel Baudrijn,</l>
+<l n="1000">Amerael van Sydone ende van Cyopin,</l>
+<l>Gi seit, dies en es niet lanc,</l>
+<l>Dat gi Pheson an haren danc</l>
+<l>Wennen sout ende Edea mede,</l>
+<l>Ende mi sout op hovesscede</l>
+<l n="1005">Phesonien die scone maegt,</l>
+<l>Die crone boven allen wiven draegt."</l>
+<l>"Here," seit hi, "gi tiet mi ane</l>
+<l>Stucken, die mi swaer taenegane</l>
+<l>Waren ende node doen soude.</l>
+<l n="1010">Minne ic die maegt ende drage hare houde,</l>
+<l>Soe moet ic minnen over recht</l>
+<l>Haren hont ende hare cnecht;</l>
+<l>Ine sal mesdoen niet jegen hare,</l>
+<l>Mare altoes dienen openbare.</l>
+<l n="1015">Onthilse mi nu ocht anderwerven,</l>
+<l>Soe haddic minne na mine bederve.</l>
+<l>Aldus, here, soe souddi doen</l>
+<l>Van uwen lieve van Pheson;</l>
+<l>Wildire bliscap af gewinnen,</l>
+<l n="1020">Gine soutse niet met onminnen</l>
+<l>Leven doen noch met orlogen,</l>
+<l>Maer altoes na hare minne pogen.</l>
+<l><edition n="42"/>Ic kinne wel, here, dat ic mijn lant</l>
+<l>Houde een deel van ure hant,</l>
+<l n="1025">Maer ten stride, wat mijns gesciet,</l>
+<l>Here, sone wane ic varen niet,</l>
+<l>Gine selt tirst met ure scaren</l>
+<l>Voren in die bataelge varen".</l>
+<l>Dit horde Cassamus van Larijs</l>
+<l n="1030">Ende sijn neve die vrome Betijs,</l>
+<l>Die sijn sceren maecte groet,</l>
+<l><milestone unit="fol" n="73c"/> Ende seide: "Oem, mi dunke gi bloet</l>
+<l>Hebt geslagen van ure vriendinnen,</l>
+<l>Want die Paudrijn wilse minnen."</l>
+<l n="1035">"Lieve neve, ine achtes twint,</l>
+<l>Want ic was tirst van hare gemint."</l>
+<l>"Ja oem," seit hi, "alse gi waent,</l>
+<l>Menich hem te verre verwaent".</l>
+<l>Binnen desen dat si spraken</l>
+<l n="1040">Onder hem beiden van desen saken,</l>
+<l>Hebbense op die roke vernomen</l>
+<l>Den coninc Alexanders comen,</l>
+<l>Daer onder liep die grote riviere.</l>
+<l>Daer mochtemen sien menichge baniere,</l>
+<l n="1045">Menich spere ende menich scilt,</l>
+<l>Daer there op die roke hilt.</l>
+<l>"Oem," seit hi doe, Gadifeer,</l>
+<l>"Ons en behoeft te lettene meer.</l>
+<l><edition n="43"/>Laet ons buten lichen varen</l>
+<l n="1050">Ende bestaen die Insche scaren,</l>
+<l>Dat wi doch Alexanderse togen,</l>
+<l>Hoe wi in stride ende in orlogen</l>
+<l>Ons connen hebben ende bedragen</l>
+<l>Met steken ende met groten slagen."</l>
+<l n="1055">"Neve," seit hi, Cassamus,</l>
+<l>"Het es mijn wille wel aldus."</l>
+<l>Doe voren si ute haerre porten</l>
+<l>Met ere harde scoenre roten.</l>
+<l>Die van buten quamen hem jegen</l>
+<l n="1060">Dapperleke met sporen geslegen.</l>
+<l>Martien, Claerrus suster sone,</l>
+<l>Sat op een ors groet ende scone,</l>
+<l>- Het was hem bracht van Cornuwaelge -</l>
+<l>Ende geleidde dirste bataelge.</l>
+<l n="1065">Gadifere heeft hi versien,</l>
+<l>Want hine kinde, ende mettien</l>
+<l>Sloech hi met sporen te hem wart,</l>
+<l>Alse die gene diene sere begert;</l>
+<l>Ende Gadifier hi sagene comen,</l>
+<l n="1070">Ende heft enen scacht genomen,</l>
+<l>Starc ende groet, al onverscaven.</l>
+<l>Sijn ors, dat swarter dan een raven</l>
+<l><edition n="44"/>Was, dat liet hi hene vlinken,</l>
+<l>Ende dat spere een luttel sinken</l>
+<l n="1075">Liet hi te poente ende so wale,</l>
+<l>Dat hi durs ende man te male</l>
+<l>Stac met crachten ter erden neder.</l>
+<l>Martien, hi was saen op weder,</l>
+<l>Die hem scaemde harde sere,</l>
+<l n="1080">Want hi ontsach die onnere,</l>
+<l>Ende Gadiefeer, die overleet,</l>
+<l>Scurde die bataelge ende dorereet.</l>
+<l>Dese joeste vanden riddre coene</l>
+<l>Sagen int here die baroene,</l>
+<l n="1085"><milestone unit="fol" n="73d"/> Ende die Grieken prijsden sere</l>
+<l>Die joeste vanden kintscen here.</l>
+<l>Alexanders sprac mettien:</l>
+<l>"Ha!" seit hi, "ic hebbe gesien</l>
+<l>Riddre ende ors te neder steken,</l>
+<l n="1090">Ende die bataelge scoren ende breken.</l>
+<l>Siet, hoe hi strijt met sinen brande</l>
+<l>Ende vor hem vlien doet sine viande!</l>
+<l>Ane sine gelaet dunct mi dat scijnt,</l>
+<l>Dat hem en cost noch en pijnt.</l>
+<l n="1095">Se wie hi es, Mars geve hem ere,</l>
+<l>Want hi es te prisene sere."</l>
+<l>Die bataelle was harde groet,</l>
+<l>Daer Gadifier doerbrac tconroet;</l>
+<l>Hi sloech af hande ende hoefde,</l>
+<l n="1100">Ende selc oec toten tande cloefde.</l>
+<l>Dien hi herhaelde was in sorgen,</l>
+<l><edition n="45"/>Datten niemene en mochte borgen.</l>
+<l>Die Insce vloen daer achterwart.</l>
+<l>Betijs ende Cassamus die vieliart</l>
+<l n="1105">Volgeden hen alse riddren cone</l>
+<l>Met haren lieden van Phesone.</l>
+<l>Daer bleeffer vele van Indie doet,</l>
+<l>Dies hadde int herte rouwe groet</l>
+<l>Die ammerael Casseel van Baudre,</l>
+<l n="1110">Ende dede sine lieden al te gadre</l>
+<l>Ende voer Claeruse in staeden staen,</l>
+<l>Die sere tonder was gedaen.</l>
+<l>Hi dede keren die gene die vloen:</l>
+<l>Men sach noit met wapinen doen</l>
+<l n="1115">Alse menege grote vromichede,</l>
+<l>Alse daer Casseel van Baudre dede.</l>
+<l>Het scijnt een valke op ene riviere</l>
+<l>Ocht een leu onder die diere:</l>
+<l>Dat hi wrachte was tsiene wonder.</l>
+<l n="1120">Die van Pheson dedi tonder,</l>
+<l>So dat si togen vor hare porte</l>
+<l>Met algader haren conrote,</l>
+<l>Ende Cassamus die oude degen</l>
+<l>Gaf hem bilc wel dicken jegen:</l>
+<l n="1125">Daer was menich slach geslagen.</l>
+<l>Die mageden, die ten tinnen lagen</l>
+<l>Boven hoge in dien casteel,</l>
+<l>Sagen striden dien Casseel</l>
+<l>Van Baudre, den jongen here,</l>
+<l n="1130">Dien si priseden harde sere.</l>
+<l>"Sekerlike," seitse, Edea,</l>
+<l>"Nadien dat ic mi versta,</l>
+<l>Soe wart jamer ende scade groet,</l>
+<l>Dat dese riddre hier bleve doet.</l>
+<l n="1135"><pb n="46"/> Alle onse Goede moetene bewaren</l>
+<l>Van ongevalle ende sparen;</l>
+<l>Maer mocht na minen wille gaen,</l>
+<l><milestone unit="fol" n="74a"/> Soe woudic dat hi bleve gevaen.</l>
+<l>Wi sien hier sine vromicheide,</l>
+<l n="1140">Dan souden wi sien sine scoenheide</l>
+<l>Ende sine seden ende sine manieren,</l>
+<l>Ocht hi es hovesch ende goedertieren."</l>
+<l>"Gesellinne," seide Phesonie,</l>
+<l>"Mi dunct dat ic ane u sie,</l>
+<l n="1145">Ende ic u lange hebbe gekint,</l>
+<l>Dat gi desen riddre mint."</l>
+<l>"Sekerlike," seit si, die maegt,</l>
+<l>"Gi segt waer, mine herte draegt</l>
+<l>Goede onste te hem ende alle ere."</l>
+<l n="1150">Hadde geweten Casseel die here,</l>
+<l>Dat Edea, Phesonie ende Ydorus</l>
+<l>Hadden geweest die spraken dus,</l>
+<l>Hem so hadde sine cracht daer mede</l>
+<l>Gedobbelleert ende sine coenhede,</l>
+<l n="1155">Niet daeromme, hine dede met crachte</l>
+<l>Die brudere beide ende hare geslachte,</l>
+<l>Ende Cassamuse dien vieliart</l>
+<l>Tote binnen der porten achterwart.</l>
+<l>Casseel volgede so verre naer,</l>
+<l n="1160">Dat hem dat keren was te swaer;</l>
+<l>Want alse hi die porte leet,</l>
+<l>Lietmen die scotporte gereet</l>
+<l>Vallen met groter haesten neder,</l>
+<l>Dat hi en conde gekeren weder.</l>
+<l n="1165">Daer waer hi seker bleven doet,</l>
+<l>So menich warpene ende scoet,</l>
+<l>En hadde Cassamus gedaen,</l>
+<l>Diene met crachte nam gevaen.</l>
+<l>Doe dedi vaste die porten sluten,</l>
+<l n="1170"><pb n="47"/> Ende die gene diere waren buten</l>
+<l>Mesbaerden utermaten sere</l>
+<l>Om Cassele haren here,</l>
+<l>Dat hi daer bleef alsoe gevaen.</l>
+<l>Dat asaut lieten si staen,</l>
+<l n="1175">Ende togen te haren tenten wart,</l>
+<l>Ende Cassamus die oude vieliart</l>
+<l>Leidde dien Casseel gevaen</l>
+<l>In die berch, ende dedene saen,</l>
+<l>Ontwapenen, ende bringen sciere</l>
+<l n="1180">Rike cledre ende wel diere,</l>
+<l>Die hem twe cnapen daeden ane.</l>
+<l>Ine mochte volprisen sine gedane</l>
+<l>Noch die scoenheit die ane hem lach.</l>
+<l>Cassamus, die wel sijns plach,</l>
+<l n="1185">Leiddene in een scone proieel,</l>
+<l>Daer bloemen stonden een groet deel.</l>
+<l>"Here," seit hi, die goede vieliart,</l>
+<l>"Gine dorst entsien noch sijn vervart</l>
+<l>Dit prison, daer gi in sijt,</l>
+<l n="1190">Want torloge en sal niet lange tijt</l>
+<l><milestone unit="fol" n="74b"/> Moegen duren, sijt seker dies.</l>
+<l>Soe wie die wint ocht heeft verlies,</l>
+<l>Gi selt utecomen ende wederkeren</l>
+<l>In u lant met groter eren.</l>
+<l n="1195">Men heeft menegen here gevaen,</l>
+<l>Diemen weder heeft laten gaen.</l>
+<l>Men moet ere ende vromichede</l>
+<l>Becopen dickent ende stouthede mede.</l>
+<l>Haddi, here, geweest van dien,</l>
+<l n="1200"><pb n="48"/> Die gerne achterwerder tien,</l>
+<l>Men hadde u heden in onsen baren</l>
+<l>Belopen connen noch bevaren.</l>
+<l>Nu manic u bi allen heren,</l>
+<l>Dat gi u herte niene wilt keren</l>
+<l n="1205">In rouwen, dies gi sijt gevaen.</l>
+<l>Nu coemt met mi ende laet ons gaen,</l>
+<l>Daer ic u leiden sal hier bi,</l>
+<l>In ene camere, here, daer gi</l>
+<l>Sien selt moegen scone joncfrouwen;</l>
+<l n="1210">Ende condi enichge daer gescouwen,</l>
+<l>Die gi wilt met herten minnen,</l>
+<l>Ic wille u helpen in allen sinnen,</l>
+<l>Ende sijn u messagier ane hare,</l>
+<l>So dat gijs worden selt geware.</l>
+<l n="1215">Nu laet ons gaen alle beide:</l>
+<l>Ic wane u tonen selke scoenheide,</l>
+<l>Dat u sachten sal u seer.</l>
+<l>Ic horde wale heden eer</l>
+<l>Tusscen Claeruse ende u die tale</l>
+<l n="1220">Van Edea die scone smale".</l>
+<l>Casseel scaemde hem ende liet thoeft</l>
+<l>Nedersinken, dies geloeft.</l>
+<l>"Oem," seit Betijs, "laet staen</l>
+<l>U scernen; ic sach u ontfaen</l>
+<l n="1225">Edea heden over hare lief,</l>
+<l>Daer u herte sere af verhief".</l>
+<l><edition n="49"/>"Neve," seide doe Cassamus,</l>
+<l>"Ine spreke te scerne niet aldus,</l>
+<l>Mar in ernste ende met trouwen.</l>
+<l n="1230">Ic bem tout dat ic joncfrouwe</l>
+<l>Tsaermeer helsen ende cussen soude,</l>
+<l>Want sine geren niet die oude.</l>
+<l>Dese riddre heeft van Gode te lone,</l>
+<l>Dat hi es rike, jonc ende scone,</l>
+<l n="1235">Ende die vroemste diemen vonde.</l>
+<l>Men es sculdich talre stonde</l>
+<l>Goeden lieden ere te doene.</l>
+<l>Hi es hier in onsen prisone,</l>
+<l>Dies souden wi hem joie ende spel</l>
+<l n="1240">Alle tonen, soe doen wi wel."</l>
+<l>Casseel seide: "God lone u, here,</l>
+<l>Dat gi ane mi doet u ere;</l>
+<l>Maer ic mach u sweren wale,</l>
+<l><milestone unit="fol" n="74c"/> Dat ic die gene, daer gi af die tale</l>
+<l n="1245">Hout, noit met ogen en sach;</l>
+<l>Nochtan hebbic dicke gewach</l>
+<l>Van hare gehort ende prisen mede</l>
+<l>Hare grote duecht ende hare scoenhede."</l>
+<l>"Here," sprac Cassamus mettien,</l>
+<l n="1250">"Daer omme willicse u leiden sien."</l>
+<l>Een cnape was doe voren gegaen,</l>
+<l>Die dien joncfrouwen liet verstaen,</l>
+<l>Dat her Casseel, die riddre cone,</l>
+<l>Daer binnen ware in prisone,</l>
+<l n="1255">Ende hi die scoenste riddre ware,</l>
+<l>Beide van live ende van hare,</l>
+<l>Diemen in die werelt vonde.</l>
+<l>Daer was selke die uuttien gronde</l>
+<l>Van haerre herten een suchten nam,</l>
+<l n="1260"><pb n="50"/> Dat altemale niene volquam.</l>
+<l>"Te waren," seide doe Phesonas,</l>
+<l>Die hare lieve gesellinne was,</l>
+<l>"Men mochte bat met rechte minnen</l>
+<l>Desen riddre ende lief gewinnen</l>
+<l n="1265">Ende van herten hebben wart</l>
+<l>Dan Cassamuse den vieliart.</l>
+<l>Gesellinne Edea, nu mogedi scouwen</l>
+<l>Den genen, dien gi saecht dorehouwen</l>
+<l>Menegen helm ende menegen scilt:</l>
+<l n="1270">U wensce es comen na dat gi wilt.</l>
+<l>Wart Marse onsen god bequame,</l>
+<l>Soe woudic geven in sinen name</l>
+<l>Mijn gordel ende mine hantscoen beide,</l>
+<l>Ende u die riddre op hovescheide</l>
+<l n="1275">Hem selven gave altemale;</l>
+<l>Ende hi dade sekerlec wale,</l>
+<l>Die selke twee vergadren mochte."</l>
+<l>"Vrouwe," seide Edea, "gi scernt sochte:</l>
+<l>Houddine selve ende laet mi staen.</l>
+<l n="1280">In wille ander lief ontfaen</l>
+<l>Dan Cassamuse minen vrient:</l>
+<l>Hi heves heden wel verdient."</l>
+<l>Mettien hebben si vernomen</l>
+<l>Dien riddre in die camere comen.</l>
+<l n="1285">Betijs ginc met hem daer inne.</l>
+<l>Die camere was in allen sinne</l>
+<l>Wel gescreven van finen goude</l>
+<l>Ende van lasure menichfoude,</l>
+<l><edition n="51"/>Daer in geworpen stonden jeesten,</l>
+<l n="1290">Die ic therseggene en conde geleesten:</l>
+<l>Men sach soe scone camere nie.</l>
+<l>Daer was Edea, Ydorus ende Phesonie.</l>
+<l>Doe die heren quamen gegaen,</l>
+<l>Te hem wart stonden si op al saen</l>
+<l n="1295">Sonder beiden altehant,</l>
+<l>Ende elc nam enen bider hant,</l>
+<l><milestone unit="fol" n="74d"/> Ende hietense willecomen wesen,</l>
+<l>Ende gingen sitten doe mettesen</l>
+<l>Twee ende twee met goeden staeden</l>
+<l n="1300">Op die tabite van goutdraden,</l>
+<l>In rosen ende in andren blomen,</l>
+<l>Die ic al en can genomen.</l>
+<l>Casseel, die here van Baudre,</l>
+<l>Ende Phesonie saten te gadre;</l>
+<l n="1305">Bander side Betijs ende Ydorus,</l>
+<l>Daerna Edea ende Cassamus,</l>
+<l>Die hi helsde vriendelike,</l>
+<l>Ende seide: "Gi blijft gestadelike</l>
+<l>Mijn herte, die u met trouwen mint</l>
+<l n="1310">Sonder mespensen te uwart twint."</l>
+<l>Cassamus conste die werelt wel</l>
+<l>Ende maken bliscap ende spel;</l>
+<l>Hi pijnde hem feeste ende ere te doene</l>
+<l>Casseel van Baudre, den riddre coene,</l>
+<l n="1315">Die hi in enen gepense sach.</l>
+<l><edition n="52"/>"Here," seit hi, "hier en mach</l>
+<l>Niemene in dese camere bliven,</l>
+<l>Die rouwe ende vernoi wille driven:</l>
+<l>Hets Venus camere diere goddinnen.</l>
+<l n="1320">So wie hier coemt hi moet minnen</l>
+<l>Ende wesen blide in allen saken;</l>
+<l>Hier en mach besluten tmaken</l>
+<l>Den scamelen noch den simplen mede."</l>
+<l>"Here," seit hi, Casseel, "alle hovesscede</l>
+<l n="1325">Merckic ane u ende ane u tale,</l>
+<l>Ende si becoemt mi harde wale."</l>
+<l>"Here, so willic u vragen dan,"</l>
+<l>Sprac Cassamus, die wel spelen can,</l>
+<l>"Nu segt mi, dat u goet gescie,</l>
+<l n="1330">Hier so sijn joncfrouwen drie,</l>
+<l>Ende wi sijn drie, het es gepart:</l>
+<l>Elke minne ene, ic bem vieliart,</l>
+<l>Ic hebbe leden die sorge van minnen,</l>
+<l>Ic lade tambacht ure herten binnen".</l>
+<l n="1335">"Here," seit hi, Casseel Baudrijn,</l>
+<l>"Gi hebt geladen die herte mijn</l>
+<l>Met laste, dat avonturlic es:</l>
+<l>Ic salt dragen, sijt seker des.</l>
+<l>Nu moeten onse Goede mi geven spoet,</l>
+<l n="1340">Dat ic allene niet minnen en moet."</l>
+<l>"Here," seit hi doe, Cassamus,</l>
+<l>"Dat ware mi leet, vielt u aldus,</l>
+<l>Ende ginct ane mi, gine sout niet</l>
+<l>Faellieren". Mettien hi liet</l>
+<l n="1345"><pb n="53"/> Die tale ende nam doe Edea</l>
+<l>In sinen arme ende sat hare na,</l>
+<l>Ende seide hare heimelic ende stille:</l>
+<l>"Joncfrouwe, het ware wel mijn wille,</l>
+<l>Dat gi desen riddre u minne</l>
+<l n="1350"><milestone unit="fol" n="75a"/> Geven wout: hijs hovesch van sinne,</l>
+<l>Ende jonc ende scone, vroet ende rike:</l>
+<l>Men soude niet vinden sine gelike.</l>
+<l>Van sinen wege so biddic u,</l>
+<l>Dat gine, joncfrouwe, wilt minnen nu."</l>
+<l n="1355">"Here," seit si, "bi ure genaden,</l>
+<l>Ic sal wesen alsoe beraden;</l>
+<l>Alse hi mi selve begroet van minnen,</l>
+<l>Ine saels scande no blame gewinnen;</l>
+<l>Want ic sals werken bi u al, here,</l>
+<l n="1360">Sone magics hebben gene onnere</l>
+<l>Noch oec vernoi noch mesfal,</l>
+<l>Want gi mi hebt in hoeden al.</l>
+<l>Nu wilt mi, here, staen in staeden".</l>
+<l>"Joncfrouwe, gi sijt wel beraeden,"</l>
+<l n="1365">Sprac Cassamus, ende liet die tale,</l>
+<l>Die sinen vrient conste helpen wale</l>
+<l>Ter noet bat dan iemenne el.</l>
+<l>Doe maecte hi daer een conincs spel.</l>
+<l>Betijs so was gecosen daer</l>
+<l n="1370">Coninc, dat was seker waer,</l>
+<l>Dies si alle waren vroe,</l>
+<l>Ende croendene doe met enen stroe,</l>
+<l>Ende daedene sweren bider minnen</l>
+<l>Ende bi Venuse der goddinnen,</l>
+<l n="1375">Dat hi gerecht coninc soude wesen.</l>
+<l>Edea geboet hi mettesen,</l>
+<l>Dat si hem seide, ochte van minnen</l>
+<l>Die quale iet wiste hare herte binnen.</l>
+<l>"Here," seit si, "neen si niet,</l>
+<l n="1380"><pb n="54"/> Noch en gevoelde oec noit verdriet</l>
+<l>Van hare, mar al suete gedachte</l>
+<l>Hebbic gehadt, dat mi dede sachte".</l>
+<l>Helpe!" seit si doe, Phesonie,</l>
+<l>"Wat ic al hore ende sie,</l>
+<l n="1385">Dese scilt en mach u helpen twint,</l>
+<l>Want ic weet wale dat gi mint."</l>
+<l>"Sekerleke," seide die scone maegt,</l>
+<l>"Onwerdes meer van mi gewaegt.</l>
+<l>Eist dat ic minne ende hebbe lief,</l>
+<l n="1390">Mars geve dat si mijn gerief;"</l>
+<l>Ende metten worde versuchte si,</l>
+<l>Ende verhaelde hare varuwe daer bi,</l>
+<l>Dat hare anscijn wart al roet,</l>
+<l>Daer si met ontfinc ene scoenheit groet;</l>
+<l n="1395">Ende Baudrijn besachse wale,</l>
+<l>Ende Venus scoet mettien hare strale</l>
+<l>Den here in sijn herte binnen,</l>
+<l>Dat hi bleef gevaen van minnen.</l>
+<l>Die coninc seide doe: "Phesonie,</l>
+<l n="1400">Segt mi, dat u goet gescie,</l>
+<l>Ocht gi iemenne wet ende kint,</l>
+<l>Dien u herte met trouwen mint."</l>
+<l><milestone unit="fol" n="75b"/> "Here," seit si, vrouwe Phesonas,</l>
+<l>"In bem Huge noch Thomas;</l>
+<l n="1405">Niemene sone wilt mi minnen,</l>
+<l>Ende ine wille niemenne lief gewinnen."</l>
+<l>Die coninc hare bruder verstoet,</l>
+<l><edition n="55"/>Dat jalosie hare spreken doet,</l>
+<l>Ende vragede nemmeer hare,</l>
+<l n="1410">Ende geboet al openbare</l>
+<l>Den Baudrijn, dat hi hem seide</l>
+<l>Dore recht ende dore hovescheide,</l>
+<l>Waer sijn gepens ende sine minne</l>
+<l>Meest gedroge van sinen sinne.</l>
+<l n="1415">"Here coninc," seit die Baudrijn,</l>
+<l>"Bi Jupiterre den here mijn,</l>
+<l>En trouwen sculdich bem der minnen,</l>
+<l>Ende ver Venuse der goddinnen,</l>
+<l>Hier en es mar heimelic raet:</l>
+<l n="1420">Ic segge u dat mijn gepens al staet</l>
+<l>Hier ane die scone Edea,</l>
+<l>Dier ic nu bidde, dat si ontfa</l>
+<l>Minen dienst ende mine minne</l>
+<l>Met trouwen ende met gestaden sinne.</l>
+<l n="1425">Ic geve hare op lijf ende leven,</l>
+<l>Hare eigijn te sine sonder begeven".</l>
+<l>"Here," seit si, die scone smale,</l>
+<l>"Ic hebbe wel verstaen uwe tale,</l>
+<l>Daer gi mi met hebt verladen.</l>
+<l n="1430">Soe hoe dat ic bem beraeden,</l>
+<l>In wille u, here, ontseggen niet</l>
+<l>Noch oec u geloven iet;</l>
+<l>Maer ic danke u der hovescheit,</l>
+<l>Die gi mi toent ende hebt geseit."</l>
+<l n="1435">Doe seide die coninc ende loech:</l>
+<l>"Ine sie hier engeen ongevoech,</l>
+<l>Maer hovescheit in allen sinne,</l>
+<l>Na dien datmen begent die minne".</l>
+<l>Die coninc, die op Ydorus sach,</l>
+<l n="1440"><pb n="56"/> "Joncfrouwe," seit hi, "goeden dach</l>
+<l>Geve u Jupiter onse god.</l>
+<l>Ic bidde u, hets mijn gebod,</l>
+<l>Dat gi doet een cleine beheet</l>
+<l>Uwen lieve, daer bi [hi] entfeet</l>
+<l n="1445">Troest van herte ende van sinne."</l>
+<l>"Here, in pensede noit vriendinne</l>
+<l>Allene te sine met mire sprake,</l>
+<l>Maer met alsoe geliker saken</l>
+<l>Alsic dat beheet doen sal,</l>
+<l n="1450">Sal ic mi selve geven al,</l>
+<l>Beide met herten ende met sinne;</l>
+<l>Ine sal bedriegen twent die minne.</l>
+<l>Nu laet ons liden dese bataelge,</l>
+<l>Die margen sijn sal sonder faelge,</l>
+<l n="1455">Van Alexanders Macedo</l>
+<l><milestone unit="fol" n="75c"/> Ende van ons lieden met alsoe</l>
+<l>Jegen Claerruse den souttaen;</l>
+<l>Spreken wi daer omme, hets wel gedaen,</l>
+<l>Ende van dien groten pardone,</l>
+<l n="1460">Dat daer die riddre stout ende cone</l>
+<l>Selen bejagen ende winnen:</l>
+<l>Daer salmen sien die gene die minnen.</l>
+<l>Behouden u onse Goede macht,</l>
+<l>Ende uwe virtut ende uwe cracht,</l>
+<l n="1465">Wi selen noch dit spreken beide</l>
+<l>Wel verhalen op hovescheide.</l>
+<l>Ic wille u een beheet doen kinnen:</l>
+<l>Waeneer ic sal willen minnen,</l>
+<l>Ic sal u minnen vor alle man,</l>
+<l n="1470"><pb n="57"/> Die minne en vercrachte mi dan."</l>
+<l>"Bi trouwen," seit hi, Baudrijn,</l>
+<l>"Van desen behete mogedi wel sijn</l>
+<l>Blide int herte ende wel te gemake:</l>
+<l>Ontfaet, het es ene hoge sake."</l>
+<l n="1475">"Here," seit hi, die coninc, doe,</l>
+<l>"Derre gichten bem ic harde vroe,</l>
+<l>Diemen met goeden wille geeft.</l>
+<l>Mijn herte te danke ontfeet ende heeft</l>
+<l>Beide bliscap ende verdriet;</l>
+<l n="1480">Ende hiltmen over beromen niet,</l>
+<l>Ic soude seggen, so wie dat horde,</l>
+<l>Ic sprake alte hoge worde;</l>
+<l>Maer so vele willics gewagen,</l>
+<l>Dat hem ter quader tijt quam dagen</l>
+<l n="1485">Claerrus hier in onsen rike,</l>
+<l>Op dat mi onse Goede namelike</l>
+<l>Sparen willen dat leven mijn."</l>
+<l>"Here," seit hi doe, Baudrijn,</l>
+<l>"Segt uwen wille coenlic al,</l>
+<l n="1490">Ic weet wel dat u minne sal</l>
+<l>Menich becopen, eer tspel vergeet."</l>
+<l>"Here," seit hi, "mi es leet,</l>
+<l>Dat icker so vele hebbe toe geseit,</l>
+<l>Maer minne, die mi int herte leit</l>
+<l n="1495">Ende ontsteken es van hare</l>
+<l>In hopen van joien, hi wart geware,</l>
+<l>Dat hem selc wile tsens gebreect,</l>
+<l>Ende te verre vorwart spreect;</l>
+<l>Ende alsic sie hier vore mijn ogen</l>
+<l n="1500">Die scone, die mi heft ontogen</l>
+<l>Al mijn herte ende minen sen,</l>
+<l>Wat wondre eist, dat ics dan ben</l>
+<l><edition n="58"/>Te meer berurt int herte mijn</l>
+<l>Van hogen gepense een luttelkin,</l>
+<l n="1505">Om te hogene minen name.</l>
+<l>Het ware onrecht, haddic des blame,</l>
+<l>Want die herte, daer in woent minne,</l>
+<l>Si moet doegen in allen sinne</l>
+<l><milestone unit="fol" n="75d"/> So wat dat hare overgeet,</l>
+<l n="1510">Bliscap, rouwe, cout ende heet.</l>
+<l>Dit kint mijn herte altemale,</l>
+<l>Nochtan en dorstic noit die tale</l>
+<l>Begonnen niet in al mijn leven,</l>
+<l>Dat ic te kenne hadde gegeven</l>
+<l n="1515">Mijn vernoi ende mijn torment.</l>
+<l>Hebbic gesproken te verre een twent,</l>
+<l>Ic bids genaden oetmoedelike."</l>
+<l>Ydorus seide doe vriendelike</l>
+<l>"Here Coninc, here, ic wille gi wet,</l>
+<l n="1520">Ic hebbe mijn herte ane u geset,</l>
+<l>Dat icse u geve altemale:</l>
+<l>Nn mint ende hoedt u minne wale."</l>
+<l>"Vrouwe," seit die coninc doe,</l>
+<l>"Ine was van gichten noit so vroe".</l>
+<l n="1525">Doe sprac Casseel van Baudre ende seide:</l>
+<l>"Gi hebt gewonnen een meerre scoenheide</l>
+<l>Met conincs spele in u gebod,</l>
+<l>Dan Prian verloes, alselpmi God,</l>
+<l>Doe Troien sine stat was testort,</l>
+<l n="1530"><pb n="59"/> Daermen noch dicke af spreken hort."</l>
+<l>"Here," seit hi, die coninc Betijs,</l>
+<l>Die hovesch, vroet was ende wijs:</l>
+<l>"Alselc geluc mochti wel gesien</l>
+<l>U selven in corten tiden gescien."</l>
+<l n="1535">"Here," seit hi, Casseel Baudrijn,</l>
+<l>"Sere verlanct der herten mijn</l>
+<l>Na die scone, die mi ene wonde</l>
+<l>Alsoe heimelike geven conde,</l>
+<l>Dat ic die quetsinge niet ne sie.</l>
+<l n="1540">lc wane wel sekerlike dat nie</l>
+<l>So goet geviel prisonier,</l>
+<l>Alst mi es gevallen hier:</l>
+<l>Ic machs mi beloven wel".</l>
+<l>Ende began doe weder tconincs spel,</l>
+<l n="1545">Ende seide: "Here coninc, het es sede,</l>
+<l>Dat elc heeft ane u ene bede,</l>
+<l>Alse u conincscap es uut,</l>
+<l>So dat gi al overluut</l>
+<l>Seggen moet dies men u vraegt.</l>
+<l n="1550">Here, bider trouwen die gi draegt,</l>
+<l>Manic u ende bidde, dat gi</l>
+<l>Segt welc u bequamer si,</l>
+<l>Soe tanesiene uwe vriendinne,</l>
+<l>Soe gepens van uwen sinne,</l>
+<l n="1555">Alse gi bi hare niet en sijt."</l>
+<l>Die coninc seide: "Mijn delijt</l>
+<l>Es meerre vele, ende mijn raste</l>
+<l>In gepense, dat mi woent vaste</l>
+<l>Binnen in mire herten gront.</l>
+<l n="1560">Al gevalt mi enichge stont,</l>
+<l>Dat ic sien mach mire joncfrouwen,</l>
+<l>Die ic minne met goeder trouwen,</l>
+<l><pb n="60"/><milestone unit="fol" n="76a"/> Ende hare lieflic suete anscijn,</l>
+<l>Dat niet scoenre en mochte sijn,</l>
+<l n="1565">Ende hare vriendelic lachende ogen,</l>
+<l>Daer niemen tsien of kan gedoegen,</l>
+<l>Ende dien sueten roden mont,</l>
+<l>Die scijnt dat cusset in alre stont,</l>
+<l>Ic warde soe berurt van dien,</l>
+<l n="1570">Dat ic niet en can gesien</l>
+<l>Noch een twent gevoelen iet,</l>
+<l>Ine weet wat mi es gesciet.</l>
+<l>Bi derre redene mijn herte draecht,</l>
+<l>Dat bi siene wort meer versaecht</l>
+<l n="1575">Een minnare, dat dunct mi,</l>
+<l>Dan hi in gepense si;</l>
+<l>Want alsic verre bem van hare</l>
+<l>Ende niet en sie, wardic geware</l>
+<l>Dat suete gedunken, dat mi sent toe</l>
+<l n="1580">Gepens, dat maect mi therte vroe</l>
+<l>Van dien dat ic hebbe gesien.</l>
+<l>Dat mi dat weder mochte gescien,</l>
+<l>Ic soude mi dan houden sekerliker</l>
+<l>Jegen hare bat ende vroedeliker,</l>
+<l n="1585">Ende hare clagen mijn verdriet;</l>
+<l>Dan pensic hare te seggene niet,</l>
+<l>Mire herten ogen sendic hare</l>
+<l>Met gepense, die mi int hare</l>
+<l>Van joien bringen met gepense:</l>
+<l n="1590">Dus heeft mi minne tenen sense.</l>
+<l>Soe ic vorder van hare ben,</l>
+<l>Soe si meer dwinget minen sen;</l>
+<l>Ic bem haer eigin, dats wel inscijn,</l>
+<l><edition n="61"/>Mars geve datse mine moet sijn."</l>
+<l n="1595">Baudrijn seide: "Here coninc, here,</l>
+<l>Onse Goede moeten u geven ere.</l>
+<l>Gi hebt mi berecht so wale,</l>
+<l>Dat ics mi houde ane uwe tale."</l>
+<l>Phesonie, die sonder minne</l>
+<l n="1600">Was van herten ende van sinne,</l>
+<l>Seide: "Here coninc, berecht mi,</l>
+<l>Welc sijn twee dinge, daer gi bi</l>
+<l>Meest sijt verhoeget van uwer minnen,</l>
+<l>Ende wilke u meest goeds doen gewinnen?"</l>
+<l n="1605">"Hopen ende dinken, scone joncfrouwe,</l>
+<l>Hoeden mi van allen rouwen.</l>
+<l>Alsic te sere bem verladen,</l>
+<l>Soe staen mi dese twee in staeden:</l>
+<l>Daer omme belovic mi meest van hen.</l>
+<l n="1610">Gedinken coemt troesten minen sen</l>
+<l>Jegen meshope, ende brinct te voren</l>
+<l>Die scone die ic hebben vercoren,</l>
+<l>Om doen tanesien der herten mijn</l>
+<l>Den roeden mont, dat suete anscijn,</l>
+<l n="1615">Die kele witter danne een snee;</l>
+<l><milestone unit="fol" n="76b"/> Ende alse mi doet die herte wee,</l>
+<l>Gedinken haelt mi dan hope goet,</l>
+<l>Die mi mijn seer al sachten doet.</l>
+<l>Alse dese twee vergaderen moegen</l>
+<l n="1620">In mijn herte, sone mager dogen,</l>
+<l>Rauwe, pine ende swaer verdriet</l>
+<l>Langer binnen geduren niet.</l>
+<l>Na dien dat ict can versinnen,</l>
+<l>So staet mi aldus van minnen."</l>
+<l n="1625">"Here coninc," seit soe, Phesonie,</l>
+<l><edition n="62"/>"Aldus berecht sone wasic nie.</l>
+<l>Mars moete u geven ere ende goet,</l>
+<l>Ende tuwen lieve geluc ende spoet".</l>
+<l>Edea die scone maegd</l>
+<l n="1630">Met staden si den coninc vraegt:</l>
+<l>"Here," seit si, "segt mi twee dingen,</l>
+<l>Die ure herten sonderlinge</l>
+<l>Alre meest rouwen doen kinnen</l>
+<l>In tambacht van ure minnen."</l>
+<l n="1635">"Begerte ende vrese, vrouwe, dese beide</l>
+<l>Doen mi menege bitterheide.</l>
+<l>Begerte loept mi op met crachte</l>
+<l>Met bernende begerte in mijn gedachte,</l>
+<l>Dat ic mi met begerten groet</l>
+<l n="1640">Moet verweren jegen die doet.</l>
+<l>Mire herte vresen hare wanen doet,</l>
+<l>Dat mi van minnen en geen goet</l>
+<l>Nemmermeer gescien en mach,</l>
+<l>Wat ic hare diene nacht ende dach.</l>
+<l n="1645">Dese twee maken mi te suren</l>
+<l>Mijn leven soe, ine can geduren."</l>
+<l>"Here," seit si, Edea, "ane u nu ent</l>
+<l>Die pine, die de minne sent</l>
+<l>Den minnare, die sonder hope leeft,</l>
+<l n="1650">Daerse u wel versien af heeft."</l>
+<l>Ydorus, die wel goetlic siet</l>
+<l>Op den coninc, en woude niet</l>
+<l>Langer beiden ende seide: "Here,</l>
+<l>Dat u Mars geve goet ende ere!</l>
+<l n="1655">Ic soude die drie dinge gerne bevroden,</l>
+<l>Die de minne meest behoeden</l>
+<l>In hare virtut ende in hare cracht."</l>
+<l><edition n="63"/>"Vrouwe, in bens niet wel bedacht",</l>
+<l>Seide die coninc, "mar ic sal</l>
+<l n="1660">Seggen van dien poewten al,</l>
+<l>Wat sire toe seggen ende die auctore.</l>
+<l>Sientie es dirste, si gaet vore,</l>
+<l>Want si wijst al ende leert,</l>
+<l>Hoemen haren dienst anteert.</l>
+<l n="1665">Trouwe die geweechse bede;</l>
+<l>Helen es coevertoer van beden</l>
+<l>Jegen die felle tongen quaet,</l>
+<l>Die pensen menichge overdaet</l>
+<l><milestone unit="fol" n="76c"/> Over die minne ende doen verdriet:</l>
+<l n="1670">Dit sijn die drie virtute, nu siet,</l>
+<l>Die houden in crachten ende grone die minne</l>
+<l>Met haren volgren in allen sinnen.</l>
+<l>Diet bat weet, macht bat vermonden,</l>
+<l>Mar doude vroede dus orconden".</l>
+<l n="1675">Hier met bleef, dat weet ic wel,</l>
+<l>Algader doe dat conincspel.</l>
+<l>Doe dat conincspel was leden,</l>
+<l>Daermen vander minnen seden</l>
+<l>Hadde afgesproken menic wart,</l>
+<l n="1680">Cassamus die goede vieliart</l>
+<l>Dede hem doe scaecspel bringen,</l>
+<l>Dat van sonderlingen dingen</l>
+<l>Was gemaect, alse gi selt horen.</l>
+<l>Hen was beinijn nocht yvoren</l>
+<l n="1685">Deen spel dat jegen dander stoet,</l>
+<l><edition n="64"/>Mare van gesteinte harde goet.</l>
+<l>Deen so was een roet robijn,</l>
+<l>Ende dander ene miraude fijn.</l>
+<l>Tscaecbart dat was lasure,</l>
+<l n="1690">Ende van goude gedeilt aldure.</l>
+<l>Cassamus hi sette dat spel</l>
+<l>Te sinen rechte harde wel.</l>
+<l>"Here Baudrijn, dat u goet gescie,</l>
+<l>Gi selt," seit hi, "ende Phesonie</l>
+<l n="1695">Te gadre spelen alle beide."</l>
+<l>Here Casseel antworde ende seide,</l>
+<l>Dat hijt doen sende harde gerne.</l>
+<l>Phesonie seide te haren scerne:</l>
+<l>"Van Baudre here her Casseel,</l>
+<l n="1700">Ic wille u geven groet vordeel,</l>
+<l>Roc of riddre, welc gi kiest;</l>
+<l>Mare gevalt dat gi verliest,</l>
+<l>Dat gi u niet belgen en selt.</l>
+<l>Ic sal uwen coninc met gewelt</l>
+<l n="1705">Achter inden hornec driven</l>
+<l>Met enen ouden, daer hi sal bliven."</l>
+<l>"Nichte," seit si doe, Edea,</l>
+<l>"Gi spreect den riddre alte na,</l>
+<l>Gi doet u selve groet onnere,</l>
+<l n="1710"><pb n="65"/> Dat gine hier dreicht so sere.</l>
+<l>Wet wel, eer dat spel vergeet,</l>
+<l>Ic sal u wriven ane u cleet</l>
+<l>Tdregen, dat gi hebt gedaen."</l>
+<l>Phesonie runde hare saen</l>
+<l n="1715">In hare ore ende seide: "Joncfrouwe,</l>
+<l>Eist dat gi wilt sine trouwe,</l>
+<l>Ic sal hem seggen dat hi u minne:</l>
+<l>Gi seles te blider sijn van sinne."</l>
+<l>"Vrouwe," seit si, "altoes wildi</l>
+<l n="1720">Ramponeren ende scelden op mi.</l>
+<l>Woudic minnen gonder ocht hier,</l>
+<l>Ine woude niet selken messagier."</l>
+<l><milestone unit="fol" n="76d"/> Casseel die here dit wel verstoet</l>
+<l>Ende sach op Edea, die hare bloet</l>
+<l n="1725">Verhaelde, dat hare maecte scone,</l>
+<l>Dat si een ingel uten trone</l>
+<l>Sceen vele bet dan iemen el.</l>
+<l>Cassamus, die neven tspel</l>
+<l>Was geseten, loech mettien,</l>
+<l n="1730">Ende seide: "Also mote mi goet gescien,</l>
+<l>Mi dunke, hier es een veruwere goet,</l>
+<l>Die saen dus scone varuwen doet.</l>
+<l>Trect, here Casseel, sonder verdrieten.</l>
+<l><edition n="66"/>Dese connen te rechte wel scieten</l>
+<l n="1735">Indie herte sonder scade.</l>
+<l>Nu trect irst uwe mesdade".</l>
+<l>"Oem," seit si, Phesonie,</l>
+<l>"Ic wille wale dat gescie,</l>
+<l>Dat hi hebbe den irsten toege;</l>
+<l n="1740">Maer eer volent onse orloge,</l>
+<l>Sal mi dechterste toge behoren.</l>
+<l>Al heeft hi nu den toge verloren,</l>
+<l>Ic bem die gone dient stoet soe,</l>
+<l>Die dat halm suect int stroe.</l>
+<l n="1745">Ine weet wat mi es gesciet,</l>
+<l>Ine bem alse geluckich niet</l>
+<l>Alse Edea ende Ydorus es.</l>
+<l>Dies sijt seker ende gewes,</l>
+<l>Alse Venus die vrouwe van minnen</l>
+<l n="1750">Gebiedt, sal ic een lief gewinnen."</l>
+<l>Casseel van Baudre trac met sinne</l>
+<l>Sine vende vor sine coninginne,</l>
+<l>Ende die joncfrouwe si trac daer naer</l>
+<l>Den riddre, om te winne daer</l>
+<l n="1755">Die vende, die hi daer trac.</l>
+<l>Casseel die coninginne vortstac,</l>
+<l>Dies si hoeden woude die vende;</l>
+<l>Haren ouden si oversende,</l>
+<l>Ocht deen iet mochte gewonnen sijn.</l>
+<l n="1760">"Vrouwe," seit hi, her Baudrijn,</l>
+<l>"Liet ic u aldus gewerden,</l>
+<l>Ic soude mijn spel qualic beverden."</l>
+<l>Na dese tale so viel hi</l>
+<l>In een gepens, daer hi bi</l>
+<l n="1765">Versuchte utermaten sere,</l>
+<l><edition n="67"/>Ende Phesonie bescernede dien here,</l>
+<l>Ende seide: "Laet u suchten varen;</l>
+<l>En sal en geen water overvaren,</l>
+<l>Het mach herbergen u soe bi."</l>
+<l n="1770">"Vrouwe," seitse, Edea, "hoe wel condi</l>
+<l>Scalkeleke spreken, dunct mi wale."</l>
+<l>Doe Phesonie horde dese tale,</l>
+<l>Was si uut haren sinne wel naer.</l>
+<l>Si souden gerekent hebben daer</l>
+<l n="1775">Hare parage alle beide,</l>
+<l><milestone unit="fol" n="77a"/> Maer dat sijt lieten dore hovescheide;</l>
+<l>Ende die Baudrijn scaemde hem sere,</l>
+<l>Ende Phesonie wan af dien here</l>
+<l>Met haren ouden sine coninginne,</l>
+<l n="1780">Dies si was blide in haren sinne,</l>
+<l>Ende scerende op hem ende seide:</l>
+<l>"Vrouwen die sijn in uwen geleide</l>
+<l>Daertoe condi qualic sien".</l>
+<l>"Vrouwe, alsoe moete mi goet gescien,</l>
+<l n="1785">Dat ic met siene ben gevaen,</l>
+<l>Soe bi siene ine machs ontgaen,</l>
+<l>Ocht is bi messiene verliese,</l>
+<l>Dat ic messiene coes ende kiese.</l>
+<l>Ic sie ende wedersie ende sie,</l>
+<l n="1790">Soe ic meer sie, so meer joien ende wie".</l>
+<l>Doe si dit horden doe waren si</l>
+<l>Tebarenteert, die waren bi:</l>
+<l>Dobbele verstantnesse hadde sine tale,</l>
+<l>Dat merkeden si allegader wale.</l>
+<l n="1795">Phesonie seide: "Here, te waren,</l>
+<l>Gi cont scone ende wel bewaren</l>
+<l><edition n="68"/>U tale ende vrodelike daer bi."</l>
+<l>"Ic soude trecken, vrouwe?" "Ja gi.</l>
+<l>Ic segge u scaec". "Dat sie ic wel."</l>
+<l n="1800">"Nu botet". "Gerne." "Nu dan snel."</l>
+<l>"Vrouwe, gi haest mi alte sere."</l>
+<l>"So gevic u dan vorste, here,</l>
+<l>Tote margen vroech ten sonne opgange."</l>
+<l>"Vrouwe, ine wilse niet so lange."</l>
+<l n="1805">Den roc wan si hem af mettien.</l>
+<l>Doe scaemde hi hem ende woude tien</l>
+<l>Ene vende, die op den hornec stoet.</l>
+<l>"Wat eist, here, dat gi doet?</l>
+<l>Boet tirst," seit soe, Phesonie,</l>
+<l n="1810">"U scaec, dat u goet gescie,</l>
+<l>Want het es costume ende sede.</l>
+<l>En nemt gramscepe noch onvrede</l>
+<l>Dore God, here, te mi wart niet;</l>
+<l>Want wie gerechter minnen pliet,</l>
+<l n="1815">Ende hi mint scone ende goede,</l>
+<l>Hovessce, ende van gestaden moede,</l>
+<l>Alse ic wel wane dat gi doet,</l>
+<l>Hine soude int herte noch inden moet</l>
+<l>Herbergen laten onpais no toren,</l>
+<l n="1820">Daer minne hare woninge heft vercoren."</l>
+<l>Cassele verblijdde therte binnen,</l>
+<l>Doe hise dus spreken horde van minnen.</l>
+<l>"Gi segt waer, vrouwe, sekerlike,</l>
+<l>Ic pense om minne soe vriendelike,</l>
+<l n="1825">Alse tsuete gedinken coemt te mi,</l>
+<l>Die mi dan ware alsoe bi,</l>
+<l><edition n="69"/>Dat hi opsnede therte mijn,</l>
+<l>Hi soude mire vrouwen suete anscijn</l>
+<l><milestone unit="fol" n="77b"/> Daer binnen sien alse wel betogen</l>
+<l n="1830">Alse nu, daer icse sie met ogen."</l>
+<l>"Here," seitse, die joncfrouwe,</l>
+<l>"Trec, ic maens u op u trouwe,</l>
+<l>Boet u scaec, dats hovesscede,</l>
+<l>Want ic ontsegge u pais ende vrede.</l>
+<l n="1835">Hoet u wel in allen sinne:</l>
+<l>Magic, ic sal u liede afwinnen.</l>
+<l>Gi hebt gnoech gepenst te waren</l>
+<l>Na dese Caldieusche, latet varen."</l>
+<l>"Vrouwe," seide Edea, "bi Gode, gi sijt</l>
+<l>l840 Te haestich van talen allen tijt,</l>
+<l>Gi maect u scerens alte vele."</l>
+<l>"Nichte, dat ic lache ende spele,</l>
+<l>Dat es al omme feeste te doene</l>
+<l>Baudrine, den riddre cone,</l>
+<l n="1845">So dat hi te desen tiden</l>
+<l>Te sachter sinen tijt mach liden".</l>
+<l>"Vrouwe," seit hi, die here van Baudre,</l>
+<l>"Gi hebt dit wel genait te gadre</l>
+<l>Met witten ende met blaeuwen twine;</l>
+<l n="1850">Het es ane u wel in scine,</l>
+<l>Dat gi sijt behendich ende vroet."</l>
+<l>Van haren scake dede hi hare boet,</l>
+<l><edition n="70"/>Ende dede den coninc elre gaen</l>
+<l>Op een ander velt ende staen.</l>
+<l n="1855">Si speelden bede ene lange stonde,</l>
+<l>Maer her Baudrijn hi en conde</l>
+<l>Niet tspel alse wel alsi dede.</l>
+<l>"Here," seit si, "ic hebbe uwen vrede</l>
+<l>Lange van heden eer ontseit,</l>
+<l n="1860">Ic wille u doen ene hovescheit:</l>
+<l>Ic sal u matten, dat verstaet,</l>
+<l>In den hornec, eer gire uutgaet,</l>
+<l>Ocht indie reie, welc gi begert."</l>
+<l>"Vrouwe, dit mat dat hebbic wert,</l>
+<l n="1865">Ende houde mi gepait van beide.</l>
+<l>Ic wout nu ware al sonder beide.</l>
+<l>Gi hebt oec wel die macht, waermede</l>
+<l>Dat ic met ere soude op die stede</l>
+<l>Bliven mat, op dats u rochte</l>
+<l n="1870">Dan, met al dien dat ic vermochte</l>
+<l>U te mattene, dat weet ic wel."</l>
+<l>Doe was daer joie ende groet spel,</l>
+<l>Ende die joncfrouwe scaemde hare,</l>
+<l>Ende pensede, dat iet messeit daer ware.</l>
+<l n="1875">"Lieve suster," seide Betijs,</l>
+<l>"Dreicht dien riddre in hovesscer wijs,</l>
+<l>Ocht hi sal willen hene varen."</l>
+<l>"Bi Gode, bruder," seit si, "te waren,</l>
+<l>In pensde niet dat arch soude sijn."</l>
+<l n="1880">"Sone dedic oec," sprac Baudrijn,</l>
+<l><edition n="71"/>"Maer sekerlic mesdaen ware dat,</l>
+<l><milestone unit="fol" n="77c"/> In verbeidde al selken mat."</l>
+<l>Cassamus, die dit verstoet,</l>
+<l>Hem verblijdde herte ende moet,</l>
+<l n="1885">Ende sloech dat spel omme ende seide:</l>
+<l>"Gi sijt mat nu alle beide,</l>
+<l>Ende vanden spele es mijn die ere."</l>
+<l>Doe logense allegadre sere.</l>
+<l>Doe riep hi datmen brachte den wijn,</l>
+<l n="1890">Dies si te blider souden sijn.</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

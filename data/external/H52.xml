@@ -1,0 +1,554 @@
+<?xml version='1.0'?>
+<TEI>
+    <teiHeader type="single_redaction_of_a_text">
+        <fileDesc>
+            <titleStmt>
+                <title>The Middle Dutch Roman van Limborch, an electronic TEI-conformant edition</title>
+                <author>unknown</author>
+                <funder>FWO-Flanders</funder>
+                <respStmt>
+                    <name>Mike Kestemont</name>
+                    <resp>Conversion to TEI-conformant markup</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <authority>Mike Kestemont</authority>
+                <pubPlace>Antwerpen</pubPlace>
+                <address>
+                    <addrLine>Instituut voor de Studie van de Letterkunde in de Nederlanden</addrLine>
+                    <addrLine>Universiteit Antwerpen</addrLine>
+                    <addrLine>Stadscampus</addrLine>
+                    <addrLine>Prinsstraat 13,  kamer D. 118</addrLine>
+                    <addrLine>2000 Antwerpen</addrLine>
+                    <addrLine>email: mike.kestemont@ua.ac.be</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Closed-source edition (for educational and research purposes only). Copyright
+                        of the source editions (if any) lies with their original publisher and/or
+                        authors.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <editor>De Wachter L., Schlusemann R., Sleiderink R. and Van Craenenbroeck J.</editor>
+                        <title>Fragmenten van de Roman van Heinric en Margriete van Limborch</title>
+                        <imprint>
+                            <pubPlace>Leuven</pubPlace>
+                            <date>2001</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Leiden</settlement>
+                        <repository>Bibliotheek der Rijksuniversiteit</repository>
+                        <idno>B.P.L. 3086</idno>
+                        <msName>H52</msName>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <segmentation>
+                    <p>Een div-element werd ingevoegd per fragment.</p>
+                </segmentation>
+                <normalization>
+                    <p>Diplomatic.</p>
+                    <p>De opgenomen nummering (met aanduiding van boek en versregel) is de doorlopende naar de editie-Van Den Berch.</p>
+                    <p>Marginale representanten zijn niet overgenomen.</p>
+                    <p>Lombarden, paragraaftegens of de typografische markering daarvan werd niet overgenomen.</p>
+                    <p>De contemoporaine interpunctie werd verwijderd.</p>
+                    <p>Het gebruik van liggende streepjes werd omgezet naar damage- en gap-elementen (wanneer het tekstverlies niet precies kon gespecifieerd worden).</p>
+                </normalization>
+            </editorialDecl>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+    <body>
+<div type="fragment">
+<l n="IV-207"><scribe id="D"/>Ende las dat daer stoet </l>
+<l> Ende doe sijs wel was vroet </l>
+<l> Seide si te hare seluen doe </l>
+<l> Ende wat salic vaen toe </l>
+<l n="IV-211"> Die vrouwe heft mi vele mesdaen </l>
+<l> Doch benic bi hare hier ontfaen </l>
+<l> Daer men mi vele eren doet </l>
+<l> Al haddic al mijns vader goet </l>
+<l> Men mochte mi niet doen meer eren </l>
+<l n="IV-216"> Ende die mesuart sjoncheren  </l>
+<l> Die dert mi bouen altemale </l>
+<l> Want goets soe annic hem wale </l>
+<l> Dies heft hi iegen mi verdient </l>
+<l> Dat ic ben sijn getrouwe vrient </l>
+<l n="IV-221"> Ten cnape seide die wel gedane  </l>
+<l> Mijn vrouwe die mi suect ane </l>
+<l> Te ontbiedene haren sone vri </l>
+<l> En heues niet iegen mi </l>
+<l> Verdient dat mach elc kinnen wel </l>
+<l n="IV-226"> Doch en willic hare niet te fel  </l>
+<l> Wesen jn wilt gerne ane gaen </l>
+<l> Ene lettere scref si saen </l>
+<l> Ende ontboet den jonchere </l>
+<l> Echites dien si groete sere </l>
+<l n="IV-231"> Ende bat hem dat hi quame te hare  </l>
+<l> Want hare wonderde oppenbare </l>
+<l> Waer bi dat hi hadde gelaten </l>
+<l> Doe voer die bode sire straten </l>
+<l> Ende nam orlof ane die magt </l>
+<l n="IV-236"> Die bode voer wech onuersagt  </l>
+<l> Weder tsire vrouwen wart </l>
+<l> Diere hi dede verstaen ter vart </l>
+<l> Dat wel ware vergaen sine dinc </l>
+<l> Ende dattene magt wel ontfinc </l>
+<l n="IV-241"> Die vrouwe die des was herde blide  </l>
+<l> Hiet den cnape ten seluen tide </l>
+<l> Dat te Echites ginge </l>
+<l> Ende gaue hem den brief sonderlinge </l>
+<l> Die bode dede der vrouwen heet </l>
+<l n="IV-246"> Ende geet daer echites steet  </l>
+<l> Sere erre ende ongier </l>
+<l n="IV-248"> En hadde sijns vader coc int fier </l>
+<l>  sprekt goeden staden	</l>
+<l>  selt mi secgen sal v raden </l>
+<l n="IV-333"> Dies ic vroeder dan gi </l>
+<l> Ende gi selt weder raden mi </l>
+<l> Soe dat wi goede gevriende bliuen </l>
+<l> In wille v al niet verdriuen </l>
+<l> Ies auonts was wel ontfaen </l>
+<l n="IV-338"> Echites ende grote ere gedaen  </l>
+<l> Ende sat ende at bider joncfrouwen </l>
+<l> Die beginsle was sijns rouwen </l>
+<l> Ende ensle wel mach wesen </l>
+<l> Hi diende hare alse wi lesen </l>
+<l n="IV-343"> Houeschelike soe hi best conste  </l>
+<l> Want hijs hare van herten onste </l>
+<l> Die cnape die bider magt sat </l>
+<l> Ende goet dranc ochte at </l>
+<l> Seide Ioncfrouwe dore god genade </l>
+<l n="IV-348"> Al heft v bi quaden rade  </l>
+<l> Mijn vrouwe mijn moeder verwracht </l>
+<l> Ic hebbe mi gepijnt met al mire macht </l>
+<l> Dat te beterne waric conde </l>
+<l> Ay ochtes god mi onde </l>
+<l n="IV-353"> Dat ic bi trouwen verworue  </l>
+<l> Ve minne eer ic storue </l>
+<l> Ic souts te blideliker leuen </l>
+<l> Mine weluart mogedi mi geuen </l>
+<l> Ende anders niemen dan gi </l>
+<l n="IV-358"> Ende wildi oec gi mogt mi  </l>
+<l> Bringen weder in aldien </l>
+<l> Dies men mi sach tote noch plien </l>
+<l> Nv ontfarmt v mijns dore genade </l>
+<l> Noch hopic en eist niet te spade </l>
+<l n="IV-363"> Nv troest mi scone want ane v steet  </l>
+<l> Mijn weluaren ende mijn leet </l>
+<l> MArgrite die wel heft verstaen </l>
+<l> Hoet met Echites es vergaen </l>
+<l> Ende hoe hi noch ter dogt wart soude </l>
+<l n="IV-368"> Hem bereiden op dat si woude  </l>
+<l> Hare ontfarmes wel sere </l>
+<l n="IV-370"> Ende peinsde tuaren dese Ionchere  </l>
+<l> Soe en sagedi nie creature </l>
+<l> Hebben soe ouer scone figure </l>
+<l n="IV-1649"> Dorstict wel secgen oppenbare  </l>
+<l> Dat ic sijn moeder niet en ware </l>
+<l> Die ridder antwerde te dier talen </l>
+<l> Gode vrouwe doet dan halen </l>
+<l> Die grauinne seide dat si </l>
+<l n="IV-1654"> Echites seide nv segt mi  </l>
+<l> Doe die vader vader van hier sciet </l>
+<l> Waerwart hi voer vernaemdijs iet </l>
+<l> Nenic anders niet here </l>
+<l> Dan hi seide mi dat hi sere </l>
+<l n="IV-1659"> Tongemake ware dore dat hi  </l>
+<l> Sire suster ene magt vri </l>
+<l> Hadde verloren ende hadde vernomen </l>
+<l> Dat si ware in grieken comen </l>
+<l> In die stat van athenen </l>
+<l> Darwart voer hise soeken henen </l>
+<l> In weter meer af te secgene niet </l>
+<l> Mettien hi hare bringen hiet </l>
+<l> Hare kint datmen dede saen </l>
+<l> Doe weende die vrouwe menegen traen </l>
+<l n="IV-1669"> Tierst dat sijt sach ane  </l>
+<l> Europa die wel gedane </l>
+<l> Seide doe ontfarmelike </l>
+<l> O god here van hemelrike </l>
+<l> Dat dese cleine creature </l>
+<l n="IV-1674"> Die heft ene soe scone figure  </l>
+<l> Moet jammerlec verdoruen sijn </l>
+<l> Doe anesagt die ridder fijn  </l>
+<l> Ernstelec soe hi meest mach </l>
+<l> Ende dochte hem dat hi ane sach </l>
+<l n="IV-1679"> Margriten sire lieuer vrindinnen  </l>
+<l> Doe wart hi in allen sinnen </l>
+<l> Soe verbliet dat hi seide </l>
+<l> Vrouwe laet staen ve jammerheide </l>
+<l> Dat kinne god eer ic liete </l>
+<l n="IV-1684"> Dit kint vallen in mesniete  </l>
+<l> Ic streder ombe in campe eer </l>
+<l> Iegen hen seuenen ochte meer  </l>
+<l> Want bi gode onsen here </l>
+<l> Tkints mage minnic sere </l>
+<l> Tkint droechmen wech tien tide </l>
+<l> Ende die vrouwe warts herde blide  </l>
+<l> Mijn her Echites seide vrouwe vri  </l>
+<l> Hoe selewijt doen dat segt mi  </l>
+<l> Here ic mach v secgen dat </l>
+<l n="IV-1694"> Margen alsement vter stat </l>
+<l> Dragt daerment doden sal </l>
+<l> Soe salder met tfolc lopen al </l>
+<l> Ende mijn here salder bi riden </l>
+<l> Gewapent in allen siden </l>
+<l n="IV-1699"> Ende dan siter gereet bi </l>
+<l> Ende ic sal bewesten mi </l>
+<l> Met minen magen ende minen lieden </l>
+<l> Wildu iemen els mesbieden </l>
+<l> Dat si v selen tstaden staen </l>
+<l n="IV-1704"> Nv vart ter herbergen ets best gedaen </l>
+<l> Dat mijn man niet en verneme </l>
+<l> Hi souts sere belgen heme </l>
+<l> Doe voer die ridder ter herbergen wart </l>
+<l> Tote smargens alse die dach verclart </l>
+<l n="IV-1709"> Sliep hi doe stont op ter vart  </l>
+<l> Ende wapende hem ongespart </l>
+<l> Ende reet in een boschelkijn </l>
+<l> Daer hem geseit was dart bi sijn </l>
+<l> Soude dat si comen souden </l>
+<l n="IV-1714"> Daer woude hi tote tien houden  </l>
+<l> Dat si quamen metten kinde </l>
+<l> Dien men doen soude sijn inde </l>
+<l> SCone ontspranc die dach ende claer </l>
+<l> De graue dede verbieden daer </l>
+<l n="IV-1719"> Dat niemen en quame cleine no groet  </l>
+<l> Mede dan die hi ontboet </l>
+<l> Doe nam hi tkint der moeder sijn </l>
+<l> In een gulden bandekijn </l>
+<l> Dede hijt dragen tsire doet wert </l>
+<l n="IV-1724"> Die moeder die hare sere veruert  </l>
+<l> Viel in ommacht seuen warf </l>
+<l> Et was wonder dat si niet en starf </l>
+<l> Van groten bitterliken rouwe </l>
+<l> O wach arme riep die vrouwe </l>
+<l n="IV-1729"> Dat mine arme cleine poppe  </l>
+<l> Moet steruen talder werelt scoppe </l>
+<l> Groete here sente ambrosijs </l>
+<l> Ic sal v geuen gelouedijs </l>
+<l> Een kint van seluere soe groet </l>
+<l n="IV-1734"> Loset mijn kint van der doet  </l>
+<l> Al dat lant gemeenlike </l>
+<l> Weende soe ontfarmelike </l>
+<l> Dats een steen mochte ontfarmen </l>
+<l> Die graue die op hare carmen </l>
+<l n="IV-1739"> Cleine achte reet ter uart  </l>
+<l> Metten sinen vdewart </l>
+<l> Ende alsi quam opder heiden </l>
+<l> Biden bosche dede hi bereiden </l>
+<l> Een groet vier van drogen houte </l>
+<l n="IV-1744"> Hi woude dat herde saen versmoute  </l>
+<l> Sine gesellen die met hem waren </l>
+<l> Comen hoerdemen mesbaren </l>
+<l> Nochtan en ontfarmets hem niet </l>
+<l> Wat rouwen hi daer siet </l>
+<l n="IV-1749"> Maer seide ic sal den bastart  </l>
+<l> Nv doen varen hinderwart </l>
+<l> An athenen die vrome degen </l>
+<l> Doe hine sach quam hi geslegen </l>
+<l> Vten woude gruelike </l>
+<l n="IV-1754"> Ende riep lude her graue rike  </l>
+<l> Hout ic calengiere dat kint </l>
+<l> Ic hebbe hem ende sine mage gemint </l>
+<l> Hoet v hier iegen mi </l>
+<l> Die graue seide wat meendi </l>
+<l n="IV-1759"> Eist v in ernste ochte in scerne  </l>
+<l> Wedert es ic hoede mi gerne </l>
+<l> Echites iaet en trouwen </l>
+<l> Ic sal v leuen doen met rouwen </l>
+<l> Ochte steruen in dien wille </l>
+<l n="IV-1764"> Die graue seide beitd stille  </l>
+<l> Gi en wet niet goetman wat gi iagt </l>
+<l> Waendi dat ic ben versagt </l>
+<l> Nenic niet geloues mi </l>
+<l> Doe rechte sijn spere die ridder vri </l>
+<l n="IV-1769"> Op Echites quam hi gevaren  </l>
+<l> Daer menech toe sach te waren </l>
+<l> Reet ontue sijn spere </l>
+<l> Echites die meeren gere </l>
+<l> Dies grauen hadde geraectene weder </l>
+<l n="IV-1774"> Op den scilt dat hi ter neder  </l>
+<l> Viel al metten orse op derde </l>
+<l> Echites vinc doe ten suerde </l>
+<l> Alse hem die graue op rechten soude </l>
+<l> Ende slochene alsoe houde </l>
+<l n="IV-1779"> Op thoet dat hi rumede beide  </l>
+<l> Stegerepe ende gereide </l>
+<l> Ende viel op derde plat </l>
+<l> Sine vriende die sagen dat </l>
+<l> Voeren Echites alle toe </l>
+<l n="IV-1784"> Al was Echites in anxte doe  </l>
+<l> Dat es wonder herde clene </l>
+<l> Doch en ontmoette hi en gene </l>
+<l> Sire weder saken in dien gedringe </l>
+<l> Hi en slochen menninge </l>
+<l n="IV-1789"> Soe diep int hoet datter in loec  </l>
+<l> Die graue hi stoet op oec </l>
+<l> Ende gaf Echites enen slach </l>
+<l> Dat hi op tpert in ommacht lach </l>
+<l> Daer ware hi doe bleuen doet </l>
+<l n="IV-1794"> Maer dattene droech vter noet  </l>
+<l> Ferrant dat wel dragende part </l>
+<l> Soe lange dat hi becomen wart </l>
+<l> Ende doe ridder was becomen </l>
+<l> Ende hi hem heft vernomen </l>
+<l n="IV-1799"> Soe verre vten stride gedragen  </l>
+<l> Begonste hi herde sere clagen </l>
+<l> Ende seide god gewerdech here </l>
+<l> Hoe benic gonneert dos sere </l>
+<l> Mettien slochi weder in </l>
+<l n="IV-1804"> Drouende sere in sinen sin  </l>
+<l> Dat hi ontfloen was soe verre </l>
+<l n="IV-1806"> Den graue ontmoetti soe erre  </l>
+                </div><div type="fragment">
+<l n="V-186"> Daer hi goede herberge vant </l>
+<l> Ende daer men hem dede verstaen </l>
+<l n="V-188"> Dat Echites ware gevaen </l>
+<l> Van dags daer te voren </l>
+<l> Dies die Coninc hadde toren </l>
+<l> Ende hilde altenen gewapent vore stat </l>
+<l> Nochtan en sloten si niet om dat </l>
+<l n="V-193"> Hare porte en twint niet  </l>
+<l> Wat here men den Coninc hebben siet </l>
+<l> Alse dat Euax dat vernam </l>
+<l> Wart hi vtermaten gram </l>
+<l> Ende suoer bider goeder sente sophien </l>
+<l n="V-198"> Hi sal Echites van ermenien  </l>
+<l> Weder hebben ochte steruen </l>
+<l> Dos en machijs niet deruen </l>
+<l> Sanderdags doe hi den dach </l>
+<l> Scone verbaren sach </l>
+<l n="V-203"> Stont op Euax die scone  </l>
+<l> Ende beual hem gode van den trone </l>
+<l> Ende reet tote int here </l>
+<l> Dat altenen hilt wijchgere </l>
+<l> Maer en dorste ter porten niet riden </l>
+<l n="V-208"> Euax sach tien tiden  </l>
+<l> Die porten al open staen </l>
+<l> Ende menegen man wel gedaen </l>
+<l> Binnen in die porten houden </l>
+<l> Die hen sere weren souden </l>
+<l n="V-213"> Waert datmense bestoede  </l>
+<l> Ende Euax die goede </l>
+<l> Reet dore geen here te porten wert </l>
+<l> Alse een die herde sere begert </l>
+<l> Te stridene op die van binnen </l>
+<l n="V-218"> God latere hem noch af gewinnen  </l>
+<l> Gelucken pris ende ere </l>
+<l> Want hi auenturet sere </l>
+<l> Hi ginc enen suaren strijt beginnen </l>
+<l> Maer sere werden hen die van binnen </l>
+<l n="V-223"> Ende Euax vacht vromelike  </l>
+<l> Soe dattie Coninc van vranckerike </l>
+<l> <gap/> jorijs ware </l>
+<l> Ochte sente mauritius oppenbare </l>
+<l n="V-228"> Want hi en kennes sridders niet </l>
+<l> Dant dwonder dat hi hem werken siet </l>
+<l n="V-229"> Mettien hem te hulpen quamen </l>
+<l> Die ridderen van buten diet vernamen </l>
+<l> Ende daer toe menech borioes </l>
+<l> Die graue van vermendoes </l>
+<l n="V-233"> Die her herbrecht hiet  </l>
+<l> Hem tornet sere dat hi niet </l>
+<l> Die franfoise en mach achter doen </l>
+<l> Hi was broeder sgrauen van sessoen </l>
+<l> Ende voer op euaxe slaen </l>
+<l n="V-238"> Diene ontfinc herde saen  </l>
+<l> Vtermaten blidelike </l>
+<l> Want hi dochte hem voerbaer ende rike </l>
+<l> Ende peinsde mochti desen gevaen </l>
+<l> Echites soude wel ontgaen </l>
+<l n="V-243"> Dies reet hi hem suarlec toe  </l>
+<l> Die fransoise dreuen doe </l>
+<l> Binnen muers die van binnen </l>
+<l> Datmense qualec mochte winnen </l>
+<l> Die graue van vermendois was erre </l>
+<l n="V-248"> Dat hi ter porten worden was soe verre  </l>
+<l> Ende waender wel in vlien </l>
+<l> Maer Euax ontmoetene weder dien </l>
+<l> Ende gegrepene in den breidel doe </l>
+<l> Fransoise quamendere toe </l>
+<l n="V-253"> Diene hem hulpen vaste houden  </l>
+<l> Bi euaxe soe verbouden </l>
+<l> Alle die fransoise ende weder </l>
+<l> Die porten werpen al ter neder </l>
+<l> Maer datmense te vaste sloet </l>
+<l n="V-258"> Nv was buten bliscap groet  </l>
+<l> Van haren wel vergaende stride </l>
+<l> Ende binnen droue banderside </l>
+<l> Miin her Euax die ridder cone </l>
+<l> Was int here met sinen garsoene </l>
+<l n="V-263"> Ende met hem die geuangene graue  </l>
+<l> Hi en wiste waer beiten aue </l>
+<l> Noch waer sine perde doen </l>
+<l> Hi en hadde no loge no pawelioen </l>
+<l> Maer die Coninc dedene halen </l>
+<l n="V-268"> Ende groettene met houescher talen  </l>
+<l> Doe voer hi ten Coninc recht </l>
+<l> Hi entie graue herbrecht </l>
+<l> Ende tierst dat die coninc vernam </l>
+<l> Dat die vremde ridder quam </l>
+<l n="V-273"> Ontfinchine herde blidelike  </l>
+<l> Ende oec den graue rike </l>
+<l> Doe dedemen ginder die taflen maken </l>
+<l> Daer was gedient van allen saken </l>
+<l> Gnoch ende te pointe wale </l>
+<l n="V-278"> Ouer Etene seide dese tale  </l>
+<l> Euax die biden Coninc sat </l>
+<l> Soe dede sgrauen broeder vander stat </l>
+<l> Dat was Euaxe teren gedaen </l>
+<l> Here seithi woutdi anegaen </l>
+<l n="V-283"> Minen raet Ic wane wale  </l>
+<l> Dat ons goet ware altemale </l>
+<l> Die van der stat hebben geuaen </l>
+<l> Enen ridder wel gedaen </l>
+<l> Ende es sgrauen sone van athenen </l>
+<l n="V-288"> Ende van daer comic oec henen  </l>
+<l> Woudi ons here wisselen laten </l>
+<l> Den graue om hem merre baten </l>
+<l> Soude wire wanic hebben aue </l>
+<l> Dan wille wi hebben van den graue </l>
+<l n="V-293"> Want hi es vtermaten vrome  </l>
+<l> Ende hem eist dat ic soeken come </l>
+<l> Die Coninc seide bi gode here </l>
+<l> Dat begert herde sere </l>
+<l> Dat wi den ridder mochten vercrigen </l>
+<l n="V-298"> Want hi can striden ende wigen  </l>
+<l> Gelijc enen ridder cone </l>
+<l> Hi es van soe vromen done </l>
+<l> Doe senden si enen in die stat </l>
+<l> Die den graue seide dat </l>
+<l n="V-303"> Ochte hi woude weder geuen  </l>
+<l> Den ridder diere geuaen es bleuen </l>
+<l> Si selen hem den graue weder senden </l>
+<l> Men soude cume enegen blideren venden </l>
+<l> Dan die graue van  was </l>
+<l n="V-308"> Ende sende wech alsict las  </l>
+<l> Echites in sconincs here </l>
+<l> Euax die hadde groeten gere </l>
+<l> Te sprekene sinen jonchere </l>
+<l> Liep vtermaten sere </l>
+<l n="V-313"> Iegen Echites daer hine vant  </l>
+<l> Ende doene sach die ridder vailant </l>
+<l> Hiet hine groet willecome wesen </l>
+<l> Ende die niemare quam binnen desen </l>
+<l> Dat euax die scone hadde verslagen </l>
+<l n="V-318"> Die roueren die om stampes lagen  </l>
+<l> Ende daer ware peis tien tide </l>
+<l> Dies was die Coninc herde blide </l>
+<l> Soe was die stoute Echites mede </l>
+<l> Ende die Coninc hi dede </l>
+<l n="V-323"> Den graue her herbrechte met eren  </l>
+<l> In die stat weder keren </l>
+<l> Dijse binnen blide waren </l>
+<l> Buten en was oec moderbaren </l>
+<l> Sine prisden sere den vremden here </l>
+<l n="V-328"> Ende men dede hem groete ere  </l>
+<l> Dos blefhi liggende daer </l>
+<l> Vore sessoen dats waer </l>
+<l> Luttel meer dan tue dage </l>
+<l> Euax diet nam in ouerdrage </l>
+<l n="V-333"> Seide here wi liggen hier  </l>
+<l> Ledech ende menech ridder fier </l>
+<l> Dat wi wel beteren mochten </l>
+<l> Waer dat sake dat wise sochten </l>
+<l> Echtes seide hoe mochte dat sijn </l>
+<l n="V-338"> Si en hebben porten no portekijn  </l>
+<l> Si en steet besloten vaste </l>
+<l> Ende duchten hen cleine van ouerlaste </l>
+<l> Al wattan lieue here </l>
+<l> Wi solense hem ontsien doen sere </l>
+<l n="V-343"> Neme wi spec ende smout  </l>
+<l> Stroe ende droge hout </l>
+<l n="V-663"> Ic hope si hare wel houden sal </l>
+<l> Dat v god geue den wille al </l>
+<l> Dat gi weder comt te lande </l>
+<l n="V-666"> Doet hare ere menegerhande </l>
+<l> Ende hulpt hare dat si hier come  </l>
+<l> Doe antwerde die ridder vrome </l>
+<l> Bi gode vrouwe gi en dorues mi </l>
+<l> Niet bidden sagic die magt vri </l>
+<l n="V-671"> Ic soude hare doen alse gerne ere </l>
+<l> Alse gi ochte die hertoghe mijn here </l>
+<l> Mettien weende die vrouwe sere </l>
+<l> Doe seide Euax toten here </l>
+<l> Ten hertoghe wat heft messeit </l>
+<l n="V-676"> Mijn here dat mijn vrouwe screit  </l>
+<l> Die hertoghe seide in weet wat si </l>
+<l> Ochte si iet spreken si ende hi </l>
+<l> Om onser dochter die wi verloren </l>
+<l> Wie es die ridder wel geboren </l>
+<l n="V-681"> Euax seide here wildijt weten  </l>
+<l> Echites es hi geheten </l>
+<l> Ende es sgrauen sone van athenen </l>
+<l> Ve dochter es daer wart henen </l>
+<l> Horde wi in onse herberge gewagen </l>
+<l n="V-686"> Ents niet en jaer dat wise sagen  </l>
+<l> Te constantenople int stat </l>
+<l> Daer wart ridder ic secge v dat </l>
+<l> Mijn here ende ic beide te samen </l>
+<l> Tkeisers dochter ende si diet vernamen </l>
+<l n="V-691"> Gauen ons onse parruren dire  </l>
+<l> Ve dochter die magt fire </l>
+<l> Woende met mijns heren vader </l>
+<l> Ende met sire moeder darse algader </l>
+<l> Dlant minde ende hadde lief </l>
+<l n="V-696"> Si was soe wetende dat gerief  </l>
+<l> Wel mijns heren skeisers was </l>
+<l> Ende namse miner vrouwen geloeft mi das </l>
+<l> Ende doetse met sire dochter sijn </l>
+<l> Nv woent daer die magt v fijn </l>
+<l n="V-701"> Ende doe wi ridderen worden gemaect  </l>
+<l> Gaf die magt wel geraect	</l>
+<l n="V-783"> Mijn her Echites peinsde doe </l>
+<l> Groete macht hoeret desen lieden toe </l>
+<l> Ende seide den hertoghe hi soude hare </l>
+<l n="V-786"> Dienen soe waer soec ware  </l>
+<l> Ende hi nam orlof metterre talen </l>
+<l> Ane alle die waren in der zalen </l>
+<l> Ende ane die hertoginne </l>
+<l> Diene met goeden sinne </l>
+<l n="V-791"> Te gode beual ende euaxe mede  </l>
+<l> Doe gingen si en wech ter stede </l>
+<l> Ende bereiden hare vart </l>
+<l> Weder te vranckerike wart </l>
+<l> Ende die hertoge ende die hertoginne </l>
+<l n="V-796"> Bleuen een verstroest van sinne  </l>
+<l> Ende Echites banderside </l>
+<l> Was vtermaten blide </l>
+<l> Ende vragede euaxse hoe hem bagt </l>
+<l> Dat der joncfrouwen besteit tgeslachte der magt </l>
+<l n="V-801"> Ende war si bleuen in den lande  </l>
+<l> Se hadde gehadt dan in hande </l>
+<l> Vranckerike ende ware coninginne </l>
+<l> Wat magic dat icse minne </l>
+<l> Si es werdeger dan mijn wijf te sine </l>
+<l n="V-806"> God moete hare verren alle pine  </l>
+<l> Euax seide dats waer </l>
+<l> Hadde wi dit wel geweten daer </l>
+<l> Dat wi nv hebben vernomen </l>
+<l> Gi waret nv tenen ende comen </l>
+<l n="V-811"> Iiin her Echites ende sijn geselle  </l>
+<l> Dar ic dogt aue telle </l>
+<l> Quamen weder te louwen gereden </l>
+<l> Daerse ontfinc met blijtheden </l>
+<l> Die Coninc ende sijn gesinde </l>
+<l n="V-816"> Datse al met goeder herten minde  </l>
+<l> Daer waren si enen langen tijd </l>
+<l> Ende hadden groten delijd </l>
+<l> In tornoye ende tauelronden </l>
+<l> Dat die liede niet en conden </l>
+<l n="V-821"> Volprise die daet die euax dede  </l>
+<l> Ende Echites was emmer mede </l>
+                </div>
+</body></text></TEI>

@@ -1,0 +1,121 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i145"><teiHeader><fileDesc><titleStmt><title>Frenesie</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Frenesie</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="D57">'s-Gravenhage, Koninklijke Bibliotheek, Bruikleen Koninklijke Akademie van Wetenschappen, XXIV</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>94 verzen</OMVANG>
+<BRON.OPM>De codex bevat in totaal 77 folia en per bladzijde 2 kolommen van 53 regels. De tekst bevindt zich op fol. 77v. In de codex komen naast de Frenesie nog de Rose (fol. 1-68v) en de Roman van Cassamus (verkorte versie) (fol. 68v-77v) voor. Doordat het laatste blad uit het handschrift is gescheurd, is de Frenesie niet volledig overgeleverd.</BRON.OPM>
+<EDITIE>C. Kruyskamp (ed.): De Middelnederlandse boerden. 's-Gravenhage 1957, p. 96-99.</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>101.9 (andere editie)</BRONMNW>
+<BRONNEN>'s-Gravenhage, Koninklijke Bibliotheek, Bruikleen Koninklijke Akademie van Wetenschappen, XXIV</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><edition n="96"/><scribe id="A"/>XVI</l>
+<head type="title">DIT ES DE FRENESIE</head>
+<l><milestone unit="fol" n="77va"/> Het dich[t] al dat lepel lect:</l>
+<l>waendi dat ic bem vergect,</l>
+<l>dat ic oec niet dichte ende make,</l>
+<l>des nacht als ic niet en vake?</l>
+<l n="5">menichgen, als hi slaept,</l>
+<l>sijn ers herde wide gaept</l>
+<l>ende blaest als ene bosine.</l>
+<l>Ay ute vercorne fine!</l>
+<l>des es leden menichgen dach,</l>
+<l n="10">dat mi v minne int herte lach,</l>
+<l>ende gine wilt mijns niet ontfarmen.</l>
+<l>Dicken hebbedi doen verwarmen</l>
+<l>mijn herte ende gemaect cout;</l>
+<l>om v bem ic worden out</l>
+<l n="15">ende graeu als ene catte,</l>
+<l>ende gine achtes dit no datte.</l>
+<l>ocht v minne mi steruen daede,</l>
+<l>wie soude mi betren die scaede?</l>
+<l>Lachtijs, maecti v sceren,</l>
+<l n="20">So willics mi af keren,</l>
+<l>want hine dult algader niet</l>
+<l>die te haluen wege weder tiet;</l>
+<l>anders waric in dole.</l>
+<l>Nv liggic te parijs ter scole</l>
+<l n="25">ende bem daer een studant.</l>
+<l><edition n="97"/>Selden coemt mi boec in die hant,</l>
+<l>maer ic lere ontginnen pasteiden;</l>
+<l>bem ic dan ter quader weiden,</l>
+<l>es een quaet dorp dan parijs?</l>
+<l n="30">ic wedde sinc contre sijs,</l>
+<l>nochtan eysch ic toe twee aes:</l>
+<l>die seide dat ic ware .i. dwaes,</l>
+<l>hine ware mi niet willecome.</l>
+<l>Alsic dan weder thus come,</l>
+<l n="35">so bem ic meester vander arten</l>
+<l>ende wille eten vleesch ende tarten</l>
+<l>ende hebbe gewonden den croec.</l>
+<l>Ic soude node stoeten een loec,</l>
+<l>maer ic songe wel een montet.</l>
+<l n="40">Int leste hebbic an een net</l>
+<l>ende bem een everardijn.</l>
+<l><milestone unit="fol" n="77vb"/> Ic dronke gerne goeden wijn,</l>
+<l>maer ic en weet waermet copen,</l>
+<l>dus moet ic achter lande lopen</l>
+<l n="45">te minen moyen, te minen maegen,</l>
+<l>die mijn ongheual luttel claegen.</l>
+<l>so hebbic die prouende met ghewelde</l>
+<l>tusscen couden berge ende biestervelde;</l>
+<l>so coemt een ander ende wilse mi nemen:</l>
+<l n="50">gaet ten biscop van bremen,</l>
+<l><edition n="98"/>hi sal v te rechte houden.</l>
+<l>Soe leecht ment in de vouden</l>
+<l>dat ic en behoude niet.</l>
+<l>Dus es den menichgen gesciet</l>
+<l n="55">die sonder recht tsine verloes,</l>
+<l>want dat paepscap es al loes.</l>
+<l>Ende constu spreken geen latijn?</l>
+<l>Ay here, een florijn</l>
+<l>es daer beter, geloeft mi des,</l>
+<l n="60">dan een sac vol latijns es;</l>
+<l>dit coemt al bi symonien.</l>
+<l>Nv willic scone vrouwen vrien</l>
+<l>ende moet gelt costen mede</l>
+<l>al [...]</l>
+<l n="65">mi bliv[...]</l>
+<l>die duuel soude mi bet hebben</l>
+<l>want ic bem al sonder goet</l>
+<l>ende ligge onder voet</l>
+<l>Ki bien fra bien ara.</l>
+<l n="70">Waendi dat ic niet en versta?</l>
+<l>Hets walsch dat gi spreect.</l>
+<l>Gi hebt mi vten slape gewect,</l>
+<l>wel leede moete v gescien!</l>
+<l>Ic hebbe in minen drome gesien</l>
+<l n="75">een calf singen messe</l>
+<l>en kende lettren niet sesse,</l>
+<l>ende het wert cardinael te rome</l>
+<l>ende was den paeus willecome,</l>
+<l>want het was sire suster kint -</l>
+<l n="80">dus es die werelt nv gescint -</l>
+<l>het vercochte om gelt pardoen</l>
+<l>Ic sach een kint kerstin doen</l>
+<l>van enen pape in kempin lande,</l>
+<l><edition n="99"/>ende onder des papen hande</l>
+<l n="85">so wort dat kint een geet.</l>
+<l>hine gauer niet omme enen dreet</l>
+<l>dattie dinc bet vore.</l>
+<l>Wat wijt mi dese hoere?</l>
+<l>Si clapt mi mijn hoeft ontwee!</l>
+<l n="90">deus, mi es herde wee!</l>
+<l>ende legt mi ouer dander side.</l>
+<l>Mi dunct altenen dat ic ride</l>
+<l>alse nv langes, alse nv dwers,</l>
+<l>op eens graeus moencs ers.</l>
+<l>[...]</l>
+<l>[...]</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

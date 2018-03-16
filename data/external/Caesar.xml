@@ -1,0 +1,1462 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i57"><teiHeader><fileDesc><titleStmt><title>Roman van Caesar</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Roman van Caesar</TITEL>
+<author>Onbekend</author>
+<AARD>Rijm</AARD>
+<BRON nr="K15">Brussel, Koninklijke Bibliotheek, 19613 (fragm.)</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>1004 verzen</OMVANG>
+<BRON.OPM>Zes bladen; bovenaan en aan de buitenkant met tekstverlies besnoeid; ook verder in slechte staat verkerend, en met reagentia bewerkt. Het thans drie kolommen tellende fragment A5 had oorspronkelijk waarschijnlijk drie kolommen per bladzijde. Of de overige fragmenten oorspronkelijk drie of vier kolommen per bladzijde hebben geteld, is moeilijk vast te stellen. Per kolom zijn er nog 38-42 regels.</BRON.OPM>
+<VERWIJZING>Gent, Bibliotheek der Rijksuniversiteit, 1643 (fragm.)</VERWIJZING>
+<EDITIE>W.E. Hegman: 'De fragmenten van een zogen. "Roman van Caesar", zijnde een Mnl. berijmde Romeinse geschiedenis'. In: SpL 18 (1976), 81-131 (90-128).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<EDITIE.OPM>In de editie Hegman zijn alle acht fragmenten van de tekst uitgegeven, en wel in de juiste volgorde, waarbij de Brusselse en Gentse fragmenten elkaar afwisselen. Hier is de rangschikking van de fragmenten volgens de editie aangehouden; ten gevolge hiervan worden zowel de Brusselse als de Gentse fragmenten weergegeven. Hegman heeft de bladen gefolieerd met Romeinse cijfers, die hij ontleend heeft aan aan een editie van de tekst van J.F. Willems uit 1836. Hier echter zijn de fragmenten genummerd met arabische cijfers, overeenkomstig de plaats in de huidige banden. Daarbij worden de folionummers van de Brusselse en Gentse fragmenten voorafgegaan door respectievelijk een A en een B. Volgorde van de fragmenten: B1, A6, A5, B2, A2, A4, A3, A1 (= Hegman VII, VIII, VI, V, IV, II, I, III). De verzen zijn net als in de editie Hegman doorlopend genummerd: in totaal 1412 verzen, omvangrijke onleesbare stukken niet meegeteld. Ten slotte dient te worden opgemerkt dat Biemans de mogelijkheid niet uitsluit dat de teruggevonden fragmenten tot twee verschillende codices behoord hebben (zie J.A.A.M. Biemans: 'Cesar im Mittelalter. [...] Mittelniederl&auml;ndische Literatur'. In: Lexikon des Mittelalters II. M&uuml;nchen [etc.], 1983, kol. 1356).</EDITIE.OPM>
+<BRONNEN>Van &eacute;&eacute;n handschrift zijn er fragmenten overgeleverd:  - <x nr=K15>Brussel, Koninklijke Bibliotheek, 19613 (fragm.)</x>
+ - <x nr=K16>Gent, Bibliotheek der Rijksuniversiteit, 1643 (fragm.)</x>
+</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="90"/><milestone unit="fol" n="B1va"/>Die dede pompeius die vader dijn</l>
+<l><scribe id="X"/>Ane crachten der jonfrouwen mijn</l>
+<l>Jvlius die met machte</l>
+<l>Pompeius v vader vercrachte</l>
+<l n="5"><pb n="92"/> Dat hi heuet swaer ontgouden</l>
+<l>Want hiere om leget in der mouden</l>
+<l>Dies vraget hi oft gi begert</l>
+<l>Nv te comene te hem wert</l>
+<l>Ende wert sijn man en[de] maket soene</l>
+<l n="10">V sal ontfaen die here coene</l>
+<l>Ende laten v lijf ende lant</l>
+<l>Ende doen v engenen pant</l>
+<l>Maer al lieue doen en[de] ere.</l>
+<l>Dit ontbiet v mijn here</l>
+<l n="15">Es dat sake dat gi niet</l>
+<l>En wilt horen na dit gebiet</l>
+<l>Soe verstaet en[de] hort na mi</l>
+<l>Wat v ontbiet die keiser vri</l>
+<l>Dats dat hi bedeeruen sal</l>
+<l n="20">V ende vwe geslechte al</l>
+<l>Ja waer dat hiere enegen vint</l>
+<l>Eest man eest wijf eest kint</l>
+<l>Wet oec dat die keiser fier</l>
+<l>Es in surien al hier</l>
+<l n="25">Ende comt herwert altenen</l>
+<l>Sine begerte en[de] sijn menen</l>
+<l>Was hoe hi v nv doe verdriet</l>
+<l>Op dat ghi en comt te heme niet</l>
+<l>Dies heb[.....] op goeden raet</l>
+<l n="30">Want dat wet wel en[de] verstaet</l>
+<l>Dat groet es die mogenthede sijn</l>
+<l><milestone unit="fol" n="B1vb"/> [.....]em[...] op den an[......]</l>
+<l>Diene te rome in die stede</l>
+<l>Iammerlike vermorden dede</l>
+<l n="35">Dies segt hem welc hi meer gert</l>
+<l>Soe dat ic come te hem wert</l>
+<l>Soe dat hi vorwert comen wille</l>
+<l>Want in wille niet liegen stille</l>
+<l>Ic wille minen vader wreken</l>
+<l n="40">Die iammerlike was doresteken</l>
+<l>[D]ese antworde hebben ontfaen</l>
+<l>Die boden ende sijn gekeert saen</l>
+<l><edition n="93"/>Weder omme doe vter stat</l>
+<l>Ende een ridder quam na dat</l>
+<l n="45">Te pompeium ende seide</l>
+<l>Here twi lieti alle beide</l>
+<l>Die grauen varen die tote v</l>
+<l>Jvlius hadde gesint nv</l>
+<l>Deen was die valsce arpas</l>
+<l n="50">Die mordenare geloeft mi das</l>
+<l>Die vwen here den vader rike</l>
+<l>Vermorde alsoe iammerlike</l>
+<l>In sijn hws te rome int stat</l>
+<l>Sekerlijc hi was selue dat</l>
+<l n="55">Ende hebtene v ontfaren laten</l>
+<l>Ic ontmoetene inder straten</l>
+<l>Dies mi wonderde harde sere</l>
+<l>Dat gine soe liet varen here</l>
+<l>Pompeius seide dats mi leet</l>
+<l n="60">Maer dies een man niene weet</l>
+<l>Dies en can hi gedoen niet</l>
+<l>Magic ic doe hem verdriet</l>
+<l><milestone unit="fol" n="B1vc"/> Ende pompeius wet vorwaer</l>
+<l>Hadde te[....] met hem daer</l>
+<l n="65">xl.m orse wel</l>
+<l>Dus onsiende hadde julius spel</l>
+<l>Nochtan voer hine soeken daer</l>
+<l>Ende pompeius wet vorewaer</l>
+<l>Es getogen vter stat</l>
+<l n="70">Om dat hi winnen soude te bat</l>
+<l>Op tfelt mogen die liede sijn</l>
+<l>Daer quam iegen die keiser fijn</l>
+<l>Soe datsi hem ondersagen</l>
+<l>Winne die mach si moetene iagen</l>
+<l n="75">Doch was pompeius meest veruart</l>
+<l>Ende heeft in drien sijn heere gescart</l>
+<l>Jvlius dede oec die gelike</l>
+<l>Ende scarde sijn heere wijslike</l>
+<l>Jn drien scaren verstaet mi dus</l>
+<l n="80">Die ene leide fulgentius</l>
+<l>Ende die andre carbelio</l>
+<l>Die derde leide hi selue do</l>
+<l><edition n="94"/>Ende wilde dus te stride varen</l>
+<l>Banderside dede pompeius scaren</l>
+<l n="85">Met harden wijseliken doene</l>
+<l>Hi maecte vele centurioene</l>
+<l>Ende elc daer af alsic verneme</l>
+<l>Hadde .C. ridders onder heme</l>
+<l>Also besetti die heren sijn</l>
+<l n="90">Ende julius die keiser fijn</l>
+<l>Es getogen te hem wart</l>
+<l>Die te vorst waren gescart</l>
+<l>Dat was fulgentius die innequam</l>
+<l><milestone unit="fol" n="B1vd"/> Derwert heeft [...............]</l>
+<l n="95">Daer hi hem [..............]</l>
+<l>Want mochte hi hi [.........]</l>
+<l>Want hi was den h[....]swaer</l>
+<l>Tiene ofte meer versloech hiere daer</l>
+<l>Der mechtechster senatoren</l>
+<l n="100">Dat sere achterde op die doren</l>
+<l>Pompeium want sine maten</l>
+<l>Wasser sere ver achterlaten</l>
+<l>Want julins en[de] de sine</l>
+<l>Daden den anderen grote pine</l>
+<l n="105">Ets waer die strijt was harde groet</l>
+<l>In beiden ziden bleef doet</l>
+<l>Harde vele alse recht was</l>
+<l>Maer pompeius gheloeft mi das</l>
+<l>Nam verre die voest[.........]</l>
+<l n="110">Dat daden julius [...........]</l>
+<l>Ende sine mage die niemen[...]</l>
+<l>Die dore braken pompeium[...]</l>
+<l>Ende sine liede sere [...]gen</l>
+<l>Want si niemene[............]</l>
+<l n="115">Warent senature oft centurioene</l>
+<l>Hoe vrome si waren of coene</l>
+<l>Si versloegense alle te samen</l>
+<l>Warse in haer gemoet quamen</l>
+<l>Wat hulpt dat ic vele spr[....]</l>
+<l n="120">Die strijt en was so[.........]</l>
+<l>Niet gehint hine d[...........]</l>
+<l>Toter vespertijt wel[.........]</l>
+<l><edition n="95"/>Dat velt lach oec oppenbare</l>
+<l>Met doden oft bestroit ware</l>
+<l n="125"><milestone unit="fol" n="B1ra"/> N[..]de van den stride es na geuaren</l>
+<l>Die[..]ten te winne twaren</l>
+<l>Ende [da]er mede al dat lant</l>
+<l>Dat hem m[..]en quam ter hant</l>
+<l>[O]p desen tijt soe was vrouwe</l>
+<l n="130">Over egypten alsic scouwe</l>
+<l>Cleopatre coninginne</l>
+<l>Met haren sone maer onminne</l>
+<l>Haddense onder hen beiden groet</l>
+<l>Soe dat hare sone dlant verboet</l>
+<l n="135">En[de] wouse verdriuen altemale</l>
+<l>Maer dat volc dat wet wale</l>
+<l>En woudese niet verdriuen laten</l>
+<l>Ende begonsten den sone haten</l>
+<l>Ende hebbene altemale verdreuen</l>
+<l n="140">Ende hebben daerop verheuen</l>
+<l>Tholomeuse sinen broeder</l>
+<l>Dese regneerde bi der moeder</l>
+<l>Nv quam pompeius in haer rike</l>
+<l>Met menegen man mogelike</l>
+<l n="145">Om dat hi hem daer soude onthouden</l>
+<l>Jegen die gene diene wouden</l>
+<l>Letten en[de] van den liue deren</l>
+<l>Maer iulius quam hem na geueren</l>
+<l>Tote iherusalem in der stat</l>
+<l n="150">Ende sinde sine bode nadat</l>
+<l>Tote tholomeum in egypten lant</l>
+<l>Dat hi hem sinde sinen viant</l>
+<l>Pompeius dat hi wete voer waer</l>
+<l>Hi salne comen halen daer</l>
+<l n="155">Al was tholomeus machtech sere</l>
+<l><milestone unit="fol" n="B1rb"/> Ende quam iegen hem boude</l>
+<l>Op een velt daert scone was</l>
+<l>Daer streden si sijt seker das</l>
+<l>Enen dach wel al dore</l>
+<l n="160"><pb n="96"/> Dat niemen en sceen hebben ter vre</l>
+<l>Tfordeel. want die alexandrine</l>
+<l>Streden wel. ende julius oec in scine</l>
+<l>Menech man bleef daer verslegen</l>
+<l>In conste v in engere wegen</l>
+<l n="165">Vertellen die grote daet</l>
+<l>Die daer daden dat verstaet</l>
+<l>Die romeine. en[de] banderzide</l>
+<l>Waren al te goet te stride</l>
+<l>Die alexandrine en[de] daer bi</l>
+<l n="170">En weet men wie te voren si</l>
+<l>Fulgentius die sere dert</l>
+<l>Siet in den strijt waer dat vert</l>
+<l>Fiscon die harde sere street</l>
+<l>Ende die niemens en meet</l>
+<l n="175">Te hem seluen seide hi doe</l>
+<l>Magic desen comen toe</l>
+<l>Ic corte magic sine grote daet</l>
+<l>Een spere nam hi dat verstaet</l>
+<l>Daer dat yser sere af sneet</l>
+<l n="180">Ende reet fyscoene na gereet</l>
+<l>Dore dat heere altemale</l>
+<l>Daer hi menegen velde tale</l>
+<l>Eer hi tote bi hem quam</l>
+<l>Fyscon sach wel e[nde] vernam</l>
+<l n="185">Dat hi hem meint ende nieman el</l>
+<l>Hi peisde nv eest tijt wel</l>
+<l><milestone unit="fol" n="B1rc"/> Van hen tween dat wetic wale</l>
+<l>En ware niet comen te dien male</l>
+<l>Die creten toe en[de] die alexandrine</l>
+<l n="190">Deus wat wies doe daer pine</l>
+<l>Want die strijt wart staende groet</l>
+<l>Menech ors liep daer bloet</l>
+<l>Achter velde al sonder here</l>
+<l>Ende menech was daer gewont sere</l>
+<l n="195">Wat hulpt die strijt durde lange</l>
+<l>Toter sonnen ondergange</l>
+<l>Ende si moesten sceden dore noet</l>
+<l><edition n="97"/>Om die donkerheit die was groet</l>
+<l>Dus keerdense tharen tenten wert</l>
+<l n="200">Elc here was noch onuervert</l>
+<l>Des smargens vroch wel betide</l>
+<l>Weder te comene te stride</l>
+<l>Dies soe dede die coninc fiscon</l>
+<l>Ene scone sciltwachte doen</l>
+<l n="205">Ende soe dede julius mede</l>
+<l>Sanderdages met der vroechede</l>
+<l>Sijn die heren op gestaen</l>
+<l>Ende vingen ten wapenen saen</l>
+<l>In beiden siden en[de] sijn gereet</l>
+<l n="210">Te stride te come godeweet</l>
+<l>Ende hebben hare liede bewart</l>
+<l>En[de] wijslike gescart</l>
+<l>Ende dat selue dede doen</l>
+<l>Die coninc fiscon</l>
+<l n="215">[S]cone was die margenstont en[de] claer</l>
+<l>Die heren die stoutelike hilden daer</l>
+<l>Daer lieten si te gadere rinnen</l>
+<l><milestone unit="fol" n="B1rd"/> Die hertoge carbelioen</l>
+<l>Die here was van macedone</l>
+<l n="220">Hi sach striden de[n] coninc fiscone</l>
+<l>Harde sere op de sine</l>
+<l>Ende daer toe die alexandrine</l>
+<l>Doe seide hi mi dunct wel</l>
+<l>Dat dese es den onsen fel</l>
+<l n="225">Die wile hi leeft dats oppenbaer</l>
+<l>Selewi den strijt hebben swaer</l>
+<l>Ic salt corten op dat ic can</l>
+<l>Doe nam hi van enen sinen man</l>
+<l>Enen spere dat starc ende stijf was</l>
+<l n="230">Ende naemt cort sijt seker das</l>
+<l>Onder den arm en[de] es gereden</l>
+<l>Tote den coninc met haestecheden</l>
+<l>Ende riep her coninc merket nv</l>
+<l>In begere niemanne dan v</l>
+<l n="235"><pb n="98"/> Fiscon horet en[de] seide</l>
+<l>Twaren vrient ghi soect dulheide</l>
+<l>Ic sal mi hoeden op dat ic can</l>
+<l>Een groet spere hi doe nam</l>
+<l>Ende naemt oec cort onder den arm</l>
+<l n="240">Ende es geport also warm</l>
+<l>Jegen hem te gemoete</l>
+<l>Twaren die steke was onsoete</l>
+<l>Want elc gerachte den andren daer</l>
+<l>Op den scilt dat wet vore waer</l>
+<l n="245">Met den speren die waren stijf</l>
+<l>Dore [....] dore h[alsber]ch tote int [lijf]</l>
+<l>Ja soe diepe ter seluer vre</l>
+<l>Dat die speren gingen dore</l>
+<l><milestone unit="fol" n="A6ra"/> Condi niet[...............]</l>
+<l n="250">Heft sine viende. crassus die here</l>
+<l>Heft hi tegadere al gelegen</l>
+<l>Dat mense wel soude plegen</l>
+<l>Ende tyberius groete sere</l>
+<l>Ende tonede sinen here</l>
+<l n="255">Ende seide heme dat hi riep</l>
+<l>Dat dlant van are[.....]</l>
+<l>[....] gewonnen altemale</l>
+<l>Ende alle die stede grote ende smale</l>
+<l>Die ic onderwegen vant</l>
+<l n="260">Settic al here v ter hant</l>
+<l>Besiene wat gi daermede wilt doen</l>
+<l>Augustus seide die baroen</l>
+<l>Dat hertochrike scone ende groet</l>
+<l>Est mine na mijns oems doet</l>
+<l n="265">[G]erechte want sijn erve was</l>
+<l>[L]ieue sone geloft mi das</l>
+<l>Dat grau van dese stede</l>
+<l>Ende oec alt dlant van griken mede</l>
+<l>Dat sal mede vwe sijn</l>
+<l n="270"><pb n="99"/> Tiberius seide here mijn</l>
+<l>Dat moeten v alle die gode onnen</l>
+<l>Nochtan wilict met v connen</l>
+<l>[E]nde tuwen dienste altoes staen</l>
+<l>[...............]</l>
+<l n="275">[..........]se die vander stat</l>
+<l>[............]waerheit dat</l>
+<l>[........]at tiberius hare here</l>
+<l>[....]arense blide ende [......]</l>
+<l>[...]nde sijn tonsen alle saen</l>
+<l n="280">[..........]van hem ontfaen</l>
+<l>[A]l haer goet ende al haer leen</l>
+<l>D[..]s die keiser [.........]</l>
+<l>[S]andersdags dede hi ontbieden</l>
+<l>Dore al dat [.......] vanden lieden</l>
+<l n="285">[...............] quamen</l>
+<l>[..............] altesamen</l>
+<l>[....]nden [.........]stat</l>
+<l>Die mechtech[............]</l>
+<l><milestone unit="fol" n="A6rb"/> Dienen ende [...........]</l>
+<l n="290">Ende dit gaf[..........]</l>
+<l>Tiberiuse sinen[..........]</l>
+<l>Dies sere blide w[..........]</l>
+<l>Maer hine woude[..........]</l>
+<l>Spannen al wa[...........]</l>
+<l n="295">Om dat hi woud[...........]</l>
+<l>Varen winnen dla[..........]</l>
+<l>Maer sinen neue rie[..........]</l>
+<l>Die vrome was ende [..........]</l>
+<l>Ende beual hem er[...........]</l>
+<l n="300">De [......] sijn[...........]</l>
+<l>Ende [...]ene daer[.........]</l>
+<l>[N]v heft tritone da[........]</l>
+<l>[...............]</l>
+<l>Want[...............]</l>
+<l n="305">Mettien heuet[.......]</l>
+<l>Daer versien[........]</l>
+<l>Dine[...............]</l>
+<l><edition n="100"/>Viij.[..............]</l>
+<l>In[...............]</l>
+<l n="310">Ende[.............]</l>
+<l>Die[..........]stride</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>Mag hijt hem[.....]here</l>
+<l n="315">[...........]ende niet anders</l>
+<l>Ende alse hem noemde her sanders</l>
+<l>Seide die keiser dat verstaet</l>
+<l>Ay seit hi verradere quaet</l>
+<l>Gi waert te rome in die stede</l>
+<l n="320">Ane minen oem hantdadech mede</l>
+<l>Dat ic v sal sekerlike</l>
+<l>Nv lonen doen harde suaerlike</l>
+<l>Sanders seide gi mogt wale</l>
+<l>Vwen wille doen altemale</l>
+<l n="325">[...........]seide octauiaen</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="A6rc"/> [...............]</l>
+<l>Met wat s[.............]</l>
+<l>Dese wile[............]</l>
+<l n="330">Iegen cru[............]</l>
+<l>Daer ware [............]</l>
+<l>Ende versoene[...........]</l>
+<l>Soe dat ic d[..........]</l>
+<l>Die seide mi[............]</l>
+<l n="335">Dat hi[...........]</l>
+<l>Benic brut[...........]</l>
+<l>Die mi soud[..........]</l>
+<l>Ende saen daer[...........]</l>
+<l>Ende die[...........]</l>
+<l n="340">Ende elc a[..........]</l>
+<l>Ende die[...........]</l>
+<l>Want[...........]</l>
+<l><milestone unit="fol" n="A6va"/> [.............]elike</l>
+<l>[.............]erterike</l>
+<l n="345">[.............]sach</l>
+<l>[.............]hi irst mach</l>
+<l>[.............]re neuen</l>
+<l>[.............]re geuen</l>
+<l>[.............]soen rike</l>
+<l n="350">[.............]eer daer wike</l>
+<l>[.............]breden</l>
+<l>[.............]gestreden</l>
+<l>[.............]aren si</l>
+<l>[.............]gen dat hi</l>
+<l n="355">[.............]sen doet</l>
+<l>[.............]ichame goet</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="A6vb"/> [...............]</l>
+<l>[...............]</l>
+<l n="360">[.............]sciet</l>
+<l>[.............]te verdriet</l>
+<l><edition n="101"/>[.............]orloge duren</l>
+<l>[.............]auonturen</l>
+<l>[.............]negerhande</l>
+<l n="365">[.............]in vwen lande</l>
+<l>[.............]magen</l>
+<l>[.............]n gedragen</l>
+<l>[.............]are here</l>
+<l>[.............]met groten sere</l>
+<l n="370">[.............]vten lande verdreuen</l>
+<l>[.............]leuen</l>
+<l>[.............]ist gewonnen al</l>
+<l>[.............]doet groet ende smal</l>
+<l>[.............]bestoeden</l>
+<l n="375">[.............]in gloden</l>
+<l>[.............]daer mense mede</l>
+<l>[..........]ere vinne verdede</l>
+<l>[..........]gingen met gelucke</l>
+<l>[..........]wisten tenoren een stucke</l>
+<l n="380">D[.......]keiser tonswert quam</l>
+<l>Ane enen bode ict vernam</l>
+<l>Ende doe namewi d[...]</l>
+<l>Altemale[...........]wart</l>
+<l>Ende sijn aldus comen hier</l>
+<l n="385">Op vwen troest her coninc fier</l>
+<l>Nv laet here ons verstaen</l>
+<l>Wat wi best mogen anegaen</l>
+<l>Brutus seide in weet tewaren</l>
+<l>Hier emmer qualec geuaren</l>
+<l n="390">Bi der ouder tijt wasic te rade</l>
+<l>Doe daer gesciede die scade</l>
+<l>Vanden coninc brabone</l>
+<l>Ende van iuliuse de keiser cone</l>
+<l>Ic was reusch ende ionc daer toe</l>
+<l n="395">Ende oec verlietewi ons doe</l>
+<l>Op pompeiuse daer wi mede</l>
+<l>[...............] stede</l>
+<l><milestone unit="fol" n="A6vc"/> Nv heft octauiaen al doet</l>
+<l>Sine viende cleine ende groet</l>
+<l n="400">Sonder mi ende mijn geslachte</l>
+<l>Dat harde cleine es van machte</l>
+<l><edition n="102"/>Ende daerbi duchtict bouen al</l>
+<l>Dat hi ons hier soeken sal</l>
+<l>In dit lant ende ons verslaen</l>
+<l n="405">Hier bi willict laten staen</l>
+<l>Mijn rike ende wille mi begeuen</l>
+<l>Ende vort leiden een goet leuen</l>
+<l>In hercules tempel ende dienen heme</l>
+<l>Want na dien dat ict verneme</l>
+<l n="410">Bleuic int rike ent vername</l>
+<l>Octauiaen sijt seker hi quame</l>
+<l>Hier omme te verslane mi</l>
+<l>Ic rade v allen oec dat gi</l>
+<l>Vart daerwert daer gi seker sijt</l>
+<l n="415">Ic wille senden teser tijt</l>
+<l>Minen sone in beierlant</l>
+<l>Dat hi werde daer becant</l>
+<l>Met sinen neue den hertoge</l>
+<l>Ende scuwe dit orloge</l>
+<l n="420">Want sijn leuen ware gedaen</l>
+<l>Op dattene vinge octaniaen</l>
+<l>[A]nders niet dan al dat</l>
+<l>En troest [.............]</l>
+<l>Sine mage die rouwech waren</l>
+<l n="425">En sijn dos om niet geuaren</l>
+<l>[....] seide ten gesellen sijn</l>
+<l>Wat raetdi[.......]vriende mijn</l>
+<l>Wat selewi nv mogen be[.....]</l>
+<l>Dese[.......]af ge[........]</l>
+<l n="430">Die ons nochtan altemale[.....]</l>
+<l>Hierinne heft bracht alle[....]</l>
+<l>Ende wine weten waerwert tien</l>
+<l>Wine tonen den keiser[......]</l>
+<l>Wi moeten ontfaen van[......]</l>
+<l n="435">Siet in dese pine groet</l>
+<l>Heft ons bracht dese valsce[....]</l>
+<l>Die ons nochtan nv ane ginc</l>
+<l><pb n="103"/><milestone unit="fol" n="A5ra"/><scribe id="C"/> Die clagen horde den vader hir</l>
+<l>[O]ntfarmede des vaders sere</l>
+<l n="440">[E]nde eer dat wiste iemen mere</l>
+<l>[T]oech hi sijn swert heimelike</l>
+<l>[E]nde staect den vader crachtelike</l>
+<l>[I]n die borst die iongelinc</l>
+<l>[S]oe dat bander side dore ginc</l>
+<l n="445">[D]ie vader hi viel neder doet</l>
+<l>[D]oe seide die sone met rouwen groet</l>
+<l>[V]ader al benic tongemake</l>
+<l>[I]c hebbe vwen vianden die wrake</l>
+<l>[V]an v genomen dat verstaet</l>
+<l n="450">[S]i en mogen v geen merre quaet</l>
+<l>[D]oen dan v gedaen si</l>
+<l>[N]v hebt die doet liuer van mi</l>
+<l>[D]an van vwen vianden want erlikere</l>
+<l>[S]teruedi ende gemackelikere</l>
+<l n="455">[D]an si v hadden steruen doen</l>
+<l>[E]nde oec en haddict edel baroen</l>
+<l>[N]iet wel dat connen gedogen</l>
+<l>[D]atmen v gepijnt hadde vor mijn ogen</l>
+<l><milestone unit="fol" n="A5rb"/> Wel wesen een conincrike</l>
+<l n="460">Die wile dat hise besette soe</l>
+<l>Soe quaemen crassus mage toe</l>
+<l>Ende brachten met hem ridders coene</l>
+<l>Wel .l. legioene</l>
+<l>Dar elc af hilt vim. man</l>
+<l n="465">Ende vic. daer toe nochtan</l>
+<l>Ende lxvi mede</l>
+<l>Dese quamen vor die stede</l>
+<l>Vromelike wetet dat</l>
+<l>Ende hebben belegen die stat</l>
+<l n="470">Dar tyberius binnen lach</l>
+<l>Dier sere wondert hoet wesen mach</l>
+<l>Hem wonderde ofte augustus</l>
+<l><edition n="104"/>Dar te hem quame aldus</l>
+<l>Doch sindi enen bode vut</l>
+<l n="475">Stillekine niet ouer luut</l>
+<l>Die hem vernemen sonde die mare</l>
+<l>Wat volke dat.dat ware</l>
+<l>Ofte vriende ofte viande</l>
+<l>Die bode toech vte die hi dar sande</l>
+<l n="480"><milestone unit="fol" n="A5rc"/> Dat hi sonder soene niet</l>
+<l>In die stat en sal liggen mogen</l>
+<l>Hi was harde sere in hogen</l>
+<l>Dattene die stat troeste soe sere</l>
+<l>Doe voer tyberius die here</l>
+<l n="485">Vter stat dat wet te waren</l>
+<l>Mettien genen die gereet waren</l>
+<l>Hi sal hem dat logieren benemen</l>
+<l>Mach hi eer het sal demen</l>
+<l>Mar dat sal sijn pine verloren</l>
+<l n="490">Sijn ors dat noepti mettien sporen</l>
+<l>Dat lichtere dan een vogel was</l>
+<l>Ende es geslagen in dien tas</l>
+<l>Den iersten dien hi heeft ontmoet</l>
+<l>Dien heeft hi mettien spere gegroet</l>
+<l n="495">Optien scilt die lettel doech</l>
+<l>Ende dat spere dat niet en boech</l>
+<l>Scoeter dore alst ware .i. loef</l>
+<l>Soe dat scilt ende halsberch cloef</l>
+<l>Curie ende wamsoel mede</l>
+<l n="500">Ende dat spere voer ter stede</l>
+<l><milestone unit="fol" n="A5va"/> [............]alsoe smal</l>
+<l>Dat goet te siene si</l>
+<l>Een ander [.....]dinc bi</l>
+<l>[...]sen[........]tale</l>
+<l n="505">[.........]sin[.........]</l>
+<l>[...........]wesen dat</l>
+<l>[..........]wonnen die stat</l>
+<l>[............]verliesen</l>
+<l>[..........]wi willen kysen</l>
+<l n="510">[.......]ken wel verstaen</l>
+<l>[.......]en nv ane gaen</l>
+<l>[............]waerlike</l>
+<l>[.....]ten wapinen haestelike</l>
+<l>[...........]logieren beiden</l>
+<l n="515"><pb n="105"/> Her sanders[...]met haesticheiden</l>
+<l>Toe [..........]ouer dat plain</l>
+<l>[..........]enen romein</l>
+<l>Sijn[........]ter herten in</l>
+<l>Soe dat hi starf. sonder bekin</l>
+<l n="520">Den andren stac hi oec alsoe</l>
+<l>Dat hi wt sijn lijf onvroe</l>
+<l><milestone unit="fol" n="A5vb"/> Gh[...............]</l>
+<l>Ende heeftene optien helm geslegen</l>
+<l>Dat her sanders die degen</l>
+<l n="525">Bleef op sijn ors liggende stille</l>
+<l>Her tyberius die sijn[...]dde wille</l>
+<l>Nam dat ors mettien tome</l>
+<l>Ende hilt[.....]en die sadelbome</l>
+<l>Dat hi hem niet en dade ontfallen</l>
+<l n="530">Ende voerdene vte hem allen</l>
+<l>Ende leuerdene enen romein dar</l>
+<l>D[ie] in die stat vorbi dar naer</l>
+<l>D[........]vaste leide gevaen</l>
+<l>Al was hi van[........]ontgaen</l>
+<l n="535">Hine es nochtan niet altemale</l>
+<l>Niet ontfloen dat donct mi wale</l>
+<l>Hi leget soe vaste ende soe onsachte</l>
+<l>Nv in siere viande hachte</l>
+<l>[A]lse die stoute tyberius</l>
+<l n="540">Sanders den graue heeft aldus</l>
+<l>Geuaen keerdi in dien strijt</l>
+<l>Die harde fel was te dier tijt</l>
+<l><milestone unit="fol" n="A5vc"/> Die hertoge gaf den tro[.......]</l>
+<l>Enen slach optien helm [......]</l>
+<l n="545">Dat sickele ende stene vielen</l>
+<l>Ende hi oec boech[.........]</l>
+<l>Mar die troijn ge[.........]</l>
+<l>Recht op die sco[...........]</l>
+<l>En heeftene[..............]</l>
+<l n="550">Entie hertoge viel neder doet</l>
+<l>Dar doe ombe was rouwe groet</l>
+<l>Groten rouwe ende groet gecrijt</l>
+<l><edition n="106"/>Die griken iogenen wech tier tijt</l>
+<l>Ten tenten wert eer sire quamen</l>
+<l n="555">Dat die andre vergramen</l>
+<l>Die ten stride wert quamen sere</l>
+<l>Doe lietense liggen haren here</l>
+<l>Ende sijn gekeert ten stride weder</l>
+<l>Deus wat warter ter neder</l>
+<l n="560">Geworpen menech romein</l>
+<l>Ende menech griec oec int plain</l>
+<l>Mar die romeine wet vor waer</l>
+<l>Hadden die mindre menege daer</l>
+<l><milestone unit="fol" n="B2ra"/><scribe id="X"/> Maer si werden hem vromelike</l>
+<l n="565">Ende tiberius die here rike</l>
+<l>Street sere alse die onwerde</l>
+<l>Meneghen warp hi op die erde</l>
+<l>Die noit weder op en stoet</l>
+<l>Menege hant ende menegen voet</l>
+<l n="570">Sloch hi af ende menech hoeft</l>
+<l>Wat hulpt die strijt warter groet</l>
+<l>Ic weet wel dat van crassus magen</l>
+<l>Si vir worden daer verslagen</l>
+<l>Die alle rike grauen waren</l>
+<l n="575">Met dien so quamen toe gheuaren</l>
+<l>Pastus die here van creten was</l>
+<l>Ende een sijn neue hiet dunas</l>
+<l>Ende was van teben hertoghe</l>
+<l>Dese hadde crassus aldus hoge</l>
+<l n="580">Gheset in sierre viande lant</l>
+<l>Die wile hijt sonder here vant</l>
+<l>Ende doet was gramdioen</l>
+<l>Elc brachte met hem in sijn doen</l>
+<l>Griken wel .iii. legione</l>
+<l n="585">Die stout waren ende cone</l>
+<l>Dit waren crassus naeste mage</l>
+<l>Deus wat slogense grote slage</l>
+<l><edition n="107"/>Op die romeine die hem weren</l>
+<l>Wat si mogen ende deren</l>
+<l n="590">[G]roet was die nose ende tgecrijt</l>
+<l>Datter was in genen strijt</l>
+<l>Menech ors liep daer ten kere</l>
+<l>Achter velde sonder here</l>
+<l>Daer was vanden romeinen goet</l>
+<l n="595">Ghedaen menech fel ontmoet</l>
+<l>Tyberius neue die stoute troyin</l>
+<l>Triton was die name sijn</l>
+<l>Hi versach waer pastus quam</l>
+<l>Ende enen romein dleuen nam</l>
+<l n="600">Dat hem harde sere derde</l>
+<l>Doe sach hi voer hem op die erde</l>
+<l>Ende sachere liggen een starc spere</l>
+<l>Hi nigtere na. want hi hats gere</l>
+<l><milestone unit="fol" n="B2rb"/> Pastus die heeftene mettien</l>
+<l n="605">Te hem wert comende versien</l>
+<l>Ende nam enen griic een spere</l>
+<l>Want hi woude iegen hem ter were</l>
+<l>Emmer comen opdat hi can</l>
+<l>Want et was een stoute man</l>
+<l n="610">Die griic hi hadts groten toren</l>
+<l>Dat hi hadde sijn spere verloren</l>
+<l>Ende hem pastus alsoe nam</l>
+<l>Wat wondere eist al benic gram</l>
+<l>Seide hi te hem seluen doe</l>
+<l n="615">Ic waendere mede sijn comen toe</l>
+<l>Ten vienden dat bliuen moet</l>
+<l>Ende ic en volgem heden voet (?)</l>
+<l>Om hem ander[......]te stane</l>
+<l>Magic dan hem te verslane</l>
+<l n="620">Sie ic den onsen oec iet meschien</l>
+<l>Ic sal sijn dierste die sal vlien</l>
+<l>Ende henen varen mire straten</l>
+<l>Ende sal verwonnen mi gelaten</l>
+<l>Al roepende met stemme groet</l>
+<l n="625"><pb n="108"/> Ten anderen wi sijn alle doet</l>
+<l>Ic salre .xx. maken bloede</l>
+<l>Die weder selen striden node</l>
+<l>Ende selen henen met mi vlien</l>
+<l>Ende en mach dat niit gescien</l>
+<l n="630">Soe salickene doet steken van achter</l>
+<l>Dan sal mier herten wesen tachter</l>
+<l>Hi hadde mi bat mijn spere gelaten</l>
+<l>Dat hi nu voert siere straten</l>
+<l>Nu es pastus die here</l>
+<l n="635">Van desen gedreigt sere</l>
+<l>Dat hi harde luttel weet</l>
+<l>Maer voer henen wel gereet</l>
+<l>Opten stouten romeine[...]</l>
+<l>Diene ontfinc alse sx co[...]</l>
+<l n="640">Hare steken die si staken daer</l>
+<l>Waren dat wet wel harde suaer</l>
+<l>Want beide die stoute heren</l>
+<l>Vielen neder sonder keren</l>
+<l><milestone unit="fol" n="B2rc"/> Van e - Ende d - Die - Dat - Ensi - Quam - Daer - Die - Om</l>
+<l>Dat - Stri - Ende - Die - Noc - Siet - Ende - Ende - Voe -</l>
+<l>Ende - En - Ach - Dat - Ende - Ende d - Onder - Ende Ende -</l>
+<l>Dat - Ende - [...] - Opd - [...] - [...] - Dat - Des h - Dat n -</l>
+<l>Tiberius - W - Julius g - Ende de</l>
+<l><milestone unit="fol" n="B2va"/> re - [...] - lachte - te - ren - aren - t - aet - den - en - [...] -</l>
+<l>ande - [...] - ten - gen - [...] - r - [...] - en sal - [...] - [...] [...] -</l>
+<l>de - de - [...] - le - [...] - den - [...] - [...] - et - [...] - [...] -</l>
+<l>[...] - vant - ue - egen - leghen - triden</l>
+<l><milestone unit="fol" n="B2vb"/> xxxvi. wanic wale</l>
+<l n="645">Grauen ende hertogen altemale</l>
+<l>Ende seide ghi heren nu besiet</l>
+<l>Wine sijn hier sonder scade niet</l>
+<l>Nv comen dat dunct mi wel</l>
+<l>Onse viande sijn ons fel</l>
+<l n="650">Ende hebben toe ene goede stat</l>
+<l>Ende mogen ons orlogen bat</l>
+<l><edition n="109"/>Dan wi hen mogen dat es waer</l>
+<l>Wine mogen hen niet comen naer</l>
+<l>Ende si selen ons stullike</l>
+<l n="655">Bestriden willense dagelike</l>
+<l>Die stat es oec groet ende wijt</l>
+<l>Ende wine mogense teser tijt</l>
+<l>Niet al beleggen met onsen scaren</l>
+<l>Want en ware engene twaren</l>
+<l n="660">Sine waren te cranc in alle sinnen</l>
+<l>Quamen vte die van binnen</l>
+<l>Ja te warre houdic vor dat</l>
+<l>Te cranc iegen die vander stat</l>
+<l>Ic vrage hier toe ghi heren saen</l>
+<l n="665">Wat wi best mogen anegaen</l>
+<l>Ien graue hiet lisus catras</l>
+<l>Seide verstaet here her dunas</l>
+<l>Ets waer wi hebben menegen man</l>
+<l>Die wel ane die wapene can</l>
+<l n="670">Ja te bestridene sekerlike</l>
+<l>Dat aldermachtechste conincrike</l>
+<l>Dat nu inder werelt si</l>
+<l>[B]uten ghenomen geloues mi</l>
+<l>[Der] roemscer cronen die engeen man</l>
+<l n="675">[In] die werelt verstriden en can</l>
+<l>[........]en ware hier selue niet</l>
+<l>Die [roem]sce keiser dien men ontsiet</l>
+<l>Sijt [se]ker dat wi gauen klene</l>
+<l>Om dat heer al ghemene</l>
+<l n="680">Maer nu es mi laten verstaen</l>
+<l>Van enen bode diet mi saen</l>
+<l>Seide dat die keiser cone</l>
+<l>[.........]legione</l>
+<l><milestone unit="fol" n="B2vc"/> Ende doen pine toter doet</l>
+<l n="685">Ons torment sonde wesen groet</l>
+<l><edition n="110"/>Ende die pine menegherhande</l>
+<l>Op dat wi quamen in sijn hande</l>
+<l>Nv raet hierop gi heren cone</l>
+<l>Wat hier op eist best te done</l>
+<l n="690">[I]en graue die hiet her trupart</l>
+<l>Ende here van trapurt antwerde ter vaert</l>
+<l>Bi marie gi heren dat es waer</l>
+<l>Wi hebben dit orloge suaer</l>
+<l>Comt op ons octauiaen</l>
+<l n="695">Die keiser soe sal gedaen</l>
+<l>Herde saen onse were wesen</l>
+<l>Wi en mogen sijns niet genesen</l>
+<l>Ic ben wel seker ende vroet</l>
+<l>Dat ic crassuse nien bestoet</l>
+<l n="700">Noch eclyopuse mede</l>
+<l>Maer brutuse die met hem mesdede</l>
+<l>Sijn vader was die oem mijn</l>
+<l>Alse wale soudic verloren sijn</l>
+<l>Ende dlijf verliesen alsoe saen</l>
+<l n="705">Alse gi liede wordic geuaen</l>
+<l>Want ic mi wel dies vermoede</l>
+<l>Dies steet mi wel alse op mijn hoede</l>
+<l>Te sine alst v lieden doet</l>
+<l>Soe salic oec benic vroet</l>
+<l n="710">Nu raet wat wi doen mogen</l>
+<l>Dat wi nien bliuen bedrogen</l>
+<l>Si seiden alle wine wete wat</l>
+<l>Bat doen dan wi dese stat</l>
+<l>Margen soeken ende wi se winnen</l>
+<l n="715">Conewi op die van binnen</l>
+<l>Ochte si selen tons vte comen</l>
+<l>Dat ons quame mier te vromen</l>
+<l>Ende laetse ons dan tenen male</l>
+<l>Alle bestaen soe doen wi wale</l>
+<l n="720">Ende en mach dat niet ghescien</l>
+<l>Ende si ons int stat ontflien</l>
+<l>Soe dunct goet ons allen dat</l>
+<l>Dat wi trecken in die stat</l>
+<l><pb n="111"/><milestone unit="fol" n="A2ra"/> Dien oec die steke we dede</l>
+<l n="725">Den derden ende den vierden mede</l>
+<l>Doe riep hi lude edel heren</l>
+<l>Slaet sere sine mogen ons niet ontkeren</l>
+<l>Wat sochten si in desen lande</l>
+<l>Niet te haelne dan al scande</l>
+<l n="730">Triton die in es gereden</l>
+<l>Sach liggen vore den graue beneden</l>
+<l>Enen romein die noch nine was</l>
+<l>Vermonteert geloft mi das</l>
+<l>Want sijn ors was hem ontronnen</l>
+<l n="735">Een ander hadde hi gerne gewonnen</l>
+<l>Want et was hem harde leet</l>
+<l>Dat diegene te voet steet</l>
+<l>Want hi street vromelike</l>
+<l>Triton sach enen graue rike</l>
+<l n="740">Die truparde den graue bestoet</l>
+<l>Ende dien romein die daer te voet</l>
+<l>Street dede pine harde suaer</l>
+<l>Triton riep opten graue daer</l>
+<l>Ende die graue waende hen wale</l>
+<l n="745">Sijn ontwinct altemale</l>
+<l>Dat hem gescien niet en can</l>
+<l>Want triton die stoute man</l>
+<l>Heftene op den scilt geraect</l>
+<l>Ende daer in een gat gemaect</l>
+<l n="750">Soe dede hi dorden halsberge mede</l>
+<l>Die hem engene scade en dede</l>
+<l>Noch die starke corie vure</l>
+<l>Dat spere en scoet sijn herte dure</l>
+<l>Ende die graue hi viel doet</l>
+<l n="755">Triton nam sijn ors groet</l>
+<l>Ende gaft den genen die daer stoet</l>
+<l>Soe vromelike ende street te voet</l>
+<l>Dies hem seide groten danc</l>
+<l>Ende sprankere op eer iet lanc</l>
+<l n="760"><pb n="112"/> Ende pinsde dat hi wreken sal</l>
+<l>Op den graue sinen val</l>
+<l><milestone unit="fol" n="A2rb"/> Liede vtermaten vele</l>
+<l>Want si niet en streden in spele</l>
+<l>Denson die graue quam geuar[en]</l>
+<l n="765">Op enen graue vander scaren</l>
+<l>Die coninc brutus neue was</l>
+<l>Die gene hadde gelof[t] mi das</l>
+<l>Geuelt neder op dat ple[i]n</l>
+<l>Enen vromen stouten romein</l>
+<l n="770">Ende hadde hem den arm af geslegen</l>
+<l>Dat derde sere densone den degen</l>
+<l>Die [toe]ch sijn suert williclike</l>
+<l>Ende [v]oer anden graue rike</l>
+<l>Die t[sij]n keerde doe hine sach</l>
+<l n="775">Mar denson gaf hem enen slach</l>
+<l>Op den helm van brunen stale</l>
+<l>En ware tsuert niet gescampelt dale</l>
+<l>Op die assle hi hadde hem thoeft</l>
+<l>Toten tanden toe gecloft</l>
+<l n="780">Soe groet was die slach ende soe suaer</l>
+<l>Doch en leec soe die slach niet daer</l>
+<l>[........] den riken graue</l>
+<l>Den arm al metten scilde aue</l>
+<l>Ende die graue oec mede</l>
+<l n="785">Moeste sturten daer ter stede</l>
+<l>Op die erde daer hi ware</l>
+<l>Bleuen dat wet oppenbare</l>
+<l>Onder die grote orse doet</l>
+<l>Neware dattere toe stoet</l>
+<l n="790">Een ridder van sinen lande</l>
+<l>Die henen trac vten sande</l>
+<l>Ende vten stride altemale</l>
+<l>Dese heft ontgouden wale</l>
+<l>Die eere ende die werdechede</l>
+<l n="795">Die hem die coninc brutus dede</l>
+<l>Hi vloechte die vre vele ende gnoch</l>
+<l>Dat brutus juliuse versloech</l>
+<l><edition n="113"/>Ende noch sal moet hi leuen</l>
+<l>Hem vele vloke g[e]uen</l>
+<l><milestone unit="fol" n="A2rc"/> Van - Do - [...] - Mar - Gau - We - Want - Die - Si - Die Te -</l>
+<l>Ende - Ge - Al - Ende - So - N - D - Ende - Wa - Na - Ende -</l>
+<l>Ende - Op - Ende - Oe - Ende - Hi - Da - Van - Ale - [...] Du -</l>
+<l>[...] - Ende - [...] - Van</l>
+<supplied resp="editor"><milestone unit="fol" n="A2va"/> [Afgesneden, op enkele sporen van letters na.]</supplied>
+<l n="800"><milestone unit="fol" n="A2vb"/> Trupart die hertoge siet nu wel</l>
+<l>Dat die romeine hem sijn sel</l>
+<l>Ende dat hi sine hoge mage</l>
+<l>Sere verliest in desen dage</l>
+<l>[.....]siet hi wel die here</l>
+<l n="805">Dat si al vliende striden sere</l>
+<l>Hi sach tritone striden sere</l>
+<l>Soe dede hi oec drususe[....]</l>
+<l>Ende endaluse den graue cone</l>
+<l>Ende den graue densone</l>
+<l n="810">Hi merct in hem selue daer</l>
+<l>Dat dese iij. sijn voorbaer</l>
+<l>Ende mochte hi er enen geuaen</l>
+<l>Hi soude wel weder hebben saen</l>
+<l>Sinen neue wetet dat</l>
+<l n="815">Dierre nv es geuaen int stat</l>
+<l>Hi sach oec hem volgen naer</l>
+<l>Daer te hulpe wet voerwaer</l>
+<l>[...............]</l>
+<l>Ende voer vort geloft mi das</l>
+<l n="820">Ende rechte sijn spere op tritone</l>
+<l>Trupart die graue hi was cone</l>
+<l>Ende stout[.............]</l>
+<l>Triton sach[.............]</l>
+<l>Comen ende voer hem tegen</l>
+<l n="825">Alse gerne vrie liede plegen</l>
+<l>Die steken diese daden daer</l>
+<l>[.......]welke[.......]</l>
+<l><edition n="114"/>[.......]daer si op saten</l>
+<l>Soe suaer ende soe vtermaten</l>
+<l n="830">Groet was die steke dat si beide</l>
+<l>Bleuen liggende an die heide</l>
+<l>Beide gequetst harde sere</l>
+<l>Ende si en consten niet tenen kere</l>
+<l>[.............]gestaen</l>
+<l n="835">Ende die grieke quamen saen</l>
+<l>Met[..............]</l>
+<l><milestone unit="fol" n="A2vc"/> Dat v pine sal wesen groet</l>
+<l>Want gi selt smaken alse suren doet</l>
+<l>Alse brutus die coninc van slauenie</l>
+<l n="840">Can gepisen ende sijn partie</l>
+<l>Gi motene in slauernien sien</l>
+<l>Triton seide dat mach gescien</l>
+<l>Mar dat sal also verkeren</l>
+<l>Dat wesen sal te sinen onneren</l>
+<l n="845">Trupart seide grote jammerheden</l>
+<l>Ende tsinen groten scanden mede</l>
+<l>Geue v mars ende venus</l>
+<l>Ende hoe sprecti tenen coninc dus</l>
+<l>Sine hant heft hi verheuen</l>
+<l n="850">Ende heft tritone gegeuen</l>
+<l>In dansichte enen suaren slach</l>
+<l>Dat hi en horde noch en sach</l>
+<l>Ende seide vul onwerdech man</l>
+<l>Hoe sprecti dus enen coninc an</l>
+<l n="855">Wet dat seker ouerwaer</l>
+<l>Dat gijt selt ongelden suaer</l>
+<l>Tritoen die nv es becomen</l>
+<l>Heft hem geslagen nv[.....]</l>
+<l>Hadde hi[........]ert ochte stijf</l>
+<l n="860">Hi hadde hem gesteken int lijf</l>
+<l>Maer hi quam dat[.........]</l>
+<l>Ende die grike streden daer</l>
+<l>Op die romeine die nochtan keren</l>
+<l>Weder ter stat wert met eren</l>
+<l n="865">Want si menech suaer ontmoet</l>
+<l>Daden op die grike vroet</l>
+<l><edition n="115"/>Dit versach die graue lisus</l>
+<l>War die stoute endalus</l>
+<l>Hadde verslagen grike tue</l>
+<l n="870">Dat hem dede int herte we</l>
+<l>Sijn suert dat toch hi tuaren</l>
+<l>Ende es ane endaluse geuaren</l>
+<l>Alse diene verslaen woude</l>
+<l>Endalus die node soude</l>
+<l n="875"><milestone unit="fol" n="A4ra"/> Gelijc ict in ven[.........]</l>
+<l>Al[...............]</l>
+<l>[...]laet [.............]</l>
+<l>[...]hebt hier vore [.........]daen</l>
+<l>[.........]keiser octauiaen</l>
+<l n="880">Doe hi ontfinc dat keiserrike</l>
+<l>Hoe hi sine viende gemeinlike</l>
+<l>Hadde doet ende slans verdreuen</l>
+<l>Die juliuse namen dleuen</l>
+<l>Was een coninc dies sijt wijs</l>
+<l n="885">In orienten hiet anthonijs</l>
+<l>Ende was keiser daer int lant</l>
+<l>Irste geset van julius hant</l>
+<l>Ende hietene die geselle sijn</l>
+<l>Dan quam augustus die keiser fijn</l>
+<l n="890">Ende lietene keiser oec alsoe</l>
+<l>Ende gaf hem te wiue daer toe</l>
+<l>[........]octauiane[........]</l>
+<l>[...........]vernamen</l>
+<l>[.............]stat</l>
+<l n="895">Ende soe heldi geloue dat</l>
+<l>Die colonie soe[......]nlike</l>
+<l>[........]dat conincrike</l>
+<l>[........]met hem cleopatra</l>
+<l>[........]heldi gehore nv daer na</l>
+<l n="900">[Cleo]patra wart coninginne</l>
+<l>[.........]irst brachte inne</l>
+<l>[...........]keiser julius</l>
+<l><edition n="116"/>[............]augustus</l>
+<l>[..........]de hare dat rike</l>
+<l n="905">[............]hare mogenlike</l>
+<l>[............]gaf hi mede</l>
+<l>[............]die mogenthede</l>
+<l>[..........]ende die eerste rike</l>
+<l>[..............]gelike</l>
+<supplied resp="editor">[Er volgen nog vijf, totaal onleesbare regels.]</supplied>
+<l n="910"><milestone unit="fol" n="A4rb"/> Wat[...............]</l>
+<l>Soe kerede[.............]</l>
+<l>[........]die[........]</l>
+<l>[...........]mechtech man</l>
+<l>[...............]an</l>
+<l n="915">Dede hi wt goethede altemale</l>
+<l>Van ier[.......]dat wet wale</l>
+<l>Maken enen toren groet</l>
+<l>Van witten marbre[......]</l>
+<l>In dere sijns heren antonijs</l>
+<l n="920">Dus dede hi des sijt wijs</l>
+<l>Maken opt zee daer toe[.......]</l>
+<l>Ende dedene hem die[..........]</l>
+<l>Cesarion. dore die[...........]</l>
+<l>Van cesar augustus spien[.....]</l>
+<l n="925">Maer altoes was hi[...........]</l>
+<l>Antonise ende hilt[...........]</l>
+<l>Antonijs die hem dle[.........]</l>
+<l>Hilt dat oriensce rike</l>
+<l>Ende alle die buten[..........]</l>
+<l n="930">Die in orienten w[............]</l>
+<l>Waren hem mede[...............]</l>
+<l>Hi ende oec octaniaen</l>
+<l>Waren gesellen .xij.[.........]</l>
+<l>Ende antonijs[................]</l>
+<l n="935">Hadde te wiue oct[............]</l>
+<l>Gelijc gi mi hor[.............]</l>
+<l>In dien tide hadde[...........]</l>
+<l><edition n="117"/>Octauiaen met orloge pine groet</l>
+<l>Ende oec mede in africa</l>
+<l n="940">Soe hadde hi orloge daer na</l>
+<l>Dattene maecte onledech sere</l>
+<l>Ende hierenbinnen anthonise[...]</l>
+<supplied resp="editor">[Er volgen nog zeven onleesbare regels.]</supplied>
+<supplied resp="editor"><milestone unit="fol" n="A4rc"/> [Afgesneden; hetgeen is overgebleven, is op enkele woorden na onleesbaar.]</supplied>
+<l><milestone unit="fol" n="A4va"/> [............]et</l>
+<l>[............]r</l>
+<l n="945">[............]groete[....]</l>
+<l>[............]blide se[...]</l>
+<l>[............]en bleef</l>
+<l>[............]aer verdreef</l>
+<l>[............]reiden sine vart</l>
+<l n="950">[............]van drie wart</l>
+<l>[............]n vele</l>
+<l>[............]no in spele</l>
+<l>[............]llen[......]</l>
+<l>[............]henen[....]</l>
+<l n="955">[............]ene sijn</l>
+<l>[............]onten agrippijn</l>
+<l>[............]e ontfinc</l>
+<l>[............]te die coninc</l>
+<l>[............]n beiden daer</l>
+<l n="960">[............]e seggene suaer</l>
+<l>[............]te uaren</l>
+<l>[............]tuaren</l>
+<l>[............]sinen heere</l>
+<l>[............]groet ter were</l>
+<l n="965">[............]ch al wan</l>
+<l>[............]quam an</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l>[...............]</l>
+<l n="970">[............]doe</l>
+<l>[............]t vernomen</l>
+<l>[...............]</l>
+<l>[............]e sijn</l>
+<l>[............]eiser fijn</l>
+<l n="975">[............]groet</l>
+<l>[............]ontboet</l>
+<l>[............]inne</l>
+<l>[...............]</l>
+<l>[............]en</l>
+<l n="980"><milestone unit="fol" n="A4vb"/> Ende beiagde daer ere groet</l>
+<l>Nv hebben die persen vernomen</l>
+<l>Dat octauiaen wilt comen</l>
+<l>Op antonise den here</l>
+<l>[E]nde peinsde dat met genen kere</l>
+<l n="985">Anthonise heroden gehulpen en can</l>
+<l>Al[............]hi hem goets an</l>
+<l>Ende peinsde dat si nv wale</l>
+<l>Selen wreken altemale</l>
+<l>Elke scade die hen herodes dede</l>
+<l n="990"><pb n="118"/> Ende oec die scande mede</l>
+<l>Al waest dat si antonise sinden</l>
+<l>Hulpe si willen hen geuinden</l>
+<l>Te uarne te surien wart</l>
+<l>Ende te storne op die vart</l>
+<l n="995">Herodes lant altemale</l>
+<l>Want si willen weten wale</l>
+<l>Dat herodes wesen sal</l>
+<l>[....]met sinen volke al</l>
+<l>Anthonise den sterken here</l>
+<l n="1000">Wantene herodes minde sere</l>
+<l>Dos voeren die persine neder</l>
+<l>Die hen gerne wraken weder</l>
+<l>Ende sijn in surien comen</l>
+<l>Herodes die dat heft vernomen</l>
+<l n="1005">Liet doe bliuen sine[.....]</l>
+<l>Te varne te antonise wt</l>
+<l>Ende oec iegen sine viande</l>
+<l>Die comen waren in sinen lande</l>
+<l>Met eere harde scoenre scaren</l>
+<l n="1010">Daer .x. legioenen in waren</l>
+<l>Ende voeren op[....]van galy[....]</l>
+<l>Iegen die persen die hem [........]</l>
+<l>Hadden[....]ende erisone</l>
+<l>Die beide waren[.....]ende cone</l>
+<l n="1015">Ende elc hadde onder dat ge[........]</l>
+<l>[...............]</l>
+<l>Die elc[...........]egioen</l>
+<l>Herodes hi heft wat doen</l>
+<l>Sal hise verdriuen altemale</l>
+<l n="1020"><milestone unit="fol" n="A4vc"/> Heme in .x. milen bi</l>
+<l>Dies toech herodes vter stede</l>
+<l>Ende alle sine liede mede</l>
+<l>Ende es ten persen wt geuaren</l>
+<l>Die heme harde bi waren</l>
+<l n="1025">Ende oec wisten die van persi</l>
+<l>Dat hen was herodes bi</l>
+<l>Ende sijn te hem wert getogen</l>
+<l>Wel alse een heer vermogen</l>
+<l>Ende sijn soe na comen mettien</l>
+<l n="1030">Dat elc den andren heft versien</l>
+<l>Den persen dat wet vorwaer</l>
+<l><edition n="119"/>Wast leet dat si comen daer</l>
+<l>Waren om dat herodes</l>
+<l>Iegen hem te stride daer es</l>
+<l n="1035">Ende oec sine liede altemale</l>
+<l>Si waenden teuoren wale</l>
+<l>Dat hi ende die sine waren</l>
+<l>Te antonise wert geuaren</l>
+<supplied resp="editor">[De rest van de kolom is vrijwel onleesbaar.]</supplied>
+<l><milestone unit="fol" n="A3ra"/> Soe dede hi halsberch ende curie</l>
+<l n="1040">Die steke dede den hertoge wie</l>
+<l>Want hi heme int herte geet</l>
+<l>Dat hi hem in stucken sneet</l>
+<l>[........]viel op derde doet</l>
+<l>Doe was dar een geruchte groet</l>
+<l n="1045">Onder ioeden ende persine</l>
+<l>Die daer hadden grote pine</l>
+<l>Ende oec streden harde wale</l>
+<l>Hi conste v niet altemale</l>
+<l>Den strijt vertellen die daer was</l>
+<l n="1050">Maer wet wel dat velt ende gras</l>
+<l>Was al van bloede nat</l>
+<l>Oec en swigic v niet dat</l>
+<l>[........]hoe menech moede</l>
+<l>Daer lach ende wentelde inden blode</l>
+<l n="1055">Her moises die[........]here</l>
+<l>Dien in therte derde sere</l>
+<l>[...]her erisoen stac ter neder</l>
+<l>[.....]gerne wreken weder</l>
+<l>Ende sere omme met snelre vart</l>
+<l n="1060">Comen geuaren te erisone wart</l>
+<l>Die sere street op die ioeden</l>
+<l>Die hem strijt weder boeden</l>
+<l><edition n="120"/>[...]sine vromelike wederstoeden</l>
+<l>Ende hem ende die sine verloeden</l>
+<l n="1065">Her moises es ane hem comen</l>
+<l>Ende heft sijn suert genomen</l>
+<l>Ende slochene op den helm bouen</l>
+<l>Ende heft hem thoet geclouen</l>
+<l>Welna toten ogen toe</l>
+<l n="1070">Her erison viel neder doe</l>
+<l>Op derde neuen dat ors sijn</l>
+<l>Dies hem veruarde menech persijn</l>
+<l>Die achterwert togen dore dat</l>
+<l>Nochtan stredense altenen bat</l>
+<l n="1075">Tote in die stat van taberie</l>
+<l>Want si gewonnen hadden die</l>
+<l>Daer sijn si gelegen binnen</l>
+<l>Tote dat si haren peis met minnen</l>
+<l><milestone unit="fol" n="A3rb"/> Beide die stede ende na dat</l>
+<l n="1080">Soe dede hise hermonteren bat</l>
+<l>Ende es weder gekeert daer na</l>
+<l>Ant stat van iothapane</l>
+<l>Dat die[............]</l>
+<supplied resp="editor">[Hier staan zeven, totaal onleesbare regels.]</supplied>
+<l>Es [..............]</l>
+<l n="1085">Ende hadde op sine [........]</l>
+<l>[...]soe vele dat hise wale[...]</l>
+<l>Nien can genomen al[........]</l>
+<l>[...]le die coninc wel</l>
+<l>Ende drusus al sonder spel</l>
+<l n="1090">.M. hondert ende[..........]</l>
+<l>Die in die zee[............]</l>
+<l>Crassus ende[..............]</l>
+<l>Brachtende des[............]</l>
+<l>Alsoe vele dat houdic wale</l>
+<l n="1095">[.............]en genen getale</l>
+<l>Hoe veelre[.........]octauiaen</l>
+<l>Orisius doet ons verstaen</l>
+<l>Dat onuertellec die scepe waren</l>
+<l>Die in orienten varen</l>
+<l n="1100"><pb n="121"/> Met augustuse den here van prise</l>
+<l>Op den keiser antonise</l>
+<l>Doe si quamen egipten bi</l>
+<l>Ende orienten vernamen si</l>
+<l>Dat antonis ende cleopatra</l>
+<l n="1105">Hem quamen met haren scepen na</l>
+<l>Alse die gene die willen striden</l>
+<l>Scardense in allen side[n]</l>
+<l>Ende daden hare scepe vort va[ren]</l>
+<l>Want die went hi was tewaren</l>
+<l n="1110">Met hen ende hebben opgetogen</l>
+<l>Haer seil soe si hoechst mogen</l>
+<supplied resp="editor"><milestone unit="fol" n="A3rc"/> [Voor 2/3] afgesneden; op enkele woorden na vrijwel onleesbaar.]</supplied>
+<supplied resp="editor"><milestone unit="fol" n="A3va"/> [Afgesneden; slechts het laatste kwart van de kolom is bewaard. Grotendeels onleesbaar.]</supplied>
+<l><milestone unit="fol" n="A3vb"/> Ontfaet ons ende oec die stede</l>
+<l>Siet ende nemt die slotele mede</l>
+<l>Ende laetse tuwen herscape boren</l>
+<l n="1115">Edel keiser vtuercoren</l>
+<l>[........]ende seide</l>
+<l>[....]ende sijnse aldus doet beide</l>
+<l>Antonis ende cleopatra</l>
+<l>[........] ic v ontfa</l>
+<l n="1120">Dos heftse octauiaen</l>
+<l>Harde vriendelike ontfaen</l>
+<l>Ende voer met hen int stat</l>
+<l>Daer hi was ontfaen bat</l>
+<l>Dan ic v vertellen can</l>
+<l n="1125">Daer bleef in die edel man</l>
+<l>Liggende alsoe lange wale</l>
+<l>Tot si weder quamen altemale</l>
+<l>Sine liede die vtwert waren</l>
+<l>Tyberius die was geuaren</l>
+<l n="1130">In egypten dat hi wan</l>
+<l>Ende bracht al den keiser an</l>
+<l>Ende settet al gemeinlike</l>
+<l>[........]onder een keiserrike</l>
+<l>Ende brachtere met hem ene partie</l>
+<l n="1135">[........]tote in alexandrie</l>
+<l><edition n="122"/>[...]dat si noch souden vort</l>
+<l>Anehoren des keisers wort</l>
+<l>[K]erle die coninc die in meden</l>
+<l>Was met sinen heere gereden</l>
+<l n="1140">Brachte onder die medine</l>
+<l>Sonder enege grote pine</l>
+<l>Want tirste dat die medine vernamen</l>
+<l>Dat die romeine op hen quamen</l>
+<l>Ende oec mede dat ware doet</l>
+<l n="1145">Antonis die here groet</l>
+<l>Ont[........]si dat verstaet</l>
+<l>[........]mochte comen al quaet</l>
+<l>Ende namen in hare hande</l>
+<l>Alle die slotele vanden lande</l>
+<l n="1150">Ende sijn iegen kerlen comen</l>
+<l>Tote daer sine hebben vernomen</l>
+<l><milestone unit="fol" n="A3vc"/> Kerle antwerde die baroen</l>
+<l>Ende dat salic gerne doen</l>
+<l>Die slotele soe nam hi tewaren</l>
+<l n="1155">Ende die gisele die mede waren</l>
+<l>[..............]wart</l>
+<l>Co[...........]op die vart</l>
+<l>Doe woude hi vort in persen varen</l>
+<l>Maer die persine wet tewaren</l>
+<l n="1160">Warens versien harde wale</l>
+<l>Ende drogen ouer een altemale</l>
+<l>Dat si vrienscap wouden maken</l>
+<l>Metten romeine in allen saken</l>
+<l>Ende senden hen gisele harde vele</l>
+<l n="1165">Datse in ernste noch in spele</l>
+<l>Nemmermeer mesdoen en souden</l>
+<l>Jegen den keiser. maer houden</l>
+<l>Ouer here euwelike</l>
+<l>Oec sendense den keiser rike</l>
+<l n="1170">Die romsce vanen dat verstaet</l>
+<l>Die wilen hadde mitridaet</l>
+<l>Verloren ende men hem daer nam</l>
+<l>Doe hi opt end in rome quam</l>
+<l>Ende oec die banieren al</l>
+<l n="1175"><pb n="123"/> Die si wonnen groet ende smal</l>
+<l>Ende [..............]</l>
+<l>Op crassuse die al[........]</l>
+<l>Dat gone datsi hem goten in</l>
+<l>Die sendense hem no meer no min</l>
+<l n="1180">Ten tekene dat sine begeren</l>
+<l>Nemmermeer te[......]deren</l>
+<l>No torlogen opt romsce rike</l>
+<l>Si willen hem dienen euwelike</l>
+<l>Dos heftse kerle oec ontfaen</l>
+<l n="1185">Ende kerle sentdese enwech saen</l>
+<l>Den keiser in alexandrie</l>
+<l>Ende kerle ende sine partie</l>
+<l>Voer henen vort toten inden</l>
+<l>Die[......]haren rade vinden</l>
+<l n="1190">Dat si willen euwelike</l>
+<l>Dienen den romscen keiser rike</l>
+<l><milestone unit="fol" n="A1ra"/> Droflike soe ginc hi doe</l>
+<l>Te octauiane toe</l>
+<l>Ende seide hem her keiser rike</l>
+<l n="1195">Ende es vermort jammerlike</l>
+<l>Quintilius alsict versta</l>
+<l>Int dlant van junonia</l>
+<l>Vanden verradere negelane</l>
+<l>Die ons meest den strijt brachte ane</l>
+<l n="1200">Darwi op junonia streden</l>
+<l>Maer hi vlo van bloetheden</l>
+<l>Doe wi int lant comen waren</l>
+<l>Ende wi en wisten warwert varen</l>
+<l>Ende oec werwert hen na riden</l>
+<l n="1205">Ende daerbi soe lietewijt liden</l>
+<l>Nv es hi doer mi int lant comen</l>
+<l>Ende heft den hertoge dlijf genomen</l>
+<l>Dat mi donct iammer al te groet</l>
+<l>Octauiaen seide sem mine doet</l>
+<l n="1210">Dats mi sekerlike suar</l>
+<l>Die boden dede hi ropen daer</l>
+<l>Sylo ende beluse mede.</l>
+<l><edition n="124"/>Die van rienen quamen verreden</l>
+<l>Ende bat hen dat men hem seide</l>
+<l n="1215">Hoe dat quam die waerheide</l>
+<l>Dat die goede quintilius</l>
+<l>Ware vermort bleuen dus</l>
+<l>Sylo seide dat sal ic v</l>
+<l>Edel here vertellen nv</l>
+<l n="1220">Gelijc dat dat ouer warheide</l>
+<l>Te rienen die selue spiere seide</l>
+<l>Diene int wout hadde bespiet</l>
+<l>Daer die hertoge sijn leuen liet</l>
+<l>Hi wart geuaen doe dandere vloen</l>
+<l n="1225">Ende ic salt v here weten doen</l>
+<l>Gelijc hi lude vore die stede</l>
+<l>Te rienen darmenne verdede</l>
+<l>Doe sloch hi ane ende seide al</l>
+<l>Die waerheit beide groet ende smal</l>
+<l n="1230">Hoe die hertoge wart vermort</l>
+<l>Ende die tue andre vort</l>
+<l>Ende oec soe seide hi hen mede</l>
+<l>Hoese al dat[............]</l>
+<l><milestone unit="fol" n="A1rb"/> Gerecht keiser ende here</l>
+<l n="1235">Want si begeren harde sere</l>
+<l>Te wrekene den hertoge fijn</l>
+<l>Ende omme tongemake sijn</l>
+<l>Ay las seide octauiaen</l>
+<l>[...] es dese goede man gedaen</l>
+<l n="1240">Sonder scout dats scade groet</l>
+<l>Si selen ontgelden sine doet</l>
+<l>Op dat ic leue cortelike</l>
+<l>Drususe riep die keiser rike</l>
+<l>Ende seide nemt hier tuwen doene</l>
+<l n="1245">Romeinen .x. legioene</l>
+<l>Ende vart in junonia</l>
+<l>Daer es vermort alsict versta</l>
+<l>Die goede hertoge quintilius</l>
+<l>V geuic dlant her drusus</l>
+<l n="1250">Ende sijt here ende hertoge daer</l>
+<l>Mar dat wet wel al ouer waer</l>
+<l>Dat gi moet negelane saen</l>
+<l><edition n="125"/>Ende alle diegene die hem bestaen</l>
+<l>Ende alle oec die[........]</l>
+<l n="1255">Die ter mort mede waren</l>
+<l>En laetten v ontgaen[.......]</l>
+<l>Doet hen hare mort[........]</l>
+<l>Drusus seide dat sal gescien</l>
+<l>Magicse metten ogen sien</l>
+<l n="1260">[D]os heft her drusus ontfaen</l>
+<l>Vanden keiser octauiaen</l>
+<l>Junonia gelijc te voren</l>
+<l>Quinctilius dede die hertoge vercoren</l>
+<l>Ende voer derwert als here cone</l>
+<l n="1265">Ende voerde met heme legione</l>
+<l>Romeinen die hi kinde goet</l>
+<l>Ende voer darwert met groten spoet</l>
+<l>Tote dat hi in junonia quam</l>
+<l>Ende tirst datment int[....]</l>
+<l n="1270">Sijn si iegen hem geuaren</l>
+<l>Ende ontfingene wel te waren</l>
+<l>Haren here ende voerdene doe</l>
+<l>Met vrouden te rienen toe</l>
+<l>Daer hi wale geseelt was</l>
+<l n="1275"><milestone unit="fol" n="A1rc"/> Gelijc si he[...........]</l>
+<l>Ende soe wa[............]</l>
+<l>Hierom me[............]</l>
+<l>Ende en best[............]</l>
+<l>Die vanden l[............]</l>
+<l n="1280">Datsi hem[............]</l>
+<l>Alsi daden w[............]</l>
+<l>Ende drusus[............]</l>
+<l>Es geuaren[............]</l>
+<l>Daer hi dede[............]</l>
+<l n="1285">Heme ende si[............]</l>
+<l>Alse hi nae[............]</l>
+<l>Want hi g[............]</l>
+<l>Quintiliusse[............]</l>
+<l>Ende sal den on[............]</l>
+<l n="1290">Ende auont[............]</l>
+<l>[...............]</l>
+<l>Ende sav[............]</l>
+<l><pb n="126"/><milestone unit="fol" n="A1va"/> Van eenen[............]</l>
+<l>Dien g[............]</l>
+<l n="1295">Hadde ge[............]</l>
+<l>Omme te ver[............]</l>
+<l>Om wat[............]</l>
+<l>[....]seide[............]</l>
+<l>Wat die s[............]</l>
+<l n="1300">Ende die nv[............]</l>
+<supplied resp="editor">[Volgen ca. 10 onleesbare regels.]</supplied>
+<l>Weder te sinen[............]</l>
+<l>Ende quam da[............]</l>
+<l>Ende vertel[............]</l>
+<l>Van node[............]</l>
+<supplied resp="editor">[Wat volgt is onleesbaar.]</supplied>
+<l n="1305"><pb n="125"/> [............]e doen</l>
+<l>[............]vrome baroen</l>
+<l>[............]waer</l>
+<l>[............]daer naer</l>
+<l>[...............]</l>
+<l n="1310">[...............]</l>
+<l>[...............]</l>
+<l>[............]niet op</l>
+<l>[............]s wel na</l>
+<l>[............]junonia</l>
+<l n="1315">[............]dese raet</l>
+<l>[............]dat verstaet</l>
+<l>[............]s gekeert</l>
+<l>[............]hertogen wert</l>
+<l>[............]saen</l>
+<l n="1320">[............]herte heren vaen</l>
+<l>[............]sekerste pas</l>
+<l>[............]was</l>
+<l><edition n="126"/>[...............]</l>
+<l>[............]junonia</l>
+<l n="1325">[............]e stede</l>
+<l>[............]sere mede</l>
+<l>[............]t</l>
+<l>[............]vart</l>
+<l>negelaen</l>
+<l n="1330">[............]ch vergaen</l>
+<supplied resp="editor">[De rest is onleesbaar.]</supplied>
+<l><milestone unit="fol" n="A1vb"/> Ende drusus die wel siet daer</l>
+<l>Dat[.........]es harde suaer</l>
+<l>Sende sine spiere te[.......]</l>
+<l>Al omme[..............]</l>
+<l n="1335">[.............]oppenbare</l>
+<l>[.............]entwaren</l>
+<l>[.............]dese gewade</l>
+<l>[.............]dese pade</l>
+<l>[........]nde[........]</l>
+<l n="1340">Oec[...........]hare viande</l>
+<l>Die boden sijn enwech geueren</l>
+<l>Die den pas te soekene geren</l>
+<l>[............]beneden</l>
+<l>Soe sochten sijt niet ende [....]</l>
+<l n="1345">Ende her negelaen die doe sach</l>
+<l>Datmen sinen dijc belach</l>
+<l>Was harde droue wet vorwaer</l>
+<l>Ende peinsde in sijn herte daer</l>
+<l>Ic mochte bi v bliuen veel te lange</l>
+<l n="1350">Soe dat ic[.........]bi beduange</l>
+<l>Hier m[............]wel</l>
+<l>Ende[.........]een euel spel</l>
+<l>Niet bet dat ic te perde vlie</l>
+<l>Ende haestelike henen tie</l>
+<l n="1355"><pb n="127"/> Cledere vander suauen maniere</l>
+<l>Dede hi ane ende harde ondiere</l>
+<l>Van gewerke soe waren si</l>
+<l>Ende aldus[.....]geloues mi</l>
+<l>[............]ten plach</l>
+<l n="1360">[.............]versach</l>
+<l>[.............]ane dede</l>
+<l>[............]groete sothede</l>
+<l>Dat een rike es in sijn lant</l>
+<l>Ende buten een arm triwant</l>
+<l n="1365">Maer emmer[......]buten rike</l>
+<l>Ende wille hi leuen thws armelike</l>
+<l>Alsoe dede negelaen</l>
+<l>E[nde] en woude van hws niet gaen</l>
+<l>Met ermoede in ander lant</l>
+<l n="1370">Dos ginc hi wech alse een triwant</l>
+<l>Tote[.....]vore in die stat</l>
+<l><milestone unit="fol" n="A1vc"/> Soe[..........]negelaen gesent</l>
+<l>Vanden [............]ent</l>
+<l>Van [....] ende doen negelane</l>
+<l n="1375">[..........] hebben begane</l>
+<l>Om te bespiene in dat heere</l>
+<l>[........]dat orloge ter were</l>
+<l>Nemt hier v[........] want si</l>
+<l>[........]hebben gegeuen mi</l>
+<l n="1380">Doe seide die here soe comt naer</l>
+<l>Doe ginc hi int scepe daer</l>
+<l>Ende doe hi quam den perde bi</l>
+<l>Reicte negelaen geloues mi</l>
+<l>.Ij. penninge die selueren waren</l>
+<l n="1385">Die veschere hi sach tewaren</l>
+<l>Dat sine clede groet ende smal</l>
+<l>Met penningen waren doresteken al</l>
+<l>Doe peinsde hi in sijn herte wel</l>
+<l>Dat die triwant meinde el</l>
+<l n="1390">Dan vte comen omme spien</l>
+<l>Doe hiet hi[....]te lande[....]</l>
+<l>Waer hi best op te[........]</l>
+<l>Doe sach hi te lande wert</l>
+<l>Ende[...........] verheuen</l>
+<l n="1395"><pb n="128"/> [.........]negelane gegeuen</l>
+<l>Op thoet enen slach soe suaer</l>
+<l>Dat hem die hersenen scieden daer</l>
+<l>Ende in dat scep viel ter neder</l>
+<l>Die veschere hi hem sloch weder</l>
+<l n="1400">Soe dat hi[......] was doet</l>
+<l>[........]valscheit groet</l>
+<l>Her negelaen ontgouden wale</l>
+<l>Die gene[........] altemale</l>
+<l>Dat hi[..........]een cater</l>
+<l n="1405">Darna soe warphine int water</l>
+<l>Ende ontnaide sine cledere al</l>
+<l>Dat gewen en was niet smal</l>
+<l>Dat die veschere heft gewonnen</l>
+<l>Op dat hijt sal verbergen connen</l>
+<l n="1410">Maer welde die es alsoe groet</l>
+<l>Te verdragene dat verstoet</l>
+<l n="1412">Dat cume sal sine noet</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>

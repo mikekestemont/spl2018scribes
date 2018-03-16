@@ -1,0 +1,462 @@
+<?xml version='1.0'?><!DOCTYPE TEI.2 PUBLIC '-//TEI P4//DTD Main Document Type//EN' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd' [<!ENTITY % TEI.prose 'INCLUDE'><!ENTITY % TEI.linking 'INCLUDE'><!ENTITY % TEI.figures 'INCLUDE'><!ENTITY % TEI.analysis 'INCLUDE'><!ENTITY % TEI.corpus 'INCLUDE'><!ENTITY % TEI.XML 'INCLUDE'><!NOTATION TEI-XML PUBLIC 'TEI P4' 'http://www.tei-c.org/Guidelines/DTD/tei2.dtd'><!-- internal INL dtd --><!ELEMENT b (#PCDATA)><!ELEMENT l (#PCDATA | b)*><!-- end of internal INL dtd -->]><TEI.2><!--<ENTRY id="i1024"><teiHeader><fileDesc><titleStmt><title>Willem van Oringen</title>
+</titleStmt>
+<interpGrp type="pubYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="witnessYear_from"><interp value="1300"/></interpGrp>
+<interpGrp type="pubYear_to"><interp value="1350"/></interpGrp>
+<interpGrp type="witnessYear_to"><interp value="1350"/></interpGrp>
+<TITEL>Willem van Oringen</TITEL>
+<author>Clays van Haerlem</author>
+<AARD>Rijm</AARD>
+<BRON nr="K125">Gent, Bibliotheek der Rijksuniversiteit, 2749,10 (fragm.)</BRON>
+<DATUM>1300-1350</DATUM>
+<OMVANG>429 verzen</OMVANG>
+<BRON.OPM>Gedeelte van een dubbelblad; per bladzijde 3 kolommen. Onder- en bovenaan zijn de bladen zodanig besnoeid dat een kolom nog 34-37 regels telt (oorspronkelijk aantal regels onbekend). Van kol. 1rc ontbreekt de rechterhelft, van kol. 1va het begin van de meeste verzen; van kol. 2rc is rechts het grootste deel, van kol. 2va de linkerhelft of meer van de verzen afgesneden.</BRON.OPM>
+<EDITIE>G. Kalff: Middelnederlandsche epische fragmenten, met aanteekeningen. Groningen, 1885, 99-119 (108-119).</EDITIE>
+<STATUS>Kritisch</STATUS>
+<BRONMNW>411.4</BRONMNW>
+<EDITIE.OPM>De Middelnederlandse tekst is een bewerking van het 12e-eeuwse chanson de geste Le moniage Guillaume, waarvan een tweetal redacties bekend zijn. Voorafgaand aan de Middelnederlandse tekst heeft Kalff uit de oudste van deze twee redacties de verzen overgenomen waarin Willems strijd met de rovers is beschreven (vs. 1-208 van de Middelnederlandse bewerking). De Middelnederlandse tekst gaat volgens Kalff overigens terug op de jongere redactie.</EDITIE.OPM>
+<BRONNEN>Gent, Bibliotheek der Rijksuniversiteit, 2749,10 (fragm.)</BRONNEN>
+</fileDesc>
+</teiHeader>
+--><text>
+<l><pb n="108"/><milestone unit="fol" n="1ra"/><scribe id="C"/> Met sinen knape vor hi sire strate,</l>
+<l>Hi haesten uter maten sere,</l>
+<l>Ende soude dien abt sinen here</l>
+<l>Gerne die vessce te tide bringen,</l>
+<l n="5">Wils hem god gehingen.</l>
+<l>Soe lange reet die edele man,</l>
+<l>Dat hi int dal ten Sigeren quam.</l>
+<l>Hi reet onder die gebr[.]chte groet</l>
+<l>Ende hi en duchte en gene noet;</l>
+<l n="10">Mar die knape hadde vaer;</l>
+<l>Dat seggic u over waer;</l>
+<l>Hi waender wel doet bliuen</l>
+<l>Ende datmenne soude ontliuen.</l>
+<l>Doe sprac hi tien edelen man</l>
+<l n="15">Harde vervarlike an:</l>
+<l>"Here, ic en can niet geduren</l>
+<l>Van vare terre uren."</l>
+<l>Ten knape sprac hi vriendelike:</l>
+<l>"Vrient, ic biddu hertelike,</l>
+<l n="20">Dat gi een liedekijn singet</l>
+<l>Dar gi u seluen mede bringet</l>
+<l>Uten vare dar gi in sijt</l>
+<l>Ende mi dar mede verblijt,</l>
+<l>Ic hope an gode, die ons geboet,</l>
+<l n="25">Wi en selen hebben gene noet."</l>
+<l>Alse dat die knape versiet,</l>
+<l>"Here", seit hi, "oft gijt gebiet,</l>
+<l>Oft gi ember wilt, dat si,</l>
+<l>Ic sal singen, grave vri,</l>
+<l n="30">Ine souts u niet werren dorren."</l>
+<l>Mettien ginc hi een liedekijn porren</l>
+<l>Al soetelike te haluen uut,</l>
+<l>Hi en dorste maken geen geluut.</l>
+<l>Willem horet ende sprac doe</l>
+<l n="35">Sinen knape vriendelijc toe:</l>
+<l>"Vrient [........]</l>
+<l>[...............]</l>
+<l><pb n="109"/><milestone unit="fol" n="1rb"/> Die mordenaers waren bine desen</l>
+<l>Comen ende hadden roof gedaen</l>
+<l>Ende si hebben den sanc verstaen.</l>
+<l n="40">Si quamen van op dien dach,</l>
+<l>Dar si waren om hare beiach</l>
+<l>Ende enen edelen man hadden doet</l>
+<l>Ende sine maisnide ende syn conroet</l>
+<l>Ende sine kinder; des gelike</l>
+<l n="45">Si plagen dagelike.</l>
+<l>Si brachten tgoet, dat sine was,</l>
+<l>Nimanne en wondere das,</l>
+<l>Mordenaren noch oec dief</l>
+<l>En hadden nimanne soe lief,</l>
+<l n="50">Hi en souden om clene dinc doden,</l>
+<l>Si en latens hem niet verbloden.</l>
+<l>Si waren ten tafflen geseten</l>
+<l>Ende souden hebben geten;</l>
+<l>Dar was spise gnoech,</l>
+<l n="55">Dar af hadden si har gevoech.</l>
+<l>XV. sater tenen ringe,</l>
+<l>Sijn paert hadde elc sonderlinge,</l>
+<l>Oft teneger noet quame,</l>
+<l>Dat elc tsine vinge ende name</l>
+<l n="60">Ende hare wapine dar bi;</l>
+<l>Aldus te gadre saten si.</l>
+<l>Die meester was Gonnart geheten,</l>
+<l>Men conste genen fellere geweten,</l>
+<l>Noch die conste stellen bat,</l>
+<l n="65">Want hem noit geen man ontsat</l>
+<l>Noch enne ontfarme in gere maniere;</l>
+<l>Dese was soe putertiere,</l>
+<l>God die motene verwaten</l>
+<l>Ende alle sine gesellen haten.</l>
+<l n="70">Si hebben gehort sonder wanc</l>
+<l>Van des graven knape dien sanc</l>
+<l><milestone unit="fol" n="1rc"/> Bi al dat icker an gem[......]</l>
+<l>Hi comt van ere br[.........]</l>
+<l>Dar hi hevet wasdom [........]</l>
+<l n="75"><pb n="110"/> Alsi hebben II. scellin......]</l>
+<l>Sijn si vele blidere [........]</l>
+<l>Dan oft I. hertoge of [grave]</l>
+<l>Hadde M. marc van [.........]</l>
+<l>Gonnart seide: Ic h[.......]</l>
+<l n="80">Wonder laet dese re[.......]</l>
+<l>Men sal hem nemen d[......]</l>
+<l>Ic weet wel dat men [........]</l>
+<l>Dicke perde di si ri[den]</l>
+<l>Cledere, geelt, dire [gesmiden]</l>
+<l n="85">Hoege liede dar si [........]</l>
+<l>Gaet wech, roeften [........]</l>
+<l>Die VII saten [..........]</l>
+<l>Ende reden d[..........]</l>
+<l>Die VIII. bleven [.........]</l>
+<l n="90">Die VII. voren sonder v[...]</l>
+<l>Tote beneden ere [..........]</l>
+<l>Dar si dien grave st[.........]</l>
+<l>Ende sinen knape d[..........]</l>
+<l>Si waren blide sere [.........]</l>
+<l n="95">Omdat I. man was [.........]</l>
+<l>Si waren dapper e[..........]</l>
+<l>Si reden met snelre [vaert]</l>
+<l>Dapperlike dare [waert;]</l>
+<l>Elc riep: "Moenc be[.....]</l>
+<l n="100">Ende maect u henen v[.....]</l>
+<l>Laet ons cledere ende g[elt]</l>
+<l>Ende rumet al naect d[at velt]."</l>
+<l>"Gerne", seide Willem, "ma[...]</l>
+<l>Sonde, seit hi toten m[....]</l>
+<l n="105">Want ic ben van ordinen [.....]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="1va"/> [M]ettien hi sgraven knape sach,</l>
+<l>[M]et crachte sine namen</l>
+<l>[E]nde banden hem te samen</l>
+<l>[B]eide voete ende hande,</l>
+<l n="110">[S]i daden hem grote scande;</l>
+<l>[S]i worpene in ene gracht,</l>
+<l><edition n="111"/>[D]atter Willem niet jegen vacht.</l>
+<l>Doe riep die knape: "wach arme!" sere,</l>
+<l>"Ay God, helpe minen here,</l>
+<l n="115">[D]ie die beste es, die je wart geboren;</l>
+<l>[M]i gaet naerre sijn toren</l>
+<l>[D]an mijn seer, overwar."</l>
+<l>[D]oe sprac die grave dar:</l>
+<l>"[G]i heren, gi hebt onrecht!</l>
+<l n="120">[G]eeft mi weder minen knecht,</l>
+<l>[S]oe dodi utermaten wel.</l>
+<l>[Jegen] mi sidi te fel,</l>
+<l>[E]nde nemt dat gi wilt van minen goede,</l>
+<l>[D]ies biddic u op oetmoede."</l>
+<l n="125">Gonnart, die mester antworde;</l>
+<l>Alse hi den grave spreken horde:</l>
+<l>"[A]nderssijns moetti singen,</l>
+<l>[E]er gi mi heden selt ontspringen.</l>
+<l>[B]i dien here, die mi geboet,</l>
+<l n="130">[T]en sal bliven clene no groet,</l>
+<l>Gi sijt hir qualike geraect,</l>
+<l>Gi moet van ons sceden naect;</l>
+<l>Nochtan suldi cume dlijf ontdragen."</l>
+<l>Willem begans qualike behagen;</l>
+<l n="135">Hi en hadde no knief no swert,</l>
+<l>Dar hi hem mede hadde verwert</l>
+<l>Mochte hebben in dien strijt.</l>
+<l>Opdat God sijns niet mijt,</l>
+<l>Hi blijfter sonder twivel doet</l>
+<l>[...............]</l>
+<l n="140"><milestone unit="fol" n="1vb"/> Dat mi hellinc no penninc es bleven.</l>
+<l>Laet mi gaen, soe doedi wale."</l>
+<l>Die meester seide met derre tale:</l>
+<l>"Hets triwantise, dat gi spreket,</l>
+<l>Ic sie wel, dat u therte gebreket</l>
+<l n="145">Tonswaert in quaden moede;</l>
+<l>Wardi wel op uwe hoede,</l>
+<l>Ende gi wapine hadt an,</l>
+<l>Gi wart een herde starc man,</l>
+<l>Gi en ontsaget ons allen niet,</l>
+<l n="150">Als men an u merct ende siet."</l>
+<l>Die grave loech alse hijt horde;</l>
+<l>Them selven sprac hi mettien worde:</l>
+<l>"Du mochts wel seggen waer,</l>
+<l><edition n="112"/>Waric gewapent, ic soudi vaer</l>
+<l n="155">Ende dinen gesellen doen,</l>
+<l>Eer si mi meer ontvloen."</l>
+<l>Echt bat Willem die vrie,</l>
+<l>Genade dor Sente Marie,</l>
+<l>Dat si sijns souden ontfarmen</l>
+<l n="160">Ende sinen knape lieten geharmen.</l>
+<l>Die meester antworde gereet:</l>
+<l>"Gi selt u selven, Godeweet,</l>
+<l>Al moedernaect ontcleden,</l>
+<l>Eer gi van ons selt sceden."</l>
+<l n="165">Willem seide op die stonde:</l>
+<l>"Bi Gode, gi daet sonde."</l>
+<l>Die meester wert harde gram;</l>
+<l>Hi seide: "swiget des, goet man,</l>
+<l>Gi selt mi die covele laten,</l>
+<l n="170">Ende uwe pelse ende gaet uwer straten,</l>
+<l>Dar toe boten ende cousen mede;</l>
+<l>Dus soe mogedi hebben vrede;</l>
+<l>Ende dien goeden stamijn</l>
+<l>Hi moet verdronken sijn."</l>
+<l>[...............]</l>
+<l n="175"><milestone unit="fol" n="1vc"/> Doe sprac Willem die baroen:</l>
+<l>"Gi sijt te scerne gedreven;</l>
+<l>Mijn broecrime es mi bleven;</l>
+<l>Mine gespe es beter dan al tgoet,</l>
+<l>Dat gi mi nemen doet.</l>
+<l n="180">Die stene, die daer sijn ane,</l>
+<l>Costen na minen wane</l>
+<l>XXX. marc van finen goude.</l>
+<l>Dar sijn mirauden an menechfoude:</l>
+<l>C. marc hads die goutsmet.</l>
+<l n="185">Niman en mochten maken bet:</l>
+<l>Hi coste M. pont al te male."</l>
+<l>Wat holper ombe lange tale?</l>
+<l>Elkerlijc begerden sere.</l>
+<l>Die meester, hare alre here,</l>
+<l n="190">Seide: "Die broecrime es mijn.</l>
+<l>Doe antworde die grave fijn</l>
+<l>"Ja, seldi mi laten bloet,</l>
+<l>Dat ware u lachter al te groet."</l>
+<l>"Nenic", seide die domme,</l>
+<l n="195">"Ic sal u den minen doen ombe;</l>
+<l><edition n="113"/>Geven, des wissele wi.</l>
+<l>Willem seide: "Gi selten mi</l>
+<l>Nemen, op dat gine hebben selt</l>
+<l>Nembermer in uwer gewelt."</l>
+<l n="200">Gonnart beette van dien perde</l>
+<l>Ende haestem darwart herde.</l>
+<l>Hi knielde vor dien degen goet</l>
+<l>Ende waenden metter spoet</l>
+<l>Dien broecrime hebben genomen;</l>
+<l n="205">God danc, hets anders comen.</l>
+<l>Alse doe die grave sach</l>
+<l>Vor hem liggen, diene al dien dach</l>
+<l>Hem gereit sijn ongevoech,</l>
+<l>Hief hi die vust op, ende sloech</l>
+<l n="210"><milestone unit="fol" n="2ra"/> Ende dies en hadde hi bore wat,</l>
+<l>Nemare bi maten syn vat.</l>
+<l>Hi hadde te dien stonden,</l>
+<l><edition n="114"/>Grote pine van sinen wonden.</l>
+<l>Bander side dogedi mee:</l>
+<l n="215">Dar quam water in van der zee,</l>
+<l>Dat was gemaect met condute</l>
+<l>Ten keere te lopene in ende ute</l>
+<l>Dar sat hi dicke wile inne,</l>
+<l>Toter borst ende toten kinne,</l>
+<l n="220">Dat dede sinen wonden soe seer,</l>
+<l>Hi en wanes genesen nembermeer.</l>
+<l>Dus was hi nacht ende dach,</l>
+<l>Dies haddi swaer verdrach.</l>
+<l>VII. jaer soe lach hi daer</l>
+<l n="225">In gevancnesse herde swaer</l>
+<l>Met groter clagen ende met weene;</l>
+<l>Dar op achten Serrasine clene;</l>
+<l>Mar God, die alle dinc versiet,</l>
+<l>En lietene in dien rowe niet,</l>
+<l n="230">Al gedogedijt menegen dach;</l>
+<l>Nu hort hoe hine versach.</l>
+<l>(Dat u onse here lone</l>
+<l>Ene aventure scone,</l>
+<l>Ende van dien boeke dbeste te voren</l>
+<l n="235">Ende van den walsce ende vercoren,)</l>
+<l>Hoe Willem vor vort an</l>
+<l>Hi wert bi enen edelen man</l>
+<l>Verloest ende bi enen ridder fier,</l>
+<l>Geheten was hi Timoier:</l>
+<l n="240">Landridas hordicken nomen,</l>
+<l>Ende was van sinen geslechte comen,</l>
+<l>Alse gi hier na selt horen;</l>
+<l>Mar ic telle van Willem voren,</l>
+<l>Die in dien kerkere lach,</l>
+<l n="245">Ende hadde swar verdrach</l>
+<l><milestone unit="fol" n="2rb"/> Doe sprac die grave vri:</l>
+<l>"Horenkindere, gaet van mi;</l>
+<l>Ic sweert u allen, Godeweet,</l>
+<l>Hir an leget u grote leet.</l>
+<l n="250">Magic noch van hir ontgaen,</l>
+<l>Ic sal u doen hangen, sonder waen,</l>
+<l><edition n="115"/>Ende Synagoene uwen coninc</l>
+<l>Salic doen in warre dinc</l>
+<l>Breken op een rat, ende slechten</l>
+<l n="255">Dese stat sonder wedervechten."</l>
+<l>Serrasinen logen sere,</l>
+<l>Alsi horden dreigen dien here;</l>
+<l>Si seiden: "Dreiget al sochte, heer grave,</l>
+<l>U en can gehelpen scat no have,</l>
+<l n="260">Dat gi nembermeer ute comt."</l>
+<l>Die grave sprac: "Gi syt verdomt;</l>
+<l>Swiget hir af al stille!</l>
+<l>Het geet al an Gods wille."</l>
+<l>Die grave was van hongere bleec,</l>
+<l n="265">Dat hi hem selven niet geleec;</l>
+<l>Engeens dincs haddi gnoech,</l>
+<l>Sonder leets ende ongevoech.</l>
+<l>Hi en was gedwegen no gescoren,</l>
+<l>Ru was hi achter ende voren.</l>
+<l n="270">Alse hi soude gaen slapen daer,</l>
+<l>Clam hi hoge op een pilaer.</l>
+<l>Hi sliep dar, soe hi best mochte;</l>
+<l>Ander bedde men hem niet brochte.</l>
+<l>Tenen tide soe sliep hi,</l>
+<l n="275">Die grave edel ende vri,</l>
+<l>Ende alse hi slapen soude,</l>
+<l>Quam die ingel boude,</l>
+<l>Dien God dar selven sende,</l>
+<l>Ende troestene int elende,</l>
+<l n="280">Willem, dien edelen man.</l>
+<l>Tierst hine genesen began</l>
+<l>Van al sine wonden</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2rc"/> Dat h[............]</l>
+<l>Tote d[...........]</l>
+<l n="285">Hir [............]</l>
+<l>Ende [............]</l>
+<l>Tote da[..........]</l>
+<l>Van lan[..........]</l>
+<l>Hi was [............]</l>
+<l n="290">Het we[..........]</l>
+<l><edition n="116"/>Alse w[...........]</l>
+<l>Ende hi [...........]</l>
+<l>En w[............]</l>
+<l>Si w[...........]</l>
+<l n="295">Dat si [............]</l>
+<l>Dese [...........]</l>
+<l>Dat [............]</l>
+<l>Mi [.............]</l>
+<l>Met [.............]</l>
+<l n="300">Dar [............]</l>
+<l>Wan[............]</l>
+<l>Ende g[...........]</l>
+<l>Ende [............]</l>
+<l>Hi [............]</l>
+<l n="305">Dar [.............]</l>
+<l>Ende [............]</l>
+<l>Ende [............]</l>
+<l>Diet [............]</l>
+<l>Doe [..............]</l>
+<l n="310">Hie[.............]</l>
+<l>Hi [............]</l>
+<l>Ute[.............]</l>
+<l>Si h[............]</l>
+<l>Ende [.............]</l>
+<l n="315">Die [............]</l>
+<l>Mar [.............]</l>
+<l>Die [.............]</l>
+<l>Dede [............]</l>
+<l>Te p[.............]</l>
+<l>[...............]</l>
+<l n="320"><milestone unit="fol" n="2ba"/> [...]el galioete quamer toe</l>
+<l>[...]at si waren ontvloen doe</l>
+<l>[...] in III. scepe mee,</l>
+<l>[...] die in die zee</l>
+<l>[...]im te rovene plagen,</l>
+<l n="325">[...] si die kerstine sagen</l>
+<l>[...] doe dar wert</l>
+<l>[...]e worden ververt,</l>
+<l>[...]eide: "Wi sijn verloren</l>
+<l>[...]u herde wel te voren</l>
+<l n="330">[...] wi ons verweren</l>
+<l>[...]et selen ons deren</l>
+<l>[...]lide gereet</l>
+<l><edition n="117"/>[...]weren, godweet,</l>
+<l>[...] si hare wapine ane,</l>
+<l n="335">[...] sere te slane</l>
+<l>[...]rde gedichte</l>
+<l>[...]hten niet lichte</l>
+<l>[...]lioete was vele</l>
+<l>[...]nc uten spele</l>
+<l n="340">[...] verslagen</l>
+<l>[...]an sinen magen</l>
+<l>[...]nen stonden</l>
+<l>[...]ebonden</l>
+<l>[...] dar bi gesciede</l>
+<l n="345">[...] ons liede</l>
+<l>[...]r die ze</l>
+<l>[...]dene wee</l>
+<l>[...]agen</l>
+<l>[...]e plagen</l>
+<l n="350">[...] gevaen</l>
+<l>[...]aliote gedaen</l>
+<l>[...] kort sekerlike</l>
+<l>[...]storie van erttrike</l>
+<l>[...]ste mede</l>
+<l n="355">[...] warhede</l>
+<l>[...]ie grave</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2vb"/> Si sijn duchtech ende coene,</l>
+<l>War dats es te doene.</l>
+<l>Siedi genen sconen langen?</l>
+<l n="360">Hi werdem herde strangen</l>
+<l>Ende hi es harre alre here:</l>
+<l>Hi es duchtech herde sere.</l>
+<l>Ic wane hi van hogen geslechte si;</l>
+<l>Ant gelaet donckes mi.</l>
+<l n="365">Nu doeter uwen wille mede;</l>
+<l>Rechter over, na uwen sede!"</l>
+<l>Synagoen seits hem groten danc</l>
+<l>Dar na hietse eer iet lanc</l>
+<l>Boven leiden in die zale.</l>
+<l n="370">Hi sette Landri in tale,</l>
+<l>Hi seide: "Vrient, segt mi,</l>
+<l>Ute wat lande sidi?</l>
+<l><edition n="118"/>Sidi porters, doet mi weten,</l>
+<l>Ofte ridders geheten?</l>
+<l n="375">Segt mi die warheit al uut,</l>
+<l>En heles mi niet overluut."</l>
+<l>Landri sprac doe voren,</l>
+<l>Dat ment mochte horen,</l>
+<l>Ende seide: "wi sijn coepliede,</l>
+<l n="380">Ende varen achter lande ombe miede.</l>
+<l>Wi voren lakene menegertiere,</l>
+<l>Some slichte, some diere,</l>
+<l>Some gele ende some grone,</l>
+<l>Scarlakene ende singlatoene,</l>
+<l n="385">Ende dar toe ginbere ende cruut,</l>
+<l>Selc alse coepliede bringen uut;</l>
+<l>Soe doewi peper ende comijn;</l>
+<l>Alle willewi comans sijn;</l>
+<l>Nu hebbewi verloren onse goet,</l>
+<l n="390">Dies siewi drove in onsen moet</l>
+<l>Ende en weten wies anevaen.</l>
+<l>Soete here, laet ons verstaen,</l>
+<l>Ongescaet ende [..........]</l>
+<l>[...............]</l>
+<l><milestone unit="fol" n="2vc"/> Gi en segt mi die warhede</l>
+<l n="395">Ic sal u hangen sonder bede,</l>
+<l>Ende ic sal oec weten wel,</l>
+<l>Seggedi mi logene oft iet el;</l>
+<l>Mar seggedi mi waer,</l>
+<l>Van mi en hebt genen vaer,</l>
+<l n="400">Gi en latet hir lijf no let,</l>
+<l>Dat sweric u bi mire wet;</l>
+<l>Daer toe sal ic u doen vercleeden,</l>
+<l>Ende uten lande geleden,</l>
+<l>Ende goede perde geven,</l>
+<l n="405">Ende penninge, daar gi bi moget leven,</l>
+<l>Tes gi comt te lande."</l>
+<l>Li Timonier sprac te hande:</l>
+<l>"Here, soe seggict u dan.</l>
+<l>Ic ben ridder ende vri man,</l>
+<l n="410">Ende dese andren die gelike;</l>
+<l>Wi sijn geboren ute Vrancrike."</l>
+<l>"Van wat geslechte?" sprac Synagoen,</l>
+<l><edition n="119"/>Nu en lieget niet, baroen."</l>
+<l>"Here, nenic sekerlike;</l>
+<l n="415">Van den mogensten van Kerstijnrike:</l>
+<l>Mijn oem was Aymerijn</l>
+<l>Van Nerbone die grave fijn,</l>
+<l>Ende van Polien Reinier,</l>
+<l>Van Beaulande die ridder fier.</l>
+<l n="420">Mi bestaet menech edel man,</l>
+<l>Die ic genomen niet en can.</l>
+<l>Mile es mi also na belanc;</l>
+<l>Aymerijns kindere, sonder wanc,</l>
+<l>Sijn mijn oems kinder,</l>
+<l n="425">Beide merre ende minder,</l>
+<l>Ende Willem van Oringen,</l>
+<l>Dien die heidine nie consten dwingen,</l>
+<l>Was dalre liefste man,</l>
+<l n="429">Die ic ie levende [.........]</l>
+<l>[...............]</l>
+</text>
+<!--</ENTRY>
+--></TEI.2>
