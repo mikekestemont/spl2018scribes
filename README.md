@@ -3,6 +3,7 @@
 
 This repository contains the code (`lancelot.ipynb`), illustrations (`figures` folder) and data (`data folder`) for the paper: Mike Kestemont, 'Aan de taal kent men de hand. Talige kopiistherkenning en de scribenten van de Lancelotcompilatie', soon to be published in: [*Spiegel der Letteren*](http://www.spiegelderletteren.be/) [2018].
 
+## Data
 The data, mostly in their version known from the *Cd-rom Middelnederlands* (*Cd-rom Middelnederlands. Woordenboek en teksten*. Den Haag etc., 1998) has been digitized from the following sources:
 -   L. de Wachter, R. Schlusemann, R. Sleiderink, J. van Craenenbroeck & J. Janssens (ed.), Fragmenten van de Roman van Heinric en Margriete van Limborch. Peeters, 2001 (Antwerpse studies over Nederlandse literatuurgeschiedenis, 6).
 - W.E. Hegman, ‘De fragmenten van een zogen. “Roman van Caesar”, zijnde een Mnl. berijmde Romeinse geschiedenis’, in: Spiegel der Letteren, 18, 2, 1976, 81-131.
@@ -15,3 +16,13 @@ The data, mostly in their version known from the *Cd-rom Middelnederlands* (*Cd-
 
 Apart the *Limborch*-fragment, these texts and editions are now in the public domain or already available online elsewhere.
 
+## Main Dependencies
+
+All code is contained in the Jupyter notebook `lancelot.ipynb` and was written for Python 3.6. We extensively rely on the following packages:
+- Matplotlib
+- Seaborn
+- Numpy
+- Scipy
+- Scikit-learn
+- lxml
+- Pandas
